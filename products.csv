@@ -1,0 +1,301 @@
+product_id,product_category,base_price,avg_rating,review_count,supplier
+1001,Electronics,748.81,4.3,1767,AlphaCo
+1002,Books,21.19,4.0,1894,NovaSupply
+1003,Electronics,619.53,4.4,2467,BlueCart
+1004,Electronics,664.28,4.9,1343,BlueCart
+1005,Home & Kitchen,246.92,4.0,2744,BlueCart
+1006,Electronics,354.79,4.0,2421,AlphaCo
+1007,Books,36.08,4.9,340,AlphaCo
+1008,Books,18.97,4.5,2464,BlueCart
+1009,Home & Kitchen,281.29,3.9,1714,AxisTrade
+1010,Electronics,267.79,4.4,1032,NovaSupply
+1011,Beauty,18.4,3.9,803,AlphaCo
+1012,Home & Kitchen,282.43,3.9,852,NovaSupply
+1013,Beauty,41.84,4.2,1034,AxisTrade
+1014,Fashion,48.23,3.1,1487,BlueCart
+1015,Sports,196.38,3.2,1989,AlphaCo
+1016,Sports,92.06,3.8,734,AxisTrade
+1017,Sports,165.45,3.6,1937,NovaSupply
+1018,Books,8.15,4.3,1718,BlueCart
+1019,Home & Kitchen,32.81,3.6,524,BlueCart
+1020,Beauty,107.71,3.4,2919,BlueCart
+1021,Home & Kitchen,99.98,4.8,156,AxisTrade
+1022,Home & Kitchen,331.61,4.0,618,AxisTrade
+1023,Books,43.22,4.1,1589,BlueCart
+1024,Home & Kitchen,293.82,3.4,1050,AxisTrade
+1025,Beauty,63.51,3.8,2995,AlphaCo
+1026,Electronics,601.67,4.2,1645,AxisTrade
+1027,Electronics,889.36,3.5,2695,AxisTrade
+1028,Home & Kitchen,185.86,4.3,466,BlueCart
+1029,Beauty,108.69,3.8,1689,BlueCart
+1030,Home & Kitchen,61.14,4.0,278,AxisTrade
+1031,Electronics,560.23,3.8,44,PrimeSource
+1032,Electronics,159.41,5.0,2005,BlueCart
+1033,Fashion,127.51,4.1,1494,BlueCart
+1034,Sports,213.5,3.6,1660,NovaSupply
+1035,Electronics,573.57,4.5,2547,BlueCart
+1036,Beauty,115.64,3.5,1490,AlphaCo
+1037,Home & Kitchen,46.85,4.2,1767,BlueCart
+1038,Home & Kitchen,67.24,3.1,2145,PrimeSource
+1039,Home & Kitchen,201.09,3.4,1927,NovaSupply
+1040,Sports,78.41,4.2,2881,AlphaCo
+1041,Electronics,436.61,4.5,917,AxisTrade
+1042,Home & Kitchen,259.39,4.2,385,AxisTrade
+1043,Books,36.35,4.0,2984,BlueCart
+1044,Home & Kitchen,58.18,3.9,374,AlphaCo
+1045,Electronics,359.0,3.4,1298,BlueCart
+1046,Beauty,60.46,3.7,1510,NovaSupply
+1047,Beauty,120.81,3.9,1230,NovaSupply
+1048,Sports,199.29,4.6,155,PrimeSource
+1049,Fashion,35.37,4.3,898,BlueCart
+1050,Fashion,176.89,3.2,936,AlphaCo
+1051,Books,34.91,4.3,103,PrimeSource
+1052,Sports,201.85,3.9,1174,AxisTrade
+1053,Home & Kitchen,281.12,3.8,236,AxisTrade
+1054,Sports,135.79,4.4,816,AlphaCo
+1055,Fashion,126.92,4.6,1764,NovaSupply
+1056,Electronics,158.76,4.6,2445,BlueCart
+1057,Books,22.95,3.7,721,BlueCart
+1058,Home & Kitchen,146.09,3.9,2605,BlueCart
+1059,Fashion,35.14,4.3,2418,PrimeSource
+1060,Beauty,59.91,4.6,2893,BlueCart
+1061,Fashion,25.48,3.9,2885,AlphaCo
+1062,Sports,137.26,4.0,2938,AlphaCo
+1063,Books,41.21,3.5,1302,AlphaCo
+1064,Electronics,185.63,3.5,525,PrimeSource
+1065,Fashion,84.8,4.5,2142,AxisTrade
+1066,Home & Kitchen,348.94,4.8,2497,PrimeSource
+1067,Beauty,34.45,4.1,896,NovaSupply
+1068,Beauty,64.86,4.6,1082,BlueCart
+1069,Home & Kitchen,249.19,4.3,2210,NovaSupply
+1070,Electronics,596.25,3.8,2668,PrimeSource
+1071,Beauty,59.26,4.3,1028,AlphaCo
+1072,Fashion,105.48,4.9,1381,AxisTrade
+1073,Books,16.35,4.1,445,AlphaCo
+1074,Books,40.39,4.9,2358,AxisTrade
+1075,Beauty,107.74,2.8,2791,PrimeSource
+1076,Beauty,11.23,4.5,651,NovaSupply
+1077,Books,35.21,4.1,1035,PrimeSource
+1078,Sports,211.63,4.0,1767,PrimeSource
+1079,Home & Kitchen,154.15,4.1,1295,AlphaCo
+1080,Home & Kitchen,265.33,3.1,2284,BlueCart
+1081,Electronics,868.98,4.0,2787,PrimeSource
+1082,Home & Kitchen,160.24,4.3,2203,AxisTrade
+1083,Books,32.46,4.8,188,PrimeSource
+1084,Sports,145.64,3.8,561,PrimeSource
+1085,Fashion,77.55,3.7,1038,PrimeSource
+1086,Electronics,317.85,3.8,1263,PrimeSource
+1087,Electronics,847.04,4.6,1237,AxisTrade
+1088,Electronics,84.23,4.3,362,PrimeSource
+1089,Beauty,110.03,3.8,1942,BlueCart
+1090,Fashion,45.06,4.4,1814,NovaSupply
+1091,Books,24.06,4.1,179,NovaSupply
+1092,Sports,179.89,4.6,1103,AlphaCo
+1093,Sports,50.58,3.7,1652,PrimeSource
+1094,Home & Kitchen,26.98,3.9,652,AxisTrade
+1095,Beauty,65.86,3.9,47,BlueCart
+1096,Sports,79.46,3.4,1036,AxisTrade
+1097,Electronics,788.62,4.2,437,PrimeSource
+1098,Beauty,39.82,4.2,172,AxisTrade
+1099,Books,23.77,4.1,1270,NovaSupply
+1100,Books,25.73,4.0,1164,AxisTrade
+1101,Home & Kitchen,265.77,3.4,883,AxisTrade
+1102,Sports,80.54,3.9,471,AlphaCo
+1103,Home & Kitchen,139.26,3.9,2427,PrimeSource
+1104,Beauty,125.34,3.7,2480,AlphaCo
+1105,Electronics,560.98,4.0,321,PrimeSource
+1106,Beauty,103.7,4.3,800,BlueCart
+1107,Beauty,82.84,5.0,1514,BlueCart
+1108,Home & Kitchen,186.28,4.2,104,NovaSupply
+1109,Beauty,17.9,4.2,794,BlueCart
+1110,Sports,59.72,4.1,1613,BlueCart
+1111,Beauty,100.57,3.1,2115,BlueCart
+1112,Beauty,102.07,4.1,715,NovaSupply
+1113,Electronics,517.52,4.1,226,NovaSupply
+1114,Books,8.05,5.0,2904,PrimeSource
+1115,Fashion,115.89,4.0,1471,NovaSupply
+1116,Home & Kitchen,276.8,4.3,2404,AlphaCo
+1117,Home & Kitchen,201.79,4.1,1826,NovaSupply
+1118,Fashion,148.28,3.5,2989,BlueCart
+1119,Fashion,96.83,4.7,2348,BlueCart
+1120,Home & Kitchen,246.83,4.5,784,AlphaCo
+1121,Books,17.07,4.5,2991,AlphaCo
+1122,Beauty,117.97,3.6,556,NovaSupply
+1123,Electronics,299.48,4.8,2236,AxisTrade
+1124,Home & Kitchen,121.44,3.4,1976,NovaSupply
+1125,Books,33.61,4.4,1230,AlphaCo
+1126,Beauty,39.47,5.0,1462,AxisTrade
+1127,Books,33.32,3.6,466,NovaSupply
+1128,Electronics,864.3,3.8,362,AlphaCo
+1129,Beauty,65.28,4.1,2829,AxisTrade
+1130,Beauty,96.03,3.8,2928,AlphaCo
+1131,Electronics,786.61,3.3,1974,AlphaCo
+1132,Electronics,553.83,4.1,1592,AxisTrade
+1133,Fashion,175.52,3.6,2693,NovaSupply
+1134,Sports,147.79,4.3,2394,BlueCart
+1135,Beauty,40.58,3.6,85,AxisTrade
+1136,Beauty,56.91,4.9,585,AxisTrade
+1137,Sports,239.11,3.7,243,NovaSupply
+1138,Electronics,868.88,3.9,2887,AlphaCo
+1139,Home & Kitchen,66.62,4.5,1018,AlphaCo
+1140,Electronics,546.73,3.5,2876,AxisTrade
+1141,Sports,186.86,4.2,2646,AlphaCo
+1142,Beauty,98.39,4.8,2284,AxisTrade
+1143,Beauty,136.51,3.3,527,NovaSupply
+1144,Sports,199.04,4.2,2851,BlueCart
+1145,Sports,59.56,4.2,812,AxisTrade
+1146,Electronics,165.61,4.5,451,AlphaCo
+1147,Books,35.99,3.5,1117,AlphaCo
+1148,Beauty,50.9,3.4,49,AxisTrade
+1149,Fashion,66.89,4.4,2778,AlphaCo
+1150,Fashion,31.67,4.2,1580,BlueCart
+1151,Beauty,20.24,4.2,2957,NovaSupply
+1152,Books,32.21,4.3,2999,PrimeSource
+1153,Home & Kitchen,225.75,3.8,1779,AlphaCo
+1154,Home & Kitchen,70.29,4.2,2586,BlueCart
+1155,Electronics,739.88,4.2,372,BlueCart
+1156,Electronics,452.94,3.7,306,NovaSupply
+1157,Home & Kitchen,234.6,5.0,590,AlphaCo
+1158,Beauty,90.56,4.3,1820,AxisTrade
+1159,Beauty,75.77,3.5,2810,AlphaCo
+1160,Beauty,82.9,4.4,446,AxisTrade
+1161,Sports,113.17,3.6,1923,BlueCart
+1162,Home & Kitchen,336.65,4.5,1640,BlueCart
+1163,Books,10.39,4.7,483,AxisTrade
+1164,Sports,173.65,3.7,2477,BlueCart
+1165,Electronics,847.9,4.6,2815,BlueCart
+1166,Fashion,38.39,4.3,1864,BlueCart
+1167,Beauty,126.34,4.5,1231,NovaSupply
+1168,Books,23.51,5.0,1467,PrimeSource
+1169,Sports,67.65,4.0,607,AxisTrade
+1170,Home & Kitchen,69.67,3.7,1893,NovaSupply
+1171,Sports,117.53,3.7,1860,NovaSupply
+1172,Home & Kitchen,158.66,3.7,2251,NovaSupply
+1173,Beauty,84.99,4.1,1505,AlphaCo
+1174,Fashion,158.18,4.3,1695,AxisTrade
+1175,Fashion,175.72,4.2,1543,NovaSupply
+1176,Beauty,99.51,4.5,1175,PrimeSource
+1177,Electronics,896.2,4.1,2048,PrimeSource
+1178,Beauty,47.69,4.8,927,BlueCart
+1179,Beauty,135.79,4.0,1706,BlueCart
+1180,Electronics,850.49,5.0,1713,NovaSupply
+1181,Electronics,818.15,4.4,2472,AxisTrade
+1182,Fashion,85.95,3.7,1626,AlphaCo
+1183,Beauty,62.41,3.6,663,BlueCart
+1184,Books,37.64,4.3,2584,AxisTrade
+1185,Beauty,11.5,4.0,641,AlphaCo
+1186,Beauty,106.5,4.5,1873,AxisTrade
+1187,Books,41.22,4.3,1563,AxisTrade
+1188,Home & Kitchen,306.09,4.1,469,BlueCart
+1189,Beauty,20.06,3.7,866,BlueCart
+1190,Electronics,482.65,3.3,1552,AxisTrade
+1191,Home & Kitchen,207.21,3.9,2499,AlphaCo
+1192,Electronics,880.25,4.5,1057,AlphaCo
+1193,Books,27.83,4.2,903,AlphaCo
+1194,Fashion,129.11,3.5,391,AxisTrade
+1195,Home & Kitchen,151.98,4.2,805,AxisTrade
+1196,Books,39.3,4.3,2421,AxisTrade
+1197,Books,43.29,3.7,1320,PrimeSource
+1198,Electronics,577.98,4.2,700,AlphaCo
+1199,Beauty,133.55,4.1,1646,AlphaCo
+1200,Electronics,227.52,3.5,1538,NovaSupply
+1201,Fashion,16.8,4.3,967,PrimeSource
+1202,Electronics,396.18,4.4,2764,AlphaCo
+1203,Beauty,51.62,4.6,2038,BlueCart
+1204,Electronics,892.01,4.6,2375,AlphaCo
+1205,Fashion,110.0,3.4,1664,AlphaCo
+1206,Beauty,22.37,3.6,2977,AxisTrade
+1207,Fashion,28.16,4.4,1237,BlueCart
+1208,Sports,109.74,4.4,210,AlphaCo
+1209,Books,19.95,4.4,1525,PrimeSource
+1210,Electronics,845.97,5.0,322,AxisTrade
+1211,Fashion,77.63,4.4,506,NovaSupply
+1212,Fashion,161.49,4.7,516,PrimeSource
+1213,Beauty,110.44,4.6,391,AxisTrade
+1214,Fashion,152.86,4.4,2861,AlphaCo
+1215,Electronics,876.85,3.9,443,AxisTrade
+1216,Books,36.18,4.5,2699,NovaSupply
+1217,Beauty,68.82,3.7,846,BlueCart
+1218,Books,23.65,4.0,1903,AlphaCo
+1219,Home & Kitchen,195.19,3.9,1456,AxisTrade
+1220,Electronics,840.08,4.1,232,BlueCart
+1221,Fashion,78.12,5.0,738,PrimeSource
+1222,Fashion,86.54,3.2,914,AlphaCo
+1223,Electronics,813.95,4.4,2880,BlueCart
+1224,Sports,186.0,3.3,848,AxisTrade
+1225,Home & Kitchen,251.16,3.9,1967,AxisTrade
+1226,Home & Kitchen,66.81,4.6,67,BlueCart
+1227,Sports,38.47,4.1,2448,AxisTrade
+1228,Sports,46.25,3.6,1205,NovaSupply
+1229,Beauty,114.51,3.7,2024,AxisTrade
+1230,Beauty,55.84,4.4,2136,PrimeSource
+1231,Sports,24.97,3.7,2715,NovaSupply
+1232,Fashion,137.27,4.2,808,BlueCart
+1233,Home & Kitchen,345.82,4.1,2173,NovaSupply
+1234,Fashion,69.65,3.8,795,AlphaCo
+1235,Beauty,69.15,5.0,1436,AxisTrade
+1236,Electronics,874.97,4.4,2570,PrimeSource
+1237,Home & Kitchen,91.72,3.1,2444,AlphaCo
+1238,Electronics,480.46,4.2,1175,PrimeSource
+1239,Home & Kitchen,261.91,3.8,1784,PrimeSource
+1240,Electronics,318.46,4.5,1649,AlphaCo
+1241,Fashion,43.59,3.7,585,NovaSupply
+1242,Fashion,64.68,4.0,2250,NovaSupply
+1243,Sports,146.38,4.4,2821,AxisTrade
+1244,Sports,130.71,4.5,1739,AlphaCo
+1245,Books,19.19,3.5,2331,AxisTrade
+1246,Electronics,699.37,3.9,1900,AlphaCo
+1247,Electronics,124.85,3.9,1987,AxisTrade
+1248,Electronics,179.58,3.8,2317,BlueCart
+1249,Books,33.0,5.0,41,BlueCart
+1250,Beauty,25.73,4.3,851,AlphaCo
+1251,Sports,242.25,3.5,768,NovaSupply
+1252,Beauty,26.02,4.6,103,NovaSupply
+1253,Books,32.33,5.0,1202,AxisTrade
+1254,Home & Kitchen,283.95,4.6,1915,BlueCart
+1255,Sports,113.46,3.3,2679,PrimeSource
+1256,Sports,132.3,3.9,663,AxisTrade
+1257,Beauty,60.78,4.7,2701,NovaSupply
+1258,Fashion,90.81,3.7,2711,AxisTrade
+1259,Sports,251.01,4.3,2917,PrimeSource
+1260,Home & Kitchen,223.77,4.5,1668,AlphaCo
+1261,Electronics,104.21,3.6,1340,NovaSupply
+1262,Home & Kitchen,341.2,4.1,278,AlphaCo
+1263,Beauty,58.66,2.5,135,NovaSupply
+1264,Fashion,36.98,3.6,2026,BlueCart
+1265,Home & Kitchen,83.46,4.0,2399,AlphaCo
+1266,Home & Kitchen,275.55,3.5,2342,PrimeSource
+1267,Electronics,359.38,4.9,864,PrimeSource
+1268,Sports,224.82,3.4,2576,BlueCart
+1269,Electronics,546.7,3.9,2229,AxisTrade
+1270,Electronics,263.7,4.2,661,AxisTrade
+1271,Electronics,518.23,4.8,2251,AlphaCo
+1272,Beauty,53.95,3.4,1385,AlphaCo
+1273,Books,38.22,4.7,2036,AlphaCo
+1274,Beauty,137.54,4.1,2465,PrimeSource
+1275,Electronics,807.77,3.6,937,AxisTrade
+1276,Sports,74.66,4.3,818,PrimeSource
+1277,Beauty,16.78,4.2,2863,NovaSupply
+1278,Sports,48.32,3.8,1455,NovaSupply
+1279,Fashion,53.29,4.1,2211,PrimeSource
+1280,Electronics,892.57,3.9,754,AxisTrade
+1281,Electronics,337.58,4.2,2708,AlphaCo
+1282,Home & Kitchen,137.8,4.4,917,BlueCart
+1283,Home & Kitchen,314.68,4.9,1321,PrimeSource
+1284,Beauty,73.21,3.5,576,PrimeSource
+1285,Books,28.46,5.0,977,BlueCart
+1286,Home & Kitchen,214.12,3.1,1245,AlphaCo
+1287,Electronics,308.86,4.0,857,BlueCart
+1288,Books,27.7,4.4,2508,AxisTrade
+1289,Fashion,139.95,4.2,1766,AlphaCo
+1290,Electronics,533.7,3.8,1751,PrimeSource
+1291,Home & Kitchen,325.14,4.0,555,AlphaCo
+1292,Fashion,29.11,3.9,1631,AlphaCo
+1293,Beauty,110.3,3.8,1272,PrimeSource
+1294,Home & Kitchen,173.93,4.5,1484,BlueCart
+1295,Home & Kitchen,221.41,4.3,1301,AlphaCo
+1296,Sports,228.57,3.8,616,PrimeSource
+1297,Home & Kitchen,211.36,4.5,186,PrimeSource
+1298,Home & Kitchen,298.83,4.3,1462,PrimeSource
+1299,Home & Kitchen,45.56,4.5,850,AxisTrade
+1300,Beauty,123.86,4.4,1352,PrimeSource

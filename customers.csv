@@ -1,0 +1,2001 @@
+customer_id,customer_region,country,signup_date,age,customer_segment
+1,Africa,South Africa,2021-02-21,65,Standard
+2,Europe,France,2021-07-29,61,Premium
+3,Middle East,UAE,2023-05-15,20,Standard
+4,Europe,France,2023-11-01,56,Standard
+5,Europe,Spain,2022-03-28,46,Standard
+6,North America,USA,2023-05-16,39,Standard
+7,Europe,UK,2021-07-29,23,Standard
+8,Asia,South Korea,2022-06-26,69,Standard
+9,South America,Chile,2021-09-13,42,Standard
+10,Asia,South Korea,2024-03-28,30,Premium
+11,North America,Mexico,2022-04-12,67,Standard
+12,North America,USA,2021-07-26,42,Standard
+13,Africa,Kenya,2021-11-30,41,Standard
+14,Africa,Kenya,2021-05-27,56,Standard
+15,Middle East,Qatar,2022-05-17,28,Standard
+16,Asia,India,2022-10-27,67,Premium
+17,Europe,Germany,2022-10-09,43,Standard
+18,Europe,UK,2022-03-12,59,Standard
+19,Africa,Kenya,2021-10-20,34,Standard
+20,Africa,Egypt,2024-01-09,34,Premium
+21,South America,Chile,2023-03-29,41,Standard
+22,Europe,Spain,2021-07-06,66,Standard
+23,North America,USA,2021-11-24,68,Premium
+24,Middle East,UAE,2023-02-28,42,Standard
+25,South America,Chile,2022-05-30,53,Premium
+26,North America,Mexico,2021-08-23,61,Premium
+27,Asia,South Korea,2021-08-17,36,Standard
+28,South America,Brazil,2022-06-24,50,Premium
+29,Middle East,UAE,2022-09-04,58,Standard
+30,Europe,France,2023-02-05,66,Standard
+31,Middle East,UAE,2022-10-26,49,Standard
+32,Asia,South Korea,2022-05-06,21,Standard
+33,Middle East,UAE,2021-06-25,64,Standard
+34,North America,Mexico,2021-09-15,26,Standard
+35,Middle East,UAE,2022-06-27,51,Premium
+36,South America,Brazil,2024-01-10,66,Premium
+37,Europe,UK,2023-03-29,60,Standard
+38,South America,Chile,2023-07-14,25,Standard
+39,North America,Canada,2021-02-13,55,Standard
+40,Middle East,UAE,2021-01-15,22,Premium
+41,North America,USA,2021-05-19,20,Premium
+42,North America,Mexico,2022-05-03,35,Standard
+43,Europe,France,2024-03-15,54,Standard
+44,South America,Argentina,2022-01-25,24,Standard
+45,South America,Argentina,2023-05-18,44,Standard
+46,Africa,South Africa,2021-07-21,21,Standard
+47,Asia,Japan,2022-05-25,30,Standard
+48,South America,Brazil,2023-05-15,29,Standard
+49,Europe,Germany,2023-06-27,69,Premium
+50,Middle East,UAE,2021-04-14,59,VIP
+51,North America,USA,2022-04-30,28,Standard
+52,South America,Brazil,2023-04-02,21,Standard
+53,North America,Canada,2022-06-28,68,Premium
+54,Asia,Singapore,2024-02-13,60,Premium
+55,Europe,France,2022-08-31,31,VIP
+56,Middle East,Qatar,2024-01-16,21,Premium
+57,North America,USA,2024-04-11,48,Standard
+58,Middle East,UAE,2021-04-27,50,Standard
+59,Europe,Germany,2021-05-20,61,Premium
+60,South America,Brazil,2024-03-12,33,Standard
+61,North America,Mexico,2021-06-17,44,Standard
+62,Middle East,Qatar,2022-10-10,34,Standard
+63,Africa,Kenya,2022-05-04,34,Standard
+64,Africa,Egypt,2022-09-07,47,Standard
+65,North America,USA,2023-07-28,57,VIP
+66,North America,USA,2024-01-07,31,Standard
+67,Europe,UK,2021-05-21,33,Standard
+68,Europe,Spain,2024-01-18,63,Standard
+69,Africa,Egypt,2021-01-17,60,Premium
+70,Asia,Japan,2021-10-03,34,Standard
+71,North America,Mexico,2024-02-08,27,Standard
+72,Middle East,UAE,2022-12-04,31,Premium
+73,Asia,Singapore,2022-05-30,21,Standard
+74,South America,Argentina,2021-04-01,18,Standard
+75,Europe,UK,2021-11-27,65,Standard
+76,Africa,Kenya,2024-02-23,18,Standard
+77,Africa,South Africa,2024-01-23,20,Premium
+78,Middle East,Qatar,2021-10-31,45,Standard
+79,Asia,South Korea,2021-03-23,40,Standard
+80,Europe,Germany,2022-12-26,67,Standard
+81,South America,Chile,2021-11-13,33,Premium
+82,Europe,Spain,2021-02-20,29,Premium
+83,Asia,Singapore,2022-05-24,35,Standard
+84,Africa,South Africa,2023-02-23,20,Premium
+85,Europe,France,2023-08-01,40,Standard
+86,Europe,France,2021-02-18,60,Standard
+87,Asia,South Korea,2021-05-23,67,Standard
+88,Africa,Egypt,2023-03-30,61,VIP
+89,Middle East,Saudi Arabia,2021-02-26,25,Premium
+90,Asia,India,2024-04-04,34,Standard
+91,Middle East,Saudi Arabia,2022-12-09,64,Premium
+92,South America,Chile,2023-11-14,25,Standard
+93,Middle East,UAE,2022-06-06,20,Premium
+94,North America,Mexico,2024-01-08,61,Premium
+95,Africa,Egypt,2022-02-08,41,Standard
+96,Africa,Kenya,2022-10-05,60,Premium
+97,Africa,Kenya,2023-11-05,37,Standard
+98,Asia,Singapore,2022-08-29,53,Standard
+99,South America,Chile,2023-02-16,61,Premium
+100,Europe,UK,2023-04-12,53,Premium
+101,Asia,South Korea,2022-03-07,45,Premium
+102,Middle East,Qatar,2022-10-22,47,Standard
+103,Africa,South Africa,2023-11-13,48,Premium
+104,Africa,South Africa,2021-06-23,36,Standard
+105,Africa,Egypt,2022-11-18,23,Premium
+106,Europe,UK,2022-04-06,69,Standard
+107,North America,USA,2022-05-17,48,Standard
+108,North America,Canada,2023-04-29,58,Standard
+109,Africa,Egypt,2023-02-26,49,Standard
+110,Europe,Germany,2021-08-07,67,Standard
+111,Europe,Spain,2021-04-13,53,Standard
+112,North America,Canada,2021-10-01,69,Standard
+113,Middle East,Qatar,2022-10-12,66,Premium
+114,Middle East,Qatar,2023-10-31,45,Premium
+115,Middle East,Saudi Arabia,2021-11-22,65,Premium
+116,South America,Argentina,2022-05-22,58,Standard
+117,Middle East,Saudi Arabia,2022-05-05,35,Standard
+118,Africa,Kenya,2022-04-26,35,Standard
+119,Middle East,UAE,2021-10-11,27,Standard
+120,Africa,South Africa,2022-03-15,22,Standard
+121,Asia,Singapore,2023-05-02,21,Standard
+122,South America,Argentina,2024-04-11,62,Standard
+123,Middle East,Saudi Arabia,2023-09-04,18,VIP
+124,Asia,Singapore,2023-05-09,52,Premium
+125,Middle East,Qatar,2022-03-28,49,Standard
+126,South America,Argentina,2021-03-01,42,Standard
+127,Africa,Kenya,2021-12-05,47,Premium
+128,Middle East,Qatar,2021-02-25,43,Standard
+129,Africa,South Africa,2021-06-21,59,Standard
+130,South America,Brazil,2021-04-13,34,Standard
+131,Europe,Spain,2022-11-01,39,Premium
+132,South America,Argentina,2023-05-14,34,Premium
+133,South America,Brazil,2024-01-10,21,VIP
+134,Asia,India,2021-05-21,67,VIP
+135,North America,USA,2022-05-22,30,Premium
+136,Middle East,UAE,2022-05-04,26,Standard
+137,North America,Mexico,2022-03-23,47,Premium
+138,Asia,India,2021-08-23,67,Premium
+139,Asia,Japan,2024-03-31,19,VIP
+140,Middle East,Qatar,2023-02-08,43,VIP
+141,Europe,Germany,2022-05-13,24,Premium
+142,Asia,Japan,2024-03-05,68,Standard
+143,Middle East,Saudi Arabia,2023-01-29,22,Standard
+144,Asia,Japan,2023-05-11,70,Standard
+145,South America,Argentina,2023-07-31,63,Standard
+146,Europe,UK,2024-01-08,67,Standard
+147,South America,Chile,2022-07-04,38,Premium
+148,North America,Canada,2023-07-13,33,Premium
+149,Middle East,Qatar,2023-02-16,39,Standard
+150,Asia,India,2023-09-26,31,Standard
+151,Asia,South Korea,2022-07-27,56,Premium
+152,Asia,Japan,2023-11-25,30,Standard
+153,Africa,Kenya,2023-09-28,53,Premium
+154,Africa,Kenya,2023-10-03,46,Premium
+155,North America,Canada,2022-03-30,43,Premium
+156,Asia,South Korea,2023-08-28,53,Standard
+157,South America,Chile,2024-02-02,39,Standard
+158,South America,Argentina,2022-09-20,34,Standard
+159,Africa,South Africa,2022-10-09,25,Premium
+160,Africa,South Africa,2022-01-28,31,Premium
+161,Asia,South Korea,2021-07-25,30,Standard
+162,Asia,India,2022-09-12,18,Premium
+163,Europe,UK,2021-04-04,21,Standard
+164,Africa,South Africa,2023-10-03,24,Premium
+165,Middle East,Saudi Arabia,2023-08-20,48,Standard
+166,Europe,Germany,2022-06-02,48,Standard
+167,North America,Canada,2023-10-05,22,Standard
+168,Africa,South Africa,2021-11-07,27,Premium
+169,Asia,Japan,2022-05-24,25,Standard
+170,South America,Chile,2022-04-08,67,Standard
+171,South America,Argentina,2022-09-01,55,VIP
+172,Asia,Japan,2021-07-23,66,Standard
+173,Europe,UK,2021-06-16,28,Standard
+174,Middle East,UAE,2021-11-17,18,Standard
+175,Africa,Egypt,2023-08-21,36,Standard
+176,Asia,South Korea,2023-07-19,22,Premium
+177,Asia,India,2023-05-21,25,Standard
+178,Africa,South Africa,2022-06-29,70,Standard
+179,North America,USA,2022-09-22,56,Premium
+180,Middle East,Saudi Arabia,2023-06-19,25,Standard
+181,Asia,Singapore,2022-07-12,50,Standard
+182,South America,Brazil,2021-03-23,45,Premium
+183,Middle East,Saudi Arabia,2021-02-22,23,Standard
+184,Africa,Egypt,2021-02-12,66,Standard
+185,Asia,Japan,2021-12-25,48,Standard
+186,South America,Argentina,2022-01-07,55,Standard
+187,South America,Brazil,2023-08-21,40,Standard
+188,Asia,Japan,2021-11-26,39,Standard
+189,South America,Argentina,2023-04-01,70,Premium
+190,North America,Canada,2021-06-30,38,Standard
+191,North America,Canada,2023-11-20,70,VIP
+192,Africa,Egypt,2023-08-05,44,Standard
+193,Middle East,Saudi Arabia,2023-10-18,58,Standard
+194,North America,USA,2022-07-01,53,Standard
+195,Asia,Singapore,2023-09-20,25,Standard
+196,Africa,Egypt,2022-05-06,63,Standard
+197,Middle East,UAE,2024-02-06,44,Standard
+198,North America,Canada,2021-08-29,59,Premium
+199,South America,Chile,2022-08-21,50,Premium
+200,South America,Argentina,2023-08-26,33,Standard
+201,Europe,Spain,2022-01-26,56,Standard
+202,Europe,Germany,2022-07-20,67,Premium
+203,South America,Argentina,2023-11-06,35,Premium
+204,Asia,South Korea,2024-04-02,60,Standard
+205,Europe,,2024-01-09,48,Standard
+206,Middle East,Qatar,2023-02-12,47,VIP
+207,Europe,France,2024-03-17,42,Standard
+208,South America,Brazil,2022-10-14,65,Standard
+209,South America,Argentina,2021-11-08,49,VIP
+210,Europe,UK,2021-07-25,46,Standard
+211,South America,Brazil,2021-10-23,44,Premium
+212,Europe,Germany,2023-08-20,68,VIP
+213,Asia,Singapore,2021-06-14,39,Premium
+214,Middle East,Saudi Arabia,2022-10-11,58,Premium
+215,South America,Chile,2021-03-15,57,Standard
+216,Africa,Egypt,2022-08-12,32,Premium
+217,South America,Brazil,2021-07-25,46,Standard
+218,Asia,Japan,2021-04-05,38,Premium
+219,Asia,South Korea,2023-02-07,45,Standard
+220,Middle East,Saudi Arabia,2024-03-05,61,Premium
+221,Europe,France,2021-06-11,57,Premium
+222,Middle East,Qatar,2022-05-09,49,Premium
+223,Europe,France,2023-08-03,58,Standard
+224,Asia,Japan,2023-08-11,36,Standard
+225,Europe,Germany,2023-06-24,40,VIP
+226,Asia,Singapore,2022-05-28,47,Premium
+227,Europe,Spain,2023-09-17,24,Standard
+228,Middle East,Saudi Arabia,2024-03-23,36,VIP
+229,Asia,Japan,2023-03-22,35,Standard
+230,Africa,Egypt,2021-04-11,56,Premium
+231,Asia,India,2022-12-23,32,Standard
+232,Middle East,Saudi Arabia,2021-10-08,58,Standard
+233,Africa,Egypt,2021-03-22,37,Premium
+234,North America,Mexico,2023-01-18,64,Standard
+235,Asia,South Korea,2023-05-01,29,Standard
+236,Middle East,Saudi Arabia,2023-12-24,50,Premium
+237,Europe,UK,2023-09-14,69,Standard
+238,Asia,Japan,2023-08-18,22,Standard
+239,Europe,Spain,2024-02-16,41,Standard
+240,South America,Brazil,2022-06-26,52,Standard
+241,Asia,South Korea,2024-04-12,42,Premium
+242,Asia,Japan,2022-04-24,48,Standard
+243,Middle East,Saudi Arabia,2022-03-30,59,Standard
+244,South America,Chile,2022-09-11,59,Standard
+245,Europe,Germany,2021-03-18,37,VIP
+246,North America,USA,2022-04-26,52,Standard
+247,South America,Argentina,2024-01-12,44,Standard
+248,Africa,South Africa,2023-04-30,59,Standard
+249,South America,Chile,2023-04-16,35,Standard
+250,Asia,India,2023-06-28,46,VIP
+251,Asia,Japan,2023-01-23,52,Premium
+252,Africa,Kenya,2021-05-05,43,Standard
+253,North America,Canada,2021-07-07,60,Standard
+254,Africa,Egypt,2021-02-13,21,Premium
+255,Europe,France,2024-03-02,31,Standard
+256,Middle East,UAE,2024-04-15,31,Premium
+257,Europe,UK,2021-10-30,68,Premium
+258,North America,Canada,2021-10-24,26,Standard
+259,Europe,Germany,2021-02-22,26,Standard
+260,Europe,UK,2021-02-02,29,Standard
+261,Europe,Spain,2023-12-14,25,Premium
+262,South America,Argentina,2023-01-12,50,Standard
+263,South America,Chile,2022-03-30,57,Standard
+264,Africa,Egypt,2022-09-10,47,Standard
+265,North America,USA,2023-09-08,43,Standard
+266,North America,Canada,2023-06-28,22,Premium
+267,Asia,India,2021-05-15,26,Standard
+268,Africa,Egypt,2024-01-29,63,Standard
+269,Middle East,Qatar,2022-08-27,47,Standard
+270,South America,Brazil,2021-08-23,59,Standard
+271,Middle East,Qatar,2022-03-17,45,Standard
+272,Europe,Spain,2022-11-26,70,Standard
+273,South America,Chile,2021-07-14,38,Standard
+274,Africa,Kenya,2023-02-06,27,Premium
+275,South America,Brazil,2021-07-06,23,Standard
+276,North America,Mexico,2023-02-03,69,Standard
+277,North America,Mexico,2024-02-25,53,Standard
+278,North America,Canada,2022-12-26,60,VIP
+279,South America,Chile,2021-04-16,36,Standard
+280,Asia,Japan,2024-03-29,50,Standard
+281,Africa,Kenya,2022-04-05,24,Standard
+282,Middle East,Saudi Arabia,2021-08-24,66,Standard
+283,Europe,Spain,2024-02-23,67,Premium
+284,Middle East,Qatar,2024-02-15,19,Standard
+285,Africa,,2022-07-02,19,Standard
+286,Africa,Kenya,2022-11-27,40,Standard
+287,Europe,Spain,2021-05-23,27,Premium
+288,North America,USA,2023-12-23,31,Standard
+289,South America,Argentina,2021-11-19,41,Standard
+290,Asia,Japan,2021-04-18,27,Standard
+291,Middle East,UAE,2021-06-17,35,Standard
+292,South America,Argentina,2023-06-25,44,Standard
+293,Middle East,UAE,2022-12-08,45,Standard
+294,Africa,Egypt,2023-09-24,51,Standard
+295,North America,USA,2023-03-21,56,Standard
+296,Europe,UK,2022-03-09,67,Standard
+297,Asia,South Korea,2022-11-03,25,Standard
+298,Africa,Kenya,2021-12-26,26,Standard
+299,Africa,South Africa,2023-10-22,53,Premium
+300,Asia,Japan,2023-03-25,65,Standard
+301,North America,Canada,2021-06-09,38,Standard
+302,Middle East,Saudi Arabia,2023-05-06,36,Standard
+303,North America,Canada,2021-12-18,69,VIP
+304,South America,Chile,2023-01-12,23,Standard
+305,North America,USA,2023-06-12,55,Standard
+306,North America,Canada,2022-09-28,65,Standard
+307,Asia,India,2021-06-06,50,Standard
+308,Middle East,Qatar,2022-02-02,67,Standard
+309,Africa,Egypt,2021-10-30,33,Standard
+310,Asia,India,2021-12-22,56,Standard
+311,Africa,South Africa,2021-12-29,67,Standard
+312,South America,Chile,2024-04-01,46,Premium
+313,Middle East,Qatar,2022-10-24,58,Standard
+314,South America,Brazil,2023-08-19,46,Standard
+315,Asia,Japan,2022-12-22,50,Standard
+316,South America,Argentina,2021-03-19,21,Standard
+317,Asia,Japan,2021-07-04,57,Standard
+318,South America,Argentina,2024-04-03,53,VIP
+319,Africa,South Africa,2023-07-11,69,Standard
+320,Europe,UK,2023-09-02,50,Standard
+321,North America,Canada,2021-07-31,69,Premium
+322,Asia,Japan,2023-10-31,59,Standard
+323,Europe,Spain,2023-06-19,51,Standard
+324,Europe,UK,2023-02-03,36,Standard
+325,Asia,Japan,2022-11-17,22,Standard
+326,Middle East,Qatar,2023-03-03,36,Standard
+327,Africa,Egypt,2021-11-04,39,Standard
+328,Africa,South Africa,2022-12-18,37,VIP
+329,Africa,Egypt,2023-03-14,26,Standard
+330,North America,Canada,2024-02-19,42,Standard
+331,Asia,India,2023-12-15,23,Standard
+332,South America,Chile,2023-01-12,19,Standard
+333,Europe,France,2022-12-01,67,Standard
+334,Europe,France,2021-11-14,22,Standard
+335,North America,Mexico,2024-01-11,65,Premium
+336,North America,Mexico,2022-11-21,67,Standard
+337,Middle East,Saudi Arabia,2021-11-12,28,Standard
+338,Africa,Egypt,2021-12-06,64,Standard
+339,South America,Argentina,2022-05-02,46,Standard
+340,Africa,Kenya,2022-04-25,52,Standard
+341,South America,Brazil,2023-01-24,61,VIP
+342,South America,Argentina,2022-08-01,67,Standard
+343,Middle East,Saudi Arabia,2021-11-28,70,Standard
+344,Middle East,UAE,2022-05-28,21,Standard
+345,Asia,Japan,2023-11-23,25,Standard
+346,Europe,UK,2023-07-10,50,Standard
+347,South America,Brazil,2022-03-31,70,Standard
+348,Asia,Japan,2023-04-30,21,Standard
+349,Asia,India,2023-03-02,23,Standard
+350,North America,Canada,2021-07-22,63,Standard
+351,Europe,France,2021-03-20,36,Premium
+352,South America,Chile,2021-10-12,66,Premium
+353,South America,Chile,2021-01-11,23,Standard
+354,Europe,France,2024-01-29,64,Standard
+355,South America,Brazil,2022-08-14,33,Standard
+356,North America,USA,2023-05-10,58,Premium
+357,South America,Brazil,2021-08-16,49,Standard
+358,North America,Mexico,2023-11-22,54,Standard
+359,Europe,UK,2023-05-30,18,Standard
+360,Europe,Spain,2022-01-19,60,Standard
+361,Middle East,Saudi Arabia,2021-05-19,51,Standard
+362,Middle East,Qatar,2021-02-11,42,Premium
+363,North America,Mexico,2023-03-04,41,Standard
+364,North America,Canada,2021-05-19,40,Standard
+365,Africa,Egypt,2021-08-01,67,Standard
+366,Asia,India,2021-04-01,40,Standard
+367,Africa,South Africa,2023-08-10,62,Standard
+368,Europe,France,2021-05-10,63,Premium
+369,South America,Brazil,2022-08-24,30,Standard
+370,Europe,Germany,2022-10-09,37,Standard
+371,Middle East,Saudi Arabia,2022-06-03,20,Premium
+372,Europe,UK,2023-01-02,67,Standard
+373,Africa,Kenya,2022-07-14,25,Premium
+374,South America,Argentina,2023-06-20,42,Standard
+375,Europe,Spain,2023-10-16,41,VIP
+376,Middle East,Saudi Arabia,2021-06-19,64,Standard
+377,South America,Chile,2022-01-05,52,Standard
+378,North America,USA,2022-11-03,60,Standard
+379,South America,Chile,2023-05-23,28,Premium
+380,Asia,Singapore,2021-03-28,64,Premium
+381,Asia,Singapore,2022-07-17,58,VIP
+382,North America,USA,2023-04-12,41,Standard
+383,Africa,Egypt,2021-11-24,19,Standard
+384,Middle East,Qatar,2023-06-17,20,Standard
+385,Europe,UK,2023-01-12,42,VIP
+386,North America,Mexico,2021-11-11,61,Standard
+387,Asia,South Korea,2023-06-29,66,Standard
+388,Europe,UK,2023-03-27,38,Standard
+389,Europe,Germany,2021-02-23,65,Standard
+390,Middle East,Saudi Arabia,2024-02-25,25,Standard
+391,Asia,Singapore,2022-03-16,57,Standard
+392,South America,Brazil,2021-09-09,26,Premium
+393,South America,Brazil,2023-07-01,23,Premium
+394,Asia,South Korea,2021-05-13,53,Standard
+395,Asia,India,2021-12-23,68,Standard
+396,Europe,Germany,2022-02-16,68,Standard
+397,South America,Brazil,2023-01-10,53,Standard
+398,South America,Chile,2021-09-23,57,Premium
+399,North America,Canada,2023-03-27,63,Premium
+400,Middle East,Saudi Arabia,2023-04-19,70,Standard
+401,Europe,UK,2021-06-01,46,Standard
+402,Middle East,Saudi Arabia,2021-09-20,67,Standard
+403,Middle East,UAE,2021-09-22,45,Standard
+404,North America,USA,2023-11-28,27,Standard
+405,Europe,UK,2022-04-07,40,VIP
+406,Middle East,Saudi Arabia,2021-06-11,34,Standard
+407,Middle East,Saudi Arabia,2021-09-14,58,Standard
+408,Middle East,UAE,2023-10-27,59,Standard
+409,Middle East,UAE,2021-12-17,60,Standard
+410,Middle East,Saudi Arabia,2024-02-29,20,Premium
+411,North America,USA,2021-04-04,59,Premium
+412,Asia,India,2024-03-17,44,Standard
+413,North America,Canada,2024-01-23,36,Standard
+414,Asia,Singapore,2022-05-17,69,Premium
+415,South America,Argentina,2023-07-18,22,Premium
+416,Europe,Spain,2023-05-02,48,Standard
+417,Asia,India,2022-10-03,63,Standard
+418,Asia,Singapore,2021-09-25,66,Standard
+419,Middle East,UAE,2022-10-16,33,Standard
+420,Asia,Singapore,2022-05-23,27,Standard
+421,Asia,Singapore,2023-05-07,33,VIP
+422,Europe,UK,2024-03-29,64,Standard
+423,Europe,Spain,2023-11-21,47,Standard
+424,Asia,Singapore,2021-02-17,23,VIP
+425,Middle East,Saudi Arabia,2022-05-09,31,Standard
+426,North America,USA,2022-07-31,49,Standard
+427,Africa,Egypt,2023-08-22,36,Standard
+428,North America,Canada,2021-10-02,34,Premium
+429,South America,Argentina,2021-04-03,43,Standard
+430,Middle East,UAE,2023-01-13,53,Standard
+431,South America,Chile,2023-07-12,66,Standard
+432,Middle East,Qatar,2021-09-01,26,VIP
+433,South America,Argentina,2022-11-26,53,VIP
+434,Europe,France,2023-11-09,43,Standard
+435,North America,USA,2021-10-08,63,Standard
+436,South America,Chile,2023-07-25,27,Standard
+437,Middle East,UAE,2022-11-03,57,Standard
+438,South America,Chile,2022-09-05,55,Standard
+439,Middle East,Qatar,2023-10-01,63,Standard
+440,South America,Brazil,2023-01-25,39,Standard
+441,South America,Chile,2022-09-23,68,Premium
+442,Africa,Egypt,2021-02-24,56,Standard
+443,Africa,Egypt,2024-03-28,32,Premium
+444,Middle East,Saudi Arabia,2021-12-16,51,Standard
+445,Middle East,Saudi Arabia,2021-10-30,70,Premium
+446,North America,Mexico,2021-08-14,30,Standard
+447,Asia,Singapore,2021-11-07,44,Premium
+448,South America,Chile,2023-08-24,65,Premium
+449,Africa,South Africa,2023-11-29,31,Standard
+450,Africa,Kenya,2023-12-13,42,Standard
+451,Europe,Spain,2023-12-28,39,Standard
+452,Africa,Egypt,2022-06-26,57,Standard
+453,Europe,UK,2024-02-17,37,Standard
+454,Asia,South Korea,2022-03-01,62,Premium
+455,Asia,Singapore,2022-12-16,53,VIP
+456,Africa,Kenya,2022-08-13,25,Standard
+457,Middle East,Saudi Arabia,2023-03-20,70,Standard
+458,Europe,UK,2021-03-28,36,VIP
+459,North America,Canada,2023-06-25,59,Standard
+460,South America,Brazil,2022-02-18,70,Standard
+461,Middle East,Qatar,2022-07-11,26,Standard
+462,Africa,Egypt,2022-05-06,33,Standard
+463,Middle East,UAE,2022-04-22,21,Standard
+464,Asia,Singapore,2021-07-25,61,Premium
+465,North America,Mexico,2021-11-20,44,Standard
+466,South America,Argentina,2022-02-13,66,VIP
+467,Asia,South Korea,2021-05-02,67,Standard
+468,Middle East,UAE,2024-01-01,65,Premium
+469,North America,USA,2023-05-06,29,VIP
+470,North America,Canada,2023-10-12,29,VIP
+471,Asia,Japan,2021-01-19,37,Standard
+472,North America,Canada,2022-08-06,47,VIP
+473,Middle East,Qatar,2023-10-09,26,Premium
+474,South America,Argentina,2022-01-30,69,Standard
+475,Europe,Spain,2022-06-11,63,Standard
+476,Africa,Kenya,2022-08-28,54,Standard
+477,Europe,France,2023-04-11,70,Standard
+478,Asia,Japan,2023-04-01,60,Standard
+479,Europe,Spain,2022-10-25,33,Standard
+480,South America,Brazil,2023-07-04,66,Standard
+481,Asia,South Korea,2024-04-07,64,Standard
+482,Asia,South Korea,2022-04-29,21,Standard
+483,South America,Argentina,2021-11-24,43,Premium
+484,Africa,Kenya,2021-08-29,58,Premium
+485,Asia,South Korea,2022-03-29,32,VIP
+486,South America,Brazil,2023-07-21,65,VIP
+487,Asia,Singapore,2024-01-30,48,Premium
+488,Africa,South Africa,2022-05-22,61,Premium
+489,North America,Mexico,2023-07-04,51,Premium
+490,North America,Mexico,2021-08-18,21,Premium
+491,Middle East,UAE,2024-03-18,52,Standard
+492,Asia,Singapore,2021-08-27,61,Standard
+493,Middle East,Saudi Arabia,2021-07-06,50,Standard
+494,North America,Canada,2021-09-28,50,Standard
+495,Middle East,UAE,2024-02-19,47,Standard
+496,Asia,Japan,2023-03-22,34,Premium
+497,Africa,South Africa,2024-03-30,22,Standard
+498,Asia,Japan,2024-01-14,21,VIP
+499,North America,Canada,2021-03-06,36,Standard
+500,Europe,Spain,2023-02-06,42,Standard
+501,South America,Argentina,2021-06-14,61,VIP
+502,Middle East,UAE,2022-12-14,25,Standard
+503,Middle East,Saudi Arabia,2023-12-20,26,Premium
+504,Europe,Germany,2021-02-16,37,Standard
+505,Africa,Egypt,2023-05-19,52,Standard
+506,Europe,France,2023-08-02,40,Standard
+507,Europe,Germany,2021-03-07,69,Standard
+508,Middle East,UAE,2022-05-08,31,Standard
+509,Middle East,UAE,2023-07-04,56,Standard
+510,North America,USA,2021-04-01,43,Standard
+511,Middle East,UAE,2021-04-26,26,Standard
+512,Asia,India,2024-03-25,38,Standard
+513,Africa,Kenya,2022-05-01,37,Premium
+514,Africa,Egypt,2022-03-29,44,Standard
+515,North America,Mexico,2021-12-25,58,Standard
+516,Middle East,Saudi Arabia,2021-04-07,40,VIP
+517,Africa,Kenya,2023-12-11,38,Premium
+518,South America,Brazil,2022-09-07,42,Standard
+519,Middle East,Saudi Arabia,2022-05-09,32,Standard
+520,Africa,South Africa,2023-08-07,21,Standard
+521,South America,Chile,2023-12-22,26,Standard
+522,Asia,India,2022-11-08,59,Standard
+523,South America,Argentina,2021-07-09,52,Premium
+524,Europe,Germany,2022-07-04,42,Standard
+525,Middle East,UAE,2021-05-30,30,Premium
+526,Middle East,Qatar,2024-02-19,31,Standard
+527,Asia,South Korea,2021-02-01,31,VIP
+528,Africa,South Africa,2023-09-08,33,Premium
+529,Africa,South Africa,2023-03-24,33,Standard
+530,Asia,Singapore,2023-08-13,52,Standard
+531,Asia,South Korea,2023-01-07,50,Premium
+532,South America,Brazil,2023-08-20,66,Premium
+533,Europe,UK,2022-10-03,44,Standard
+534,Europe,France,2021-02-03,34,Standard
+535,Middle East,Qatar,2023-05-06,36,Standard
+536,Asia,India,2023-02-17,54,Premium
+537,South America,Chile,2022-11-23,34,Premium
+538,South America,Chile,2023-10-02,47,Standard
+539,Asia,India,2021-10-14,64,Standard
+540,Europe,Germany,2023-12-10,20,Premium
+541,North America,Mexico,2021-04-10,66,Standard
+542,Europe,France,2021-05-20,63,Standard
+543,Europe,Spain,2023-02-04,21,Standard
+544,Africa,Egypt,2023-09-17,60,Standard
+545,North America,Mexico,2024-02-04,44,Standard
+546,Middle East,Qatar,2022-07-17,52,VIP
+547,North America,Mexico,2023-06-01,69,VIP
+548,Europe,Germany,2021-07-17,51,Standard
+549,Europe,UK,2022-12-27,35,Premium
+550,North America,Canada,2023-04-12,47,Standard
+551,Africa,South Africa,2022-09-07,61,Premium
+552,North America,Mexico,2021-03-06,23,Standard
+553,South America,Chile,2023-09-02,21,Standard
+554,Africa,South Africa,2021-06-19,49,Premium
+555,Africa,Kenya,2024-03-04,24,Premium
+556,North America,USA,2022-03-09,62,Premium
+557,South America,Argentina,2021-04-06,22,Premium
+558,Asia,Japan,2022-01-03,38,Standard
+559,Europe,France,2023-03-27,22,Standard
+560,Middle East,UAE,2024-03-06,42,Standard
+561,Middle East,Saudi Arabia,2023-02-26,66,Premium
+562,Africa,Egypt,2021-06-10,50,Premium
+563,Asia,Japan,2021-07-20,45,Standard
+564,North America,Canada,2023-03-24,67,Standard
+565,Africa,Kenya,2023-07-12,49,Standard
+566,Middle East,Saudi Arabia,2023-06-04,29,Standard
+567,Africa,Kenya,2021-06-25,67,Standard
+568,Europe,Germany,2021-06-18,35,Standard
+569,Africa,Egypt,2021-11-12,65,Standard
+570,Asia,Japan,2021-07-07,18,VIP
+571,South America,Argentina,2022-07-07,24,Standard
+572,Europe,Spain,2023-07-09,53,Standard
+573,South America,Brazil,2021-02-23,23,Standard
+574,North America,Mexico,2022-10-27,42,Standard
+575,South America,Argentina,2021-06-23,64,Premium
+576,Europe,France,2023-02-19,28,Standard
+577,Asia,South Korea,2023-10-07,27,Standard
+578,South America,Argentina,2023-05-13,37,Standard
+579,North America,Canada,2022-05-31,33,Premium
+580,South America,Chile,2022-02-05,47,Standard
+581,Asia,Japan,2023-03-22,39,Premium
+582,South America,Argentina,2023-06-21,39,Standard
+583,Africa,Egypt,2021-10-06,37,Standard
+584,Africa,South Africa,2023-09-09,38,Standard
+585,South America,Argentina,2022-08-20,65,Premium
+586,South America,Chile,2022-05-12,38,Standard
+587,South America,Argentina,2021-08-22,54,Standard
+588,Middle East,UAE,2024-02-01,19,VIP
+589,South America,Chile,2022-03-06,46,Premium
+590,Africa,South Africa,2023-04-18,61,Standard
+591,Africa,Kenya,2022-05-11,34,Standard
+592,Africa,Kenya,2023-02-12,22,Standard
+593,Middle East,Saudi Arabia,2024-04-07,43,Standard
+594,Africa,Kenya,2024-01-19,20,Premium
+595,Asia,Japan,2021-08-12,67,Standard
+596,Africa,,2021-12-07,59,Standard
+597,Middle East,Qatar,2023-03-30,66,Standard
+598,South America,Brazil,2021-01-22,24,Standard
+599,Middle East,Qatar,2023-11-29,53,Standard
+600,Middle East,UAE,2023-07-02,41,Standard
+601,Africa,Egypt,2023-10-22,27,Standard
+602,North America,Canada,2021-08-03,36,Standard
+603,North America,USA,2021-10-18,40,Standard
+604,South America,Brazil,2023-12-04,48,Standard
+605,North America,Canada,2023-07-16,38,Standard
+606,North America,Mexico,2021-08-24,19,Premium
+607,Africa,South Africa,2021-12-03,65,Standard
+608,Europe,France,2022-11-09,53,Standard
+609,South America,Brazil,2023-04-10,58,Standard
+610,Africa,Egypt,2023-06-05,43,Standard
+611,Middle East,UAE,2023-07-10,55,Standard
+612,North America,Mexico,2022-03-16,31,Standard
+613,Africa,South Africa,2024-03-28,24,Premium
+614,Middle East,UAE,2023-01-20,38,Standard
+615,North America,Canada,2023-09-30,51,VIP
+616,Asia,Singapore,2023-03-15,55,Standard
+617,Asia,Singapore,2021-12-20,70,Standard
+618,Asia,Japan,2021-10-02,38,Standard
+619,Asia,Japan,2022-01-10,41,Premium
+620,Middle East,Saudi Arabia,2023-05-07,56,Standard
+621,South America,Argentina,2022-01-16,49,Standard
+622,Africa,Egypt,2021-12-21,53,Standard
+623,Asia,India,2022-01-19,38,Premium
+624,Middle East,UAE,2023-01-06,18,Standard
+625,Europe,Spain,2024-02-25,50,Standard
+626,South America,Chile,2023-10-05,44,Premium
+627,South America,Argentina,2021-12-09,23,Standard
+628,Europe,UK,2021-03-08,35,Standard
+629,Asia,India,2023-07-26,54,Premium
+630,South America,Chile,2023-11-13,25,Standard
+631,Asia,South Korea,2024-01-16,70,Premium
+632,Africa,Kenya,2024-01-24,31,VIP
+633,North America,Mexico,2022-05-22,37,Premium
+634,North America,Canada,2022-06-23,40,Premium
+635,North America,Canada,2021-08-29,67,Premium
+636,Europe,UK,2023-05-27,28,Standard
+637,Europe,France,2021-05-02,54,Standard
+638,Asia,India,2022-10-25,63,Standard
+639,Middle East,Saudi Arabia,2023-11-20,61,Premium
+640,Europe,Spain,2021-05-02,35,Premium
+641,Europe,France,2022-05-27,27,Premium
+642,Europe,Spain,2023-09-30,27,Standard
+643,Asia,Singapore,2023-02-08,46,Standard
+644,North America,Canada,2023-11-22,65,Standard
+645,Asia,Singapore,2023-09-27,38,Standard
+646,Africa,South Africa,2023-07-28,58,Standard
+647,Asia,Japan,2023-12-31,43,Standard
+648,South America,Brazil,2023-10-11,35,Standard
+649,Asia,South Korea,2024-01-26,54,Standard
+650,South America,Argentina,2021-04-10,20,Standard
+651,South America,Brazil,2021-09-12,28,Standard
+652,North America,Canada,2022-02-19,62,Premium
+653,Africa,Kenya,2021-11-22,35,Standard
+654,Asia,South Korea,2021-06-18,41,Standard
+655,Africa,South Africa,2021-04-17,43,Standard
+656,Africa,Egypt,2022-04-25,45,Standard
+657,Africa,South Africa,2021-01-03,31,Standard
+658,Europe,France,2023-11-30,61,Standard
+659,North America,Mexico,2022-12-05,70,Standard
+660,South America,Chile,2021-09-28,48,Standard
+661,South America,Brazil,2021-07-29,24,Standard
+662,Asia,India,2023-02-23,67,Premium
+663,Europe,France,2021-05-21,51,Standard
+664,Middle East,Qatar,2021-12-03,46,Standard
+665,Europe,France,2023-04-24,57,Premium
+666,Europe,Germany,2021-07-25,26,Premium
+667,Middle East,Qatar,2023-02-26,40,VIP
+668,Asia,India,2022-05-23,35,Standard
+669,Europe,UK,2021-02-24,60,Premium
+670,Europe,France,2023-03-14,36,Standard
+671,Europe,Spain,2023-03-02,25,Standard
+672,Africa,Egypt,2021-05-26,51,Premium
+673,North America,Canada,2022-10-11,26,Standard
+674,Middle East,Saudi Arabia,2023-01-19,52,Premium
+675,South America,Brazil,2021-02-04,55,Standard
+676,Asia,India,2021-03-23,21,VIP
+677,South America,Chile,2022-08-10,58,Premium
+678,South America,Argentina,2023-04-04,23,Standard
+679,Middle East,Qatar,2021-11-09,35,Standard
+680,North America,Mexico,2022-02-21,69,Standard
+681,Asia,Singapore,2021-05-16,37,Premium
+682,Africa,South Africa,2021-04-29,33,Standard
+683,South America,Brazil,2023-07-18,57,Standard
+684,Asia,India,2021-09-02,18,Premium
+685,Africa,South Africa,2021-12-02,49,VIP
+686,Middle East,Qatar,2022-06-15,28,Standard
+687,Africa,Kenya,2021-08-30,67,Premium
+688,Asia,Singapore,2022-07-12,51,Standard
+689,Africa,Egypt,2021-06-07,49,Standard
+690,Asia,Japan,2023-10-21,54,Standard
+691,Europe,UK,2021-07-30,54,Standard
+692,North America,USA,2023-11-09,18,Standard
+693,North America,USA,2021-04-05,48,Standard
+694,Europe,France,2021-03-14,53,Premium
+695,Africa,,2023-05-09,32,Standard
+696,South America,Chile,2022-10-18,35,Premium
+697,Middle East,Saudi Arabia,2021-09-02,50,Standard
+698,North America,USA,2022-04-03,69,Standard
+699,North America,Canada,2021-05-22,47,Premium
+700,Asia,South Korea,2021-06-26,53,Standard
+701,Asia,India,2022-08-21,54,Premium
+702,Africa,Egypt,2022-05-12,47,Standard
+703,South America,Brazil,2024-01-25,66,Premium
+704,Europe,Germany,2023-04-20,19,Standard
+705,Asia,Japan,2022-11-18,18,Premium
+706,South America,Chile,2022-09-22,24,Standard
+707,Europe,Spain,2023-10-05,21,VIP
+708,Europe,UK,2021-07-10,20,VIP
+709,Middle East,Saudi Arabia,2023-02-02,47,VIP
+710,North America,Mexico,2021-07-15,50,Standard
+711,South America,Brazil,2024-03-08,21,Standard
+712,Europe,France,2022-08-21,34,Premium
+713,South America,Chile,2022-10-31,38,Standard
+714,Europe,Germany,2022-02-20,26,Premium
+715,Middle East,UAE,2021-11-15,24,Standard
+716,South America,Argentina,2023-04-13,25,Standard
+717,Europe,Spain,2022-09-24,47,Standard
+718,North America,USA,2021-11-19,69,Premium
+719,Africa,Egypt,2021-03-24,31,Premium
+720,Asia,India,2021-07-06,63,Standard
+721,Asia,Singapore,2023-11-18,21,Standard
+722,Asia,India,2021-03-05,43,Premium
+723,Middle East,Qatar,2024-02-01,33,Standard
+724,North America,USA,2021-09-06,18,Standard
+725,Europe,France,2022-02-10,70,Standard
+726,Africa,Egypt,2021-06-22,55,Standard
+727,North America,USA,2021-05-13,30,Premium
+728,South America,Brazil,2021-07-08,69,Standard
+729,North America,Canada,2021-04-14,28,VIP
+730,South America,Chile,2023-03-20,49,Standard
+731,Africa,Kenya,2021-12-20,40,Standard
+732,Europe,UK,2022-07-28,46,Premium
+733,North America,Mexico,2022-05-19,59,Standard
+734,South America,Chile,2023-09-09,21,Standard
+735,South America,Brazil,2023-05-09,30,Standard
+736,Middle East,UAE,2024-01-19,68,Standard
+737,South America,Chile,2023-01-06,48,Standard
+738,South America,Argentina,2024-03-04,50,Standard
+739,Asia,India,2021-02-23,38,Standard
+740,North America,Canada,2021-04-30,69,VIP
+741,Middle East,Saudi Arabia,2024-04-11,32,VIP
+742,North America,USA,2022-05-09,35,Standard
+743,Africa,South Africa,2022-03-26,54,Premium
+744,South America,Argentina,2021-12-22,29,Standard
+745,Asia,South Korea,2021-02-27,63,Premium
+746,Middle East,Qatar,2021-10-19,54,VIP
+747,South America,Chile,2022-09-25,29,Standard
+748,North America,USA,2022-04-22,56,Standard
+749,Middle East,Saudi Arabia,2021-01-02,39,Premium
+750,Europe,France,2022-11-29,63,Standard
+751,Asia,Japan,2021-02-14,27,Standard
+752,Europe,Germany,2023-12-14,41,VIP
+753,Asia,Singapore,2024-04-15,24,Standard
+754,Asia,India,2021-11-19,64,VIP
+755,Africa,Kenya,2022-10-12,29,Premium
+756,Middle East,Qatar,2023-01-01,32,Standard
+757,Europe,Spain,2022-09-21,64,Premium
+758,Europe,France,2021-01-04,62,VIP
+759,South America,Chile,2021-03-08,29,Standard
+760,Middle East,UAE,2024-03-04,24,VIP
+761,Europe,UK,2021-06-09,33,Standard
+762,Asia,India,2021-07-01,70,Premium
+763,Africa,Egypt,2022-11-19,46,Standard
+764,Europe,France,2021-05-19,40,Standard
+765,North America,Mexico,2021-01-03,21,Standard
+766,Africa,Kenya,2021-12-07,44,Standard
+767,South America,Argentina,2024-01-24,42,Standard
+768,South America,Chile,2022-04-07,28,Standard
+769,North America,Canada,2021-02-11,38,Standard
+770,North America,USA,2022-12-02,28,Premium
+771,Europe,Germany,2024-01-26,23,Standard
+772,Middle East,Saudi Arabia,2021-03-05,45,VIP
+773,Europe,Spain,2021-11-18,21,Standard
+774,Europe,France,2023-04-19,62,Standard
+775,Africa,Egypt,2022-06-28,60,Standard
+776,Europe,Germany,2021-04-12,43,Standard
+777,South America,Brazil,2021-04-22,41,Standard
+778,North America,Canada,2023-09-11,30,Standard
+779,Europe,France,2022-08-21,23,Standard
+780,North America,Canada,2023-03-26,48,Standard
+781,Africa,Kenya,2021-07-06,59,Standard
+782,Europe,UK,2023-02-21,41,Standard
+783,North America,Canada,2023-06-20,47,Standard
+784,Asia,Japan,2021-11-06,66,Premium
+785,North America,USA,2022-12-06,69,Standard
+786,Middle East,UAE,2024-02-08,21,Premium
+787,Middle East,Saudi Arabia,2024-01-02,61,Premium
+788,South America,Chile,2022-04-28,48,Standard
+789,South America,Chile,2021-03-13,50,Standard
+790,Middle East,Qatar,2021-10-29,25,VIP
+791,South America,Brazil,2021-12-09,31,Premium
+792,Europe,Germany,2023-05-18,23,VIP
+793,South America,Brazil,2021-10-30,56,Standard
+794,Africa,South Africa,2021-06-28,42,Standard
+795,Middle East,Saudi Arabia,2022-07-20,51,Standard
+796,North America,Mexico,2023-12-07,68,Standard
+797,South America,Brazil,2021-10-31,54,Standard
+798,North America,USA,2024-02-27,67,Standard
+799,Asia,South Korea,2023-04-22,34,Standard
+800,South America,Chile,2023-08-27,20,Standard
+801,South America,Brazil,2023-04-03,20,Standard
+802,Asia,India,2021-04-11,65,Standard
+803,Asia,,2021-02-11,39,Premium
+804,Asia,South Korea,2022-07-29,49,Premium
+805,Africa,South Africa,2022-04-12,26,Standard
+806,Africa,Kenya,2022-10-20,35,Premium
+807,Middle East,Qatar,2021-07-02,30,Standard
+808,South America,Chile,2023-09-20,66,Standard
+809,Asia,Japan,2023-11-22,68,Standard
+810,Asia,Singapore,2021-10-05,67,Premium
+811,Middle East,UAE,2021-12-22,30,Premium
+812,Europe,Germany,2022-05-26,20,Standard
+813,Asia,India,2022-07-16,41,Premium
+814,Middle East,Saudi Arabia,2021-09-11,61,Standard
+815,Asia,Singapore,2023-07-03,29,VIP
+816,South America,Chile,2024-02-04,40,Standard
+817,Asia,Japan,2022-08-07,19,Standard
+818,Europe,France,2022-03-30,59,Standard
+819,Europe,UK,2023-04-19,50,Standard
+820,Africa,South Africa,2023-08-29,26,Standard
+821,Middle East,UAE,2022-04-04,34,Standard
+822,Asia,South Korea,2023-05-18,42,Premium
+823,South America,Argentina,2022-03-23,47,Standard
+824,Middle East,Qatar,2023-03-25,55,Standard
+825,Middle East,Qatar,2023-02-06,53,Standard
+826,Middle East,Saudi Arabia,2022-09-04,61,Standard
+827,North America,Canada,2022-07-21,58,Standard
+828,Asia,South Korea,2022-09-04,30,Standard
+829,Europe,Germany,2023-04-08,60,Standard
+830,Europe,Germany,2023-10-16,36,Standard
+831,South America,Argentina,2023-03-07,65,Standard
+832,Africa,Egypt,2022-01-24,39,Premium
+833,Europe,Spain,2023-01-05,50,Standard
+834,Europe,France,2022-08-25,24,Standard
+835,Africa,Kenya,2024-02-19,66,Premium
+836,Africa,Kenya,2021-07-02,32,Standard
+837,Africa,Kenya,2023-05-12,68,Premium
+838,Asia,South Korea,2024-04-14,36,Standard
+839,North America,Canada,2021-04-20,58,Standard
+840,Middle East,UAE,2023-08-26,30,Standard
+841,Africa,Kenya,2023-12-22,37,Standard
+842,Europe,France,2022-02-15,39,Standard
+843,Middle East,Saudi Arabia,2021-10-21,38,Premium
+844,Europe,Germany,2023-09-26,39,Standard
+845,Europe,UK,2021-04-29,18,Standard
+846,Europe,France,2024-03-26,66,Standard
+847,North America,USA,2023-06-08,58,Standard
+848,South America,Argentina,2023-02-25,18,Standard
+849,Europe,UK,2021-01-29,38,Premium
+850,Middle East,UAE,2021-02-06,61,Standard
+851,Africa,South Africa,2022-04-09,62,Premium
+852,Asia,India,2021-07-30,42,Standard
+853,Asia,India,2021-05-14,70,Standard
+854,Asia,Singapore,2023-12-02,56,Standard
+855,South America,Chile,2021-10-02,39,VIP
+856,South America,Argentina,2022-01-21,28,VIP
+857,South America,Brazil,2022-04-13,32,Premium
+858,Europe,France,2021-02-14,55,Standard
+859,North America,Canada,2021-03-18,42,Premium
+860,Asia,Japan,2021-04-09,60,Standard
+861,North America,USA,2021-08-26,44,Standard
+862,North America,Mexico,2022-06-02,48,Premium
+863,Europe,Germany,2022-09-09,44,Standard
+864,Africa,Egypt,2022-07-07,57,Standard
+865,Europe,Spain,2021-08-03,50,Premium
+866,North America,Canada,2021-08-22,68,Standard
+867,Europe,France,2022-06-23,51,VIP
+868,Asia,Singapore,2022-08-28,28,Standard
+869,South America,,2023-09-12,39,Standard
+870,North America,Mexico,2021-07-02,25,Premium
+871,Africa,Kenya,2021-11-02,23,Premium
+872,North America,Mexico,2021-07-27,34,Standard
+873,South America,Argentina,2022-06-25,47,Standard
+874,Europe,Germany,2022-08-19,41,Premium
+875,Asia,Singapore,2021-08-26,24,Premium
+876,North America,USA,2021-10-11,60,Standard
+877,Asia,South Korea,2023-06-16,57,Standard
+878,Africa,South Africa,2023-02-03,70,Standard
+879,North America,Canada,2023-03-31,47,Standard
+880,South America,Chile,2023-09-07,69,Standard
+881,Europe,Germany,2021-09-29,62,Premium
+882,Europe,Germany,2023-05-03,55,Standard
+883,Middle East,Qatar,2023-06-17,29,Standard
+884,Asia,Japan,2021-09-25,48,VIP
+885,North America,Canada,2023-06-22,20,Standard
+886,Africa,Kenya,2021-01-26,63,Premium
+887,Middle East,Qatar,2024-03-26,64,Standard
+888,Africa,Kenya,2023-11-30,51,Premium
+889,Middle East,UAE,2023-06-06,60,Premium
+890,South America,Argentina,2023-02-28,27,Premium
+891,Middle East,Qatar,2021-04-22,18,Standard
+892,Europe,Spain,2023-10-13,28,Standard
+893,South America,Argentina,2022-05-09,39,VIP
+894,North America,Mexico,2022-04-02,53,Standard
+895,South America,Brazil,2021-06-11,47,Standard
+896,Middle East,Saudi Arabia,2021-06-30,49,Standard
+897,North America,Canada,2021-02-06,24,Standard
+898,North America,Mexico,2024-01-30,18,Premium
+899,Middle East,Qatar,2022-09-16,50,Standard
+900,Africa,Egypt,2023-07-24,39,Standard
+901,North America,USA,2023-07-20,39,Standard
+902,Middle East,Qatar,2023-08-27,63,Standard
+903,Africa,Kenya,2021-08-22,24,Premium
+904,Europe,Germany,2022-12-01,40,Premium
+905,Asia,South Korea,2021-08-06,20,Premium
+906,South America,Brazil,2023-04-19,24,Standard
+907,Europe,France,2021-09-05,43,Standard
+908,Europe,UK,2021-08-09,66,Standard
+909,Africa,Egypt,2021-09-10,67,Premium
+910,South America,Chile,2023-10-30,26,VIP
+911,North America,Mexico,2021-04-10,53,VIP
+912,Middle East,Saudi Arabia,2023-11-08,67,VIP
+913,Europe,France,2021-09-20,24,Standard
+914,Middle East,Qatar,2022-10-22,50,Premium
+915,South America,Chile,2022-05-24,35,Standard
+916,Asia,South Korea,2023-07-17,69,Standard
+917,South America,Chile,2023-11-16,37,Premium
+918,Middle East,Saudi Arabia,2024-02-08,58,Standard
+919,Europe,UK,2022-12-09,61,Standard
+920,Africa,Egypt,2021-12-31,50,Standard
+921,Africa,Kenya,2021-08-25,66,Standard
+922,South America,Chile,2024-03-14,60,Premium
+923,Africa,Egypt,2023-12-30,36,Premium
+924,South America,Brazil,2023-12-07,24,Standard
+925,Europe,Germany,2021-04-26,30,Standard
+926,Europe,UK,2022-05-29,27,Premium
+927,Africa,Kenya,2022-02-22,66,Standard
+928,Asia,Singapore,2021-07-29,57,Premium
+929,Africa,Egypt,2022-04-05,65,Standard
+930,South America,Brazil,2023-11-13,68,Premium
+931,Africa,Kenya,2021-04-07,42,Standard
+932,Africa,Kenya,2024-02-05,21,Standard
+933,Asia,India,2023-06-27,32,Premium
+934,Africa,Egypt,2023-01-24,66,Standard
+935,Africa,Egypt,2022-02-07,67,Premium
+936,Europe,UK,2023-07-09,29,VIP
+937,North America,USA,2021-12-22,65,Standard
+938,South America,Brazil,2023-05-28,35,Standard
+939,Europe,France,2024-04-11,34,Standard
+940,South America,Chile,2021-11-14,20,Standard
+941,Asia,Japan,2022-09-09,49,Premium
+942,Middle East,Saudi Arabia,2021-05-30,68,Premium
+943,Middle East,UAE,2022-01-12,51,Standard
+944,Middle East,UAE,2023-05-02,52,Standard
+945,North America,Canada,2022-03-30,31,Standard
+946,Asia,South Korea,2022-08-25,31,VIP
+947,Middle East,Qatar,2023-08-31,53,Premium
+948,Africa,South Africa,2021-08-23,60,Standard
+949,Europe,France,2021-03-23,61,Premium
+950,South America,Brazil,2023-03-02,34,Standard
+951,Asia,Japan,2023-11-25,70,Premium
+952,Middle East,Qatar,2023-07-02,49,Standard
+953,Africa,South Africa,2022-10-19,50,Standard
+954,North America,USA,2024-01-07,52,Standard
+955,North America,USA,2022-03-13,61,Standard
+956,North America,USA,2024-01-07,62,Premium
+957,Africa,Kenya,2021-05-28,65,Premium
+958,North America,Canada,2022-11-11,20,Standard
+959,North America,USA,2022-05-31,53,Standard
+960,Europe,UK,2023-04-15,42,Standard
+961,South America,Argentina,2022-10-10,19,Standard
+962,North America,Mexico,2021-01-13,59,Premium
+963,North America,Mexico,2024-04-14,20,Premium
+964,North America,Canada,2023-10-27,24,Standard
+965,Africa,Kenya,2021-06-27,36,Premium
+966,South America,Argentina,2023-03-21,70,Standard
+967,South America,Brazil,2023-12-29,32,Standard
+968,South America,Chile,2022-08-28,58,Standard
+969,Africa,Egypt,2023-02-04,18,Standard
+970,Middle East,UAE,2021-09-10,20,Standard
+971,Middle East,Saudi Arabia,2024-01-06,53,VIP
+972,Asia,India,2022-12-06,31,Standard
+973,Africa,Egypt,2021-10-19,28,Standard
+974,Middle East,Saudi Arabia,2022-02-02,25,Standard
+975,Middle East,UAE,2024-01-30,47,Standard
+976,North America,Canada,2021-05-18,34,Standard
+977,Africa,Egypt,2023-09-25,39,Standard
+978,Africa,Egypt,2022-04-26,24,Standard
+979,North America,USA,2022-10-13,49,Standard
+980,Middle East,Qatar,2022-09-19,62,Standard
+981,Middle East,Qatar,2023-01-17,69,Standard
+982,South America,Brazil,2021-01-10,38,Standard
+983,Europe,Spain,2022-07-21,41,Standard
+984,Africa,Kenya,2023-09-10,47,Standard
+985,Asia,Singapore,2024-02-04,24,Standard
+986,Middle East,UAE,2022-07-29,70,Standard
+987,Middle East,UAE,2022-06-24,64,Premium
+988,North America,Mexico,2021-06-04,19,Premium
+989,Africa,South Africa,2024-04-06,55,Standard
+990,Middle East,UAE,2021-03-17,53,Standard
+991,Middle East,Saudi Arabia,2021-11-01,41,Standard
+992,Middle East,Qatar,2022-08-19,26,Standard
+993,Middle East,UAE,2023-03-24,41,Standard
+994,Africa,South Africa,2021-12-06,66,Standard
+995,South America,Brazil,2022-01-02,54,VIP
+996,Africa,South Africa,2023-09-18,40,Standard
+997,South America,Brazil,2021-05-09,34,Standard
+998,North America,Mexico,2022-02-28,51,Premium
+999,Asia,Singapore,2023-08-20,47,Premium
+1000,North America,Mexico,2022-10-26,24,Premium
+1001,Middle East,Qatar,2022-07-15,65,Standard
+1002,Middle East,Qatar,2021-12-23,42,Standard
+1003,Asia,Japan,2023-11-25,34,Standard
+1004,Europe,Spain,2022-12-24,70,Premium
+1005,South America,Argentina,2021-01-14,50,Premium
+1006,South America,Brazil,2022-04-17,22,Standard
+1007,Asia,India,2021-11-04,29,Standard
+1008,Middle East,Qatar,2021-08-31,60,Standard
+1009,Asia,Japan,2023-09-14,61,Standard
+1010,Europe,France,2023-04-22,19,Standard
+1011,Europe,France,2021-10-03,58,Standard
+1012,Middle East,UAE,2021-04-25,28,Standard
+1013,Europe,Spain,2024-02-29,58,Standard
+1014,Africa,Egypt,2022-08-04,23,Standard
+1015,Middle East,Saudi Arabia,2023-09-14,28,Standard
+1016,South America,Chile,2021-10-20,68,Standard
+1017,Europe,UK,2021-12-10,64,Premium
+1018,South America,Chile,2021-05-21,32,Standard
+1019,Europe,Germany,2021-02-03,30,Standard
+1020,Middle East,Qatar,2023-05-10,70,Standard
+1021,North America,USA,2023-09-02,57,Standard
+1022,Middle East,Qatar,2021-08-29,23,Standard
+1023,Europe,Germany,2023-06-03,51,Standard
+1024,North America,Mexico,2023-12-22,45,Standard
+1025,South America,Argentina,2022-12-19,55,Premium
+1026,Africa,Egypt,2021-07-20,45,Standard
+1027,South America,Brazil,2021-06-21,36,Standard
+1028,Middle East,Saudi Arabia,2022-06-12,30,Standard
+1029,Africa,South Africa,2024-03-29,51,Standard
+1030,North America,Canada,2022-02-25,62,Premium
+1031,South America,Argentina,2021-08-07,27,Standard
+1032,Middle East,Saudi Arabia,2022-06-20,52,Standard
+1033,Asia,South Korea,2023-03-25,66,Standard
+1034,Middle East,Qatar,2023-09-16,29,Standard
+1035,Middle East,Saudi Arabia,2022-06-04,37,Standard
+1036,Africa,Kenya,2021-10-10,60,Standard
+1037,Europe,Spain,2021-11-28,24,Standard
+1038,South America,,2024-02-02,57,Premium
+1039,Africa,South Africa,2021-11-26,42,VIP
+1040,North America,USA,2021-10-25,48,VIP
+1041,South America,Brazil,2021-05-12,34,Standard
+1042,North America,Mexico,2021-03-19,64,Standard
+1043,South America,Chile,2023-12-04,36,Premium
+1044,Middle East,UAE,2021-12-25,58,Standard
+1045,North America,USA,2023-11-28,36,Standard
+1046,Middle East,Qatar,2023-11-23,62,Standard
+1047,Europe,Germany,2023-01-07,33,Standard
+1048,Europe,Germany,2022-07-20,67,Standard
+1049,Africa,,2023-04-11,55,Standard
+1050,North America,Mexico,2021-05-21,23,Standard
+1051,Africa,Egypt,2024-04-08,40,Standard
+1052,Asia,India,2022-02-03,47,VIP
+1053,Middle East,UAE,2022-06-19,29,Standard
+1054,North America,Mexico,2021-05-29,50,Standard
+1055,North America,Mexico,2022-06-12,52,Premium
+1056,Middle East,Saudi Arabia,2023-06-26,42,Standard
+1057,Europe,UK,2023-07-29,61,Standard
+1058,Middle East,UAE,2023-09-15,25,Standard
+1059,South America,Chile,2022-03-28,61,Premium
+1060,Asia,Singapore,2022-12-25,51,Standard
+1061,Africa,Kenya,2022-05-24,36,Standard
+1062,Africa,Egypt,2022-12-02,22,Standard
+1063,Europe,Spain,2022-10-05,40,Standard
+1064,Middle East,Saudi Arabia,2022-01-10,65,Premium
+1065,Europe,Spain,2022-02-13,33,Premium
+1066,Asia,India,2022-04-15,30,Premium
+1067,Middle East,Saudi Arabia,2021-11-16,67,Standard
+1068,North America,Mexico,2023-10-06,57,Standard
+1069,Middle East,UAE,2023-09-15,41,Standard
+1070,South America,Chile,2022-07-17,49,Standard
+1071,Middle East,Saudi Arabia,2023-03-26,32,Premium
+1072,Europe,Germany,2023-12-13,69,Standard
+1073,Middle East,,2023-10-27,40,Standard
+1074,Africa,South Africa,2023-07-26,25,Premium
+1075,South America,Argentina,2021-01-18,18,Standard
+1076,South America,Chile,2021-07-26,38,Standard
+1077,Asia,India,2024-01-29,34,Standard
+1078,South America,Chile,2022-12-04,41,Standard
+1079,South America,Brazil,2023-05-09,62,Premium
+1080,Asia,Singapore,2022-07-27,46,Standard
+1081,Europe,France,2021-07-24,64,Standard
+1082,Europe,Spain,2023-02-20,30,Standard
+1083,Africa,South Africa,2023-08-27,69,Standard
+1084,South America,Argentina,2021-10-03,58,Standard
+1085,Africa,Kenya,2023-09-24,37,Standard
+1086,Middle East,UAE,2023-03-27,24,Premium
+1087,North America,USA,2022-06-05,48,Premium
+1088,North America,Canada,2022-11-17,34,Standard
+1089,Middle East,Qatar,2022-06-12,40,Standard
+1090,North America,Canada,2022-02-12,54,Standard
+1091,Africa,Egypt,2021-12-24,67,Standard
+1092,Asia,Singapore,2023-07-05,23,Standard
+1093,Asia,Singapore,2021-10-24,28,Standard
+1094,Asia,Singapore,2024-03-16,43,Premium
+1095,North America,USA,2021-11-28,39,Standard
+1096,Asia,South Korea,2022-07-02,56,Standard
+1097,Asia,Singapore,2023-01-14,65,Standard
+1098,South America,Argentina,2021-12-09,29,Premium
+1099,Europe,France,2022-05-31,65,Premium
+1100,North America,USA,2021-12-08,43,Standard
+1101,North America,Canada,2024-01-29,21,Standard
+1102,South America,Chile,2021-06-20,24,Standard
+1103,Europe,Germany,2023-03-10,37,Standard
+1104,Africa,Kenya,2023-06-27,58,Standard
+1105,Middle East,UAE,2021-02-28,20,Standard
+1106,Asia,Singapore,2023-08-15,52,VIP
+1107,Middle East,Saudi Arabia,2021-10-04,62,Standard
+1108,Middle East,Qatar,2023-07-25,58,Premium
+1109,Middle East,Saudi Arabia,2023-12-09,58,Standard
+1110,Asia,South Korea,2023-09-14,52,Standard
+1111,North America,Canada,2022-09-23,41,Standard
+1112,Europe,UK,2021-01-22,18,Standard
+1113,Europe,UK,2022-08-11,48,Standard
+1114,Africa,Kenya,2023-09-05,37,Standard
+1115,South America,Argentina,2022-04-19,68,Standard
+1116,Asia,India,2023-04-24,53,Standard
+1117,Europe,France,2023-03-10,42,Standard
+1118,North America,Canada,2022-05-06,51,Premium
+1119,Middle East,Qatar,2022-07-11,36,Standard
+1120,Middle East,Saudi Arabia,2023-04-26,30,Premium
+1121,Europe,France,2022-08-17,25,Standard
+1122,Middle East,Saudi Arabia,2022-07-12,62,Standard
+1123,Europe,UK,2021-02-09,27,Standard
+1124,Middle East,UAE,2022-01-16,24,Standard
+1125,Europe,Spain,2021-01-17,32,Standard
+1126,North America,Canada,2022-03-21,39,Standard
+1127,South America,Argentina,2023-08-08,62,Premium
+1128,Asia,Japan,2021-10-27,21,Standard
+1129,South America,Brazil,2024-01-18,48,Standard
+1130,Asia,Singapore,2021-01-26,25,VIP
+1131,Africa,South Africa,2023-02-28,67,VIP
+1132,Europe,Germany,2022-02-12,47,Premium
+1133,North America,Mexico,2022-03-03,48,Standard
+1134,Asia,South Korea,2021-11-21,58,Premium
+1135,Africa,Egypt,2023-12-03,25,Standard
+1136,Africa,Kenya,2022-02-11,41,Premium
+1137,Africa,South Africa,2021-08-20,33,Standard
+1138,Asia,Japan,2021-12-09,68,Standard
+1139,North America,Canada,2022-05-13,18,VIP
+1140,Middle East,Qatar,2023-09-01,62,Standard
+1141,Asia,Japan,2022-05-25,28,Standard
+1142,Africa,Egypt,2022-11-25,66,Standard
+1143,North America,Canada,2021-11-12,62,Standard
+1144,North America,USA,2023-09-27,32,Standard
+1145,Middle East,Qatar,2022-12-13,69,Premium
+1146,Africa,South Africa,2021-02-13,62,Standard
+1147,Africa,South Africa,2022-05-29,20,Standard
+1148,South America,Chile,2022-08-27,52,Premium
+1149,Europe,France,2024-01-19,40,Standard
+1150,South America,Argentina,2024-02-10,28,Standard
+1151,Europe,Spain,2022-08-29,70,Standard
+1152,Asia,Singapore,2021-01-02,67,Standard
+1153,South America,Chile,2022-01-15,19,Standard
+1154,Asia,India,2022-10-19,64,Standard
+1155,Middle East,Saudi Arabia,2022-01-24,51,Premium
+1156,Middle East,UAE,2022-08-03,38,Standard
+1157,Asia,Japan,2021-07-17,51,Standard
+1158,North America,USA,2022-01-01,20,Standard
+1159,South America,Brazil,2021-07-22,20,Standard
+1160,South America,Chile,2023-10-01,51,Standard
+1161,Middle East,Saudi Arabia,2021-04-11,41,Standard
+1162,Africa,South Africa,2021-01-27,31,Standard
+1163,North America,Canada,2021-05-05,41,Standard
+1164,South America,Argentina,2021-04-30,70,Standard
+1165,Middle East,UAE,2021-05-25,37,Standard
+1166,Europe,Germany,2021-07-27,64,Standard
+1167,South America,Brazil,2022-01-31,51,Standard
+1168,Middle East,Qatar,2022-01-02,53,Premium
+1169,South America,Chile,2021-08-05,67,Standard
+1170,Asia,Singapore,2023-05-25,24,Standard
+1171,Europe,Spain,2023-10-31,39,Standard
+1172,Middle East,Qatar,2023-06-27,40,Premium
+1173,Middle East,Saudi Arabia,2023-02-01,44,Premium
+1174,South America,Chile,2022-10-25,56,Standard
+1175,Middle East,UAE,2023-02-08,67,Standard
+1176,Africa,Kenya,2023-01-08,46,Standard
+1177,South America,Brazil,2021-03-12,36,Standard
+1178,Middle East,UAE,2022-09-11,18,Standard
+1179,Europe,France,2022-10-07,19,Premium
+1180,Africa,Kenya,2024-02-08,50,Standard
+1181,Middle East,UAE,2021-07-13,20,Standard
+1182,Europe,France,2022-06-27,41,Premium
+1183,Europe,France,2022-06-09,69,Standard
+1184,Middle East,Saudi Arabia,2024-03-11,31,Premium
+1185,Africa,Kenya,2023-09-16,29,Standard
+1186,Africa,Egypt,2024-03-26,70,Premium
+1187,Middle East,Qatar,2022-09-08,20,Premium
+1188,Middle East,Saudi Arabia,2021-06-10,67,Standard
+1189,Asia,South Korea,2023-06-09,44,VIP
+1190,North America,USA,2021-01-24,58,Premium
+1191,South America,Brazil,2022-09-17,51,Standard
+1192,Middle East,Qatar,2021-11-03,38,Standard
+1193,Europe,France,2021-04-14,61,Premium
+1194,South America,Argentina,2024-03-24,50,Standard
+1195,South America,Argentina,2023-03-19,27,Standard
+1196,North America,Canada,2024-03-16,65,Standard
+1197,South America,Argentina,2021-06-24,43,Standard
+1198,Africa,South Africa,2021-10-04,48,Standard
+1199,South America,Argentina,2024-03-16,30,Standard
+1200,Africa,Egypt,2022-05-20,33,Standard
+1201,South America,Argentina,2024-03-25,23,Standard
+1202,South America,Argentina,2023-01-19,40,Standard
+1203,Asia,Japan,2022-09-17,28,VIP
+1204,Middle East,Saudi Arabia,2021-10-26,46,Standard
+1205,Europe,France,2023-02-05,27,Premium
+1206,North America,USA,2021-04-22,33,VIP
+1207,Europe,UK,2021-01-29,39,Premium
+1208,North America,Canada,2023-07-11,48,Standard
+1209,Europe,France,2022-02-22,52,Standard
+1210,Asia,Singapore,2021-10-17,62,Premium
+1211,North America,Canada,2024-04-08,60,Standard
+1212,Asia,India,2021-05-04,36,Standard
+1213,Africa,Egypt,2022-07-10,21,Standard
+1214,North America,USA,2023-03-07,60,Standard
+1215,Africa,Kenya,2021-08-09,19,Standard
+1216,Africa,Kenya,2022-04-19,42,Standard
+1217,Africa,South Africa,2022-10-09,49,Premium
+1218,Middle East,UAE,2022-01-17,30,Standard
+1219,South America,Chile,2021-02-14,20,Standard
+1220,Middle East,Saudi Arabia,2022-11-15,49,Standard
+1221,Europe,Germany,2022-12-12,61,Standard
+1222,Africa,Kenya,2022-04-29,50,Standard
+1223,North America,Mexico,2022-06-12,42,Premium
+1224,North America,Mexico,2022-07-28,32,Standard
+1225,South America,Chile,2021-10-09,23,Premium
+1226,Middle East,Qatar,2022-04-11,44,Standard
+1227,Europe,Spain,2022-10-02,56,Standard
+1228,Middle East,UAE,2022-02-28,59,Standard
+1229,Middle East,Qatar,2022-02-19,26,Standard
+1230,Africa,Egypt,2021-10-04,45,VIP
+1231,Europe,France,2022-10-13,22,Standard
+1232,Africa,South Africa,2022-01-13,38,Premium
+1233,Europe,Germany,2022-10-15,44,VIP
+1234,Asia,Singapore,2022-07-15,27,Premium
+1235,North America,USA,2022-01-14,19,Premium
+1236,Middle East,Qatar,2022-07-01,56,Standard
+1237,Europe,France,2022-04-18,61,Standard
+1238,North America,Mexico,2023-09-04,26,Standard
+1239,Middle East,Saudi Arabia,2023-02-05,29,Premium
+1240,South America,Argentina,2021-10-09,28,Standard
+1241,North America,Canada,2021-01-31,35,VIP
+1242,Europe,France,2022-02-23,22,Standard
+1243,South America,Chile,2023-10-01,62,Standard
+1244,South America,Brazil,2023-05-26,43,Premium
+1245,Middle East,Qatar,2023-02-19,64,Standard
+1246,Middle East,Qatar,2024-03-17,56,Standard
+1247,Africa,Egypt,2021-03-20,51,Standard
+1248,South America,Brazil,2022-05-19,51,Standard
+1249,Africa,South Africa,2024-02-17,42,Standard
+1250,Africa,South Africa,2022-01-24,36,Standard
+1251,Asia,South Korea,2023-08-03,28,Standard
+1252,Middle East,UAE,2023-11-25,27,Standard
+1253,Africa,Kenya,2021-07-05,64,Standard
+1254,Europe,France,2023-03-17,44,Standard
+1255,North America,USA,2023-07-19,55,Premium
+1256,Europe,Spain,2021-07-04,34,Standard
+1257,Africa,Egypt,2021-12-02,63,Premium
+1258,North America,USA,2023-07-10,58,Standard
+1259,Middle East,Qatar,2023-02-26,64,Premium
+1260,Middle East,Qatar,2021-11-24,42,Standard
+1261,North America,USA,2022-11-18,54,Premium
+1262,Europe,France,2021-10-24,29,Premium
+1263,North America,Canada,2022-09-23,37,Premium
+1264,South America,Argentina,2022-01-06,25,Premium
+1265,Europe,Germany,2022-06-03,18,Standard
+1266,South America,Chile,2021-01-12,56,Premium
+1267,Europe,France,2023-09-02,47,Standard
+1268,North America,Mexico,2021-01-14,33,Premium
+1269,Asia,India,2021-04-11,29,Standard
+1270,Africa,Kenya,2021-03-17,27,Premium
+1271,Africa,Egypt,2022-09-04,39,VIP
+1272,North America,USA,2023-05-04,29,Standard
+1273,Asia,India,2023-07-22,65,Standard
+1274,North America,USA,2022-09-05,38,Standard
+1275,South America,,2023-05-26,53,Standard
+1276,South America,Brazil,2021-09-07,62,Premium
+1277,Asia,Singapore,2023-12-11,31,Premium
+1278,Middle East,UAE,2021-08-12,54,Premium
+1279,Africa,Egypt,2021-06-29,48,Premium
+1280,Middle East,Qatar,2022-08-12,45,Standard
+1281,Asia,South Korea,2023-12-13,54,VIP
+1282,Asia,India,2024-02-27,49,Standard
+1283,Africa,Kenya,2023-10-06,69,Standard
+1284,Middle East,UAE,2022-08-18,30,Standard
+1285,North America,Canada,2021-08-30,65,Premium
+1286,Middle East,Saudi Arabia,2023-04-28,20,Standard
+1287,Middle East,Qatar,2022-03-11,18,Standard
+1288,Africa,Kenya,2022-06-06,68,Standard
+1289,Asia,South Korea,2021-01-13,25,Premium
+1290,Asia,Singapore,2024-03-11,57,VIP
+1291,Europe,France,2022-11-08,39,VIP
+1292,South America,Argentina,2021-03-14,59,Standard
+1293,Europe,Spain,2024-01-05,39,Standard
+1294,South America,Chile,2021-04-25,51,Standard
+1295,Africa,Egypt,2022-10-09,53,Standard
+1296,Europe,UK,2022-12-26,22,VIP
+1297,Asia,Japan,2022-11-26,42,Standard
+1298,Europe,Spain,2022-01-19,56,Standard
+1299,Asia,South Korea,2021-03-06,35,Standard
+1300,South America,Brazil,2023-02-01,46,Premium
+1301,Asia,India,2023-12-12,37,Standard
+1302,Asia,Japan,2022-02-18,23,Standard
+1303,North America,,2023-10-22,27,Standard
+1304,South America,Chile,2023-12-09,37,Premium
+1305,Europe,Germany,2023-11-24,61,VIP
+1306,Europe,Germany,2023-07-30,42,Premium
+1307,Middle East,UAE,2021-01-09,37,VIP
+1308,Africa,Egypt,2021-06-28,39,Standard
+1309,North America,USA,2023-12-03,67,Standard
+1310,Asia,Japan,2024-03-28,66,Standard
+1311,Europe,UK,2022-02-15,30,Standard
+1312,Middle East,Saudi Arabia,2023-06-23,60,Standard
+1313,Europe,France,2022-07-15,25,Standard
+1314,Middle East,Qatar,2023-11-19,24,Standard
+1315,Asia,South Korea,2022-07-10,27,VIP
+1316,Asia,India,2021-12-17,22,Standard
+1317,Asia,Singapore,2021-04-14,26,Standard
+1318,Africa,South Africa,2021-08-05,42,Standard
+1319,South America,Argentina,2022-01-02,63,Standard
+1320,Middle East,Qatar,2023-07-03,57,Standard
+1321,Asia,India,2023-12-29,23,VIP
+1322,South America,Chile,2021-09-27,23,Premium
+1323,Africa,Kenya,2021-07-19,47,Standard
+1324,Africa,Egypt,2023-08-12,48,Standard
+1325,Europe,France,2022-06-13,41,Standard
+1326,Africa,Egypt,2022-11-08,68,Premium
+1327,Asia,Singapore,2023-09-26,19,Standard
+1328,North America,Canada,2023-09-08,47,Premium
+1329,Asia,South Korea,2024-03-22,26,Standard
+1330,South America,Chile,2021-08-08,38,Standard
+1331,North America,Canada,2023-12-28,47,Standard
+1332,South America,Brazil,2022-05-15,53,Standard
+1333,South America,Argentina,2021-05-16,39,Standard
+1334,Africa,Egypt,2023-06-02,68,VIP
+1335,Middle East,Saudi Arabia,2024-01-21,62,Standard
+1336,Africa,Egypt,2021-06-09,65,VIP
+1337,Middle East,Saudi Arabia,2021-08-23,55,Standard
+1338,Asia,Japan,2023-07-01,29,Standard
+1339,South America,Brazil,2021-08-11,61,Premium
+1340,South America,Argentina,2023-10-10,59,Standard
+1341,North America,USA,2021-10-12,55,Premium
+1342,Africa,South Africa,2021-10-28,60,Standard
+1343,Middle East,Saudi Arabia,2023-03-10,57,Standard
+1344,Europe,France,2022-10-11,37,Standard
+1345,Africa,Kenya,2023-06-10,63,VIP
+1346,Asia,Japan,2024-04-08,18,Standard
+1347,Middle East,Saudi Arabia,2021-09-19,36,Standard
+1348,Middle East,UAE,2021-01-02,63,Standard
+1349,Asia,Japan,2022-08-01,19,Standard
+1350,Africa,Egypt,2023-03-19,58,Standard
+1351,South America,Argentina,2023-02-21,45,Standard
+1352,Africa,South Africa,2023-08-31,26,Standard
+1353,South America,Argentina,2023-05-05,27,Standard
+1354,Africa,South Africa,2021-10-03,18,Standard
+1355,North America,USA,2023-09-24,60,Standard
+1356,Europe,Germany,2021-10-09,59,Premium
+1357,South America,Chile,2023-05-22,57,Standard
+1358,Middle East,Saudi Arabia,2024-02-05,70,Standard
+1359,Asia,India,2022-01-16,45,Standard
+1360,Middle East,Saudi Arabia,2022-04-30,63,Standard
+1361,South America,Chile,2024-03-26,41,Standard
+1362,North America,Mexico,2023-09-17,63,Standard
+1363,Middle East,Saudi Arabia,2021-06-13,27,Premium
+1364,Middle East,Saudi Arabia,2023-08-11,51,Standard
+1365,Middle East,UAE,2022-05-18,48,Standard
+1366,Africa,Egypt,2021-06-09,61,Standard
+1367,Middle East,Saudi Arabia,2021-04-19,39,Standard
+1368,North America,Canada,2023-07-19,50,Premium
+1369,Middle East,Qatar,2022-11-10,44,Standard
+1370,Asia,South Korea,2021-12-10,20,Premium
+1371,Middle East,Qatar,2022-09-15,64,Premium
+1372,Asia,Japan,2023-08-28,55,Standard
+1373,North America,Mexico,2022-08-21,69,Premium
+1374,North America,Canada,2023-09-20,23,Standard
+1375,North America,Canada,2022-06-01,26,Standard
+1376,Asia,South Korea,2021-01-30,65,Standard
+1377,Europe,France,2023-07-04,41,Premium
+1378,Asia,India,2023-09-21,29,Premium
+1379,North America,Canada,2021-06-22,27,Standard
+1380,Europe,Spain,2023-04-26,67,Standard
+1381,Africa,Kenya,2021-12-09,31,Standard
+1382,Asia,Japan,2022-06-26,66,Premium
+1383,North America,USA,2023-08-09,43,Standard
+1384,South America,Chile,2023-12-27,32,Standard
+1385,Africa,Kenya,2023-08-30,34,Standard
+1386,South America,Brazil,2022-08-15,69,Standard
+1387,Africa,Kenya,2023-12-22,61,VIP
+1388,North America,Mexico,2022-12-26,45,Standard
+1389,Africa,Kenya,2022-11-18,35,Standard
+1390,North America,Canada,2024-04-11,43,Standard
+1391,Africa,Egypt,2022-05-11,64,Standard
+1392,Europe,UK,2022-01-04,38,Standard
+1393,Africa,South Africa,2021-05-20,18,Standard
+1394,Middle East,UAE,2023-07-03,40,Standard
+1395,Asia,South Korea,2022-01-31,20,Standard
+1396,North America,USA,2022-03-21,56,Standard
+1397,Africa,South Africa,2021-06-26,56,Standard
+1398,Africa,Egypt,2024-03-05,69,VIP
+1399,North America,Mexico,2022-01-13,34,Standard
+1400,Africa,South Africa,2023-07-18,35,Premium
+1401,Africa,Egypt,2022-10-25,34,Standard
+1402,North America,Canada,2021-05-08,42,Standard
+1403,North America,Canada,2022-06-27,29,Standard
+1404,South America,Brazil,2023-03-16,29,Standard
+1405,North America,USA,2024-01-13,67,Standard
+1406,Middle East,Qatar,2021-08-06,46,Premium
+1407,North America,USA,2021-05-30,22,Standard
+1408,Asia,Singapore,2021-02-08,49,Standard
+1409,Africa,South Africa,2021-03-19,60,Standard
+1410,Europe,UK,2023-03-13,54,Standard
+1411,Africa,Kenya,2023-09-07,45,Standard
+1412,Africa,South Africa,2024-01-12,32,Standard
+1413,Africa,Kenya,2021-09-06,54,Standard
+1414,Asia,South Korea,2022-09-13,43,Standard
+1415,Africa,South Africa,2023-01-19,52,Premium
+1416,Asia,Japan,2023-07-31,66,Premium
+1417,Africa,South Africa,2021-12-28,53,Standard
+1418,South America,Chile,2022-01-27,37,Premium
+1419,North America,Mexico,2023-01-06,49,Standard
+1420,Africa,Kenya,2022-01-24,26,Standard
+1421,North America,Mexico,2022-05-04,49,Standard
+1422,Middle East,Qatar,2022-09-23,49,Standard
+1423,South America,Brazil,2021-03-17,39,Standard
+1424,Africa,South Africa,2023-04-11,25,Standard
+1425,Africa,Egypt,2023-12-08,47,VIP
+1426,Middle East,UAE,2024-04-01,32,VIP
+1427,North America,Mexico,2021-10-17,49,Standard
+1428,South America,Chile,2021-04-04,33,Premium
+1429,Europe,Germany,2021-12-19,58,Standard
+1430,Asia,Japan,2023-07-24,57,Standard
+1431,Middle East,UAE,2021-08-06,25,Standard
+1432,Middle East,UAE,2021-05-10,69,Standard
+1433,Asia,Singapore,2022-10-27,25,VIP
+1434,Middle East,Qatar,2021-10-09,38,Premium
+1435,Europe,Germany,2021-12-22,39,Standard
+1436,Asia,India,2023-05-01,28,Premium
+1437,Middle East,UAE,2023-06-18,33,VIP
+1438,North America,USA,2021-07-24,68,Premium
+1439,Middle East,Saudi Arabia,2021-11-20,19,Premium
+1440,North America,USA,2021-01-15,29,VIP
+1441,Africa,Egypt,2022-08-05,44,Premium
+1442,South America,Chile,2021-09-17,31,Standard
+1443,Asia,Singapore,2023-04-24,33,VIP
+1444,Middle East,Qatar,2021-03-19,56,Standard
+1445,South America,Chile,2021-06-30,58,Premium
+1446,Asia,South Korea,2023-05-08,18,Standard
+1447,Europe,Germany,2023-12-22,24,Standard
+1448,Middle East,Qatar,2022-03-26,47,Premium
+1449,Africa,South Africa,2022-07-21,21,Standard
+1450,Europe,Spain,2023-10-16,29,Standard
+1451,North America,USA,2023-01-16,36,Standard
+1452,Asia,South Korea,2023-07-18,20,Standard
+1453,North America,Mexico,2021-12-27,28,Premium
+1454,South America,Chile,2021-08-26,22,Premium
+1455,Africa,Kenya,2024-04-02,38,Standard
+1456,Africa,Egypt,2022-10-30,32,Premium
+1457,Asia,India,2021-07-20,33,Premium
+1458,Europe,Spain,2022-03-28,22,Standard
+1459,South America,Brazil,2023-06-12,27,Standard
+1460,Middle East,Saudi Arabia,2021-12-31,42,Standard
+1461,South America,Chile,2022-02-02,58,Standard
+1462,Asia,India,2022-11-19,26,Standard
+1463,Middle East,UAE,2022-07-29,26,Standard
+1464,South America,Argentina,2023-05-07,28,Premium
+1465,Europe,UK,2021-11-18,68,Premium
+1466,Middle East,UAE,2024-03-29,53,Premium
+1467,North America,Canada,2023-12-05,49,Premium
+1468,Europe,Spain,2023-08-06,35,Standard
+1469,South America,Chile,2022-05-21,33,Standard
+1470,Middle East,UAE,2021-11-02,54,Premium
+1471,South America,Brazil,2021-03-24,48,Premium
+1472,Middle East,UAE,2023-05-22,51,Standard
+1473,Africa,South Africa,2023-07-16,49,Standard
+1474,Middle East,UAE,2023-04-13,31,Standard
+1475,Asia,India,2021-07-05,19,Standard
+1476,Asia,India,2023-07-30,54,Premium
+1477,North America,Canada,2023-08-08,67,Standard
+1478,Africa,Kenya,2022-01-14,68,Premium
+1479,Africa,Kenya,2021-01-03,58,Standard
+1480,Africa,Kenya,2023-12-24,20,Standard
+1481,Asia,India,2021-06-15,57,Premium
+1482,Africa,South Africa,2023-11-21,61,Standard
+1483,North America,USA,2023-02-24,41,Standard
+1484,North America,Canada,2023-01-21,29,Standard
+1485,Africa,South Africa,2024-02-23,63,Premium
+1486,Europe,UK,2022-05-04,52,Standard
+1487,South America,Chile,2024-04-03,62,Standard
+1488,Africa,South Africa,2022-10-19,40,Premium
+1489,Middle East,Qatar,2023-05-17,35,Standard
+1490,Asia,South Korea,2023-07-16,49,Standard
+1491,North America,Canada,2023-12-26,61,Premium
+1492,Asia,Singapore,2023-01-24,69,Standard
+1493,Africa,South Africa,2022-01-21,47,Standard
+1494,South America,Brazil,2022-08-14,22,Standard
+1495,Asia,Japan,2021-10-31,49,Standard
+1496,Europe,Germany,2022-08-24,44,VIP
+1497,Middle East,UAE,2023-08-29,40,Standard
+1498,Africa,Egypt,2021-02-13,36,Standard
+1499,North America,USA,2023-12-01,59,Standard
+1500,Middle East,Saudi Arabia,2022-10-31,49,Standard
+1501,Africa,Egypt,2024-01-29,46,Standard
+1502,Middle East,UAE,2022-09-20,28,Premium
+1503,Europe,Spain,2023-02-01,36,Premium
+1504,North America,USA,2022-12-25,36,Standard
+1505,Europe,France,2024-01-02,36,Standard
+1506,Europe,France,2021-11-27,33,Standard
+1507,Asia,India,2023-06-22,34,Standard
+1508,Europe,Germany,2022-10-12,40,Standard
+1509,South America,Chile,2021-11-29,52,Standard
+1510,North America,Canada,2023-10-20,67,Standard
+1511,South America,Argentina,2021-11-16,18,VIP
+1512,Middle East,Qatar,2022-11-10,59,Premium
+1513,South America,Argentina,2024-03-20,60,Standard
+1514,Middle East,Qatar,2023-06-25,39,Premium
+1515,Africa,Kenya,2021-03-24,26,Standard
+1516,North America,Canada,2021-02-20,43,Standard
+1517,Europe,Spain,2023-01-02,23,Standard
+1518,Middle East,Qatar,2022-02-04,55,Standard
+1519,Asia,India,2021-02-16,23,Standard
+1520,South America,Chile,2021-06-28,50,Standard
+1521,South America,Argentina,2023-11-14,21,Premium
+1522,Asia,Singapore,2021-10-30,63,Premium
+1523,Asia,Singapore,2023-02-03,18,Standard
+1524,Asia,South Korea,2023-07-02,53,Standard
+1525,Africa,Kenya,2023-05-02,69,Standard
+1526,Europe,Spain,2023-04-29,26,Premium
+1527,Middle East,UAE,2021-10-22,31,Standard
+1528,Middle East,Saudi Arabia,2021-05-16,55,Premium
+1529,North America,USA,2023-04-19,58,Premium
+1530,South America,Brazil,2024-02-13,47,Premium
+1531,Europe,France,2022-01-16,42,Standard
+1532,South America,Brazil,2022-09-11,55,Standard
+1533,Middle East,Qatar,2023-08-08,32,Standard
+1534,North America,USA,2022-06-22,37,VIP
+1535,Africa,Kenya,2021-09-12,59,Standard
+1536,Asia,Singapore,2022-01-03,49,Premium
+1537,Africa,South Africa,2021-02-28,25,Premium
+1538,South America,Brazil,2023-01-11,55,Standard
+1539,South America,Argentina,2023-09-02,62,Premium
+1540,Asia,Japan,2022-06-16,28,Standard
+1541,Europe,UK,2023-08-03,62,Standard
+1542,Europe,Germany,2022-07-13,41,Standard
+1543,Asia,Japan,2022-08-17,36,Standard
+1544,North America,Mexico,2022-02-01,67,Standard
+1545,North America,Mexico,2021-12-09,52,Standard
+1546,Asia,South Korea,2022-07-10,61,Premium
+1547,Asia,Japan,2023-12-31,55,Standard
+1548,Europe,Germany,2021-10-08,51,Standard
+1549,South America,Argentina,2022-11-28,28,Standard
+1550,Europe,France,2022-01-21,68,Premium
+1551,Middle East,Qatar,2023-12-13,52,Premium
+1552,Africa,South Africa,2023-05-05,47,Premium
+1553,North America,USA,2021-02-05,48,Standard
+1554,Africa,Kenya,2021-10-12,70,Standard
+1555,Middle East,Qatar,2022-12-02,29,Premium
+1556,North America,Mexico,2021-08-31,32,Standard
+1557,Africa,South Africa,2022-04-10,37,Standard
+1558,Europe,Germany,2023-05-21,62,Premium
+1559,North America,USA,2021-02-08,67,Standard
+1560,South America,Brazil,2022-02-07,24,Standard
+1561,Africa,Egypt,2021-05-02,48,Standard
+1562,Asia,Japan,2021-05-16,37,Standard
+1563,North America,USA,2022-02-25,55,Premium
+1564,Europe,UK,2021-03-01,23,Standard
+1565,Africa,Kenya,2024-04-02,40,Standard
+1566,Middle East,Qatar,2022-05-11,50,Standard
+1567,North America,Mexico,2021-01-29,51,Standard
+1568,Europe,UK,2021-12-18,66,Standard
+1569,Africa,South Africa,2022-03-15,50,Premium
+1570,South America,Argentina,2022-01-15,46,Standard
+1571,North America,USA,2022-12-28,42,Standard
+1572,Middle East,UAE,2023-04-15,25,Premium
+1573,Asia,Japan,2023-08-13,25,Standard
+1574,South America,Argentina,2022-08-14,53,Premium
+1575,North America,Canada,2023-10-09,25,Standard
+1576,South America,Chile,2022-10-01,61,VIP
+1577,South America,Brazil,2024-02-09,44,Standard
+1578,South America,Brazil,2021-05-23,69,Standard
+1579,Africa,Kenya,2022-01-03,18,VIP
+1580,South America,Chile,2021-08-04,43,Standard
+1581,Africa,Egypt,2021-06-24,25,Standard
+1582,South America,Chile,2021-07-28,65,VIP
+1583,Europe,Germany,2023-01-15,30,Standard
+1584,Middle East,Saudi Arabia,2021-09-09,32,Premium
+1585,Africa,Kenya,2022-07-25,66,Premium
+1586,Middle East,Qatar,2022-07-14,66,Premium
+1587,Africa,Kenya,2022-12-31,48,Standard
+1588,South America,Argentina,2023-11-14,35,Standard
+1589,South America,Brazil,2021-09-08,34,Standard
+1590,Europe,France,2021-03-02,24,Premium
+1591,North America,Canada,2021-02-24,29,Standard
+1592,Africa,Kenya,2021-11-09,37,Standard
+1593,North America,USA,2023-12-01,67,Standard
+1594,South America,Brazil,2022-08-25,60,Standard
+1595,Middle East,Saudi Arabia,2024-01-16,39,Premium
+1596,Middle East,Qatar,2021-02-06,66,Standard
+1597,South America,Brazil,2023-02-25,46,Standard
+1598,South America,Argentina,2023-07-31,20,Standard
+1599,Middle East,Qatar,2022-09-13,63,Standard
+1600,South America,Brazil,2022-10-02,63,Standard
+1601,North America,Mexico,2023-10-02,60,Standard
+1602,Middle East,Qatar,2023-08-21,48,Standard
+1603,Europe,Germany,2023-03-13,34,Standard
+1604,South America,Chile,2022-12-24,67,VIP
+1605,Asia,Japan,2021-02-27,55,Standard
+1606,Asia,South Korea,2024-04-10,19,Premium
+1607,Africa,Kenya,2023-02-19,24,Standard
+1608,Asia,Singapore,2022-12-21,21,Standard
+1609,Europe,France,2022-10-02,55,Standard
+1610,Africa,South Africa,2022-09-17,25,Standard
+1611,North America,Mexico,2022-10-30,20,Standard
+1612,South America,Chile,2023-11-21,44,Standard
+1613,Africa,Kenya,2021-02-15,38,Standard
+1614,South America,Argentina,2024-03-18,24,Premium
+1615,North America,Mexico,2022-02-26,39,Standard
+1616,Africa,Kenya,2021-12-08,57,Standard
+1617,South America,Brazil,2023-10-15,58,Premium
+1618,North America,Mexico,2022-03-15,36,Standard
+1619,Asia,Singapore,2022-04-08,57,Premium
+1620,North America,Mexico,2024-03-30,24,Standard
+1621,Asia,Japan,2024-03-06,69,Standard
+1622,South America,Brazil,2022-12-13,68,Standard
+1623,Asia,South Korea,2023-06-06,60,Standard
+1624,Europe,Spain,2023-04-04,34,Standard
+1625,South America,Chile,2024-01-27,29,Premium
+1626,Africa,Egypt,2023-11-24,29,Standard
+1627,Europe,Spain,2022-07-03,58,Standard
+1628,Middle East,Saudi Arabia,2024-03-05,64,Standard
+1629,Middle East,UAE,2023-01-17,47,Standard
+1630,Europe,UK,2023-06-11,44,Standard
+1631,North America,Mexico,2022-02-21,44,Standard
+1632,Asia,India,2022-06-10,61,Standard
+1633,South America,Brazil,2021-08-21,27,Standard
+1634,Europe,UK,2023-08-09,49,Standard
+1635,South America,Argentina,2021-03-17,30,Standard
+1636,Europe,Germany,2022-06-14,68,Premium
+1637,Africa,Egypt,2021-12-27,59,Premium
+1638,Africa,Kenya,2021-02-10,21,Premium
+1639,North America,Canada,2022-09-03,22,Premium
+1640,South America,Argentina,2021-07-04,43,VIP
+1641,Africa,South Africa,2022-04-29,25,Standard
+1642,Middle East,UAE,2023-12-05,60,Premium
+1643,Middle East,Saudi Arabia,2023-10-14,23,Standard
+1644,North America,Canada,2022-11-06,55,Premium
+1645,Africa,Egypt,2022-04-29,45,Standard
+1646,North America,USA,2022-03-15,35,Standard
+1647,Asia,Japan,2023-10-02,52,Standard
+1648,North America,Canada,2024-01-23,45,Standard
+1649,Europe,UK,2021-10-24,41,Standard
+1650,Asia,South Korea,2021-02-13,59,VIP
+1651,Middle East,UAE,2021-04-22,62,Premium
+1652,Africa,South Africa,2022-06-03,53,Standard
+1653,Africa,Egypt,2023-01-14,69,Premium
+1654,Middle East,UAE,2023-06-26,42,Standard
+1655,South America,Argentina,2022-09-09,23,VIP
+1656,Europe,UK,2022-03-07,28,Premium
+1657,Africa,Kenya,2023-04-13,68,Standard
+1658,North America,Canada,2023-08-23,65,Standard
+1659,Asia,Singapore,2021-07-25,70,Standard
+1660,Asia,Japan,2022-12-22,44,Standard
+1661,Middle East,Qatar,2022-11-01,47,Premium
+1662,North America,Mexico,2022-01-12,58,Standard
+1663,Africa,South Africa,2021-01-07,43,Standard
+1664,Asia,South Korea,2024-03-25,23,Standard
+1665,Europe,France,2023-04-21,68,VIP
+1666,South America,Argentina,2021-10-01,34,Standard
+1667,Middle East,Saudi Arabia,2022-08-01,30,Standard
+1668,Asia,India,2023-03-17,42,VIP
+1669,Middle East,UAE,2021-02-12,19,VIP
+1670,Africa,Egypt,2022-04-14,23,VIP
+1671,Europe,UK,2021-12-12,21,Standard
+1672,South America,Chile,2022-06-17,27,Standard
+1673,Asia,India,2024-03-07,25,Standard
+1674,Middle East,Saudi Arabia,2023-07-19,70,Standard
+1675,North America,USA,2022-02-21,30,VIP
+1676,Asia,South Korea,2023-10-10,42,Standard
+1677,Europe,France,2022-08-03,64,Standard
+1678,South America,Brazil,2023-04-17,68,Standard
+1679,Asia,South Korea,2022-04-28,57,Standard
+1680,Europe,UK,2024-04-08,61,Standard
+1681,North America,USA,2023-08-19,26,Premium
+1682,Africa,Kenya,2022-03-11,63,Standard
+1683,South America,Chile,2022-06-09,22,Standard
+1684,North America,USA,2022-11-13,33,Standard
+1685,Asia,Japan,2021-01-11,34,Standard
+1686,South America,Argentina,2023-03-20,60,Standard
+1687,Middle East,UAE,2024-04-03,29,Standard
+1688,Middle East,Saudi Arabia,2022-11-26,47,Standard
+1689,Asia,Singapore,2021-10-18,34,Standard
+1690,North America,USA,2023-10-20,35,Premium
+1691,South America,Argentina,2022-06-24,57,Premium
+1692,Asia,South Korea,2023-06-12,28,Standard
+1693,South America,Brazil,2024-02-13,60,Standard
+1694,South America,Brazil,2022-01-22,27,Standard
+1695,Europe,Germany,2023-08-22,34,Standard
+1696,South America,Argentina,2021-08-26,49,Standard
+1697,Asia,Singapore,2023-07-27,49,Standard
+1698,Africa,South Africa,2021-09-11,40,Standard
+1699,Asia,India,2021-12-11,65,Standard
+1700,Asia,India,2024-04-10,18,Standard
+1701,Middle East,UAE,2023-05-03,22,Standard
+1702,South America,Chile,2021-07-13,39,Standard
+1703,Africa,Egypt,2021-09-07,43,Standard
+1704,North America,,2021-11-11,19,Standard
+1705,Africa,Egypt,2023-09-10,47,Standard
+1706,Asia,Japan,2022-11-06,20,Standard
+1707,South America,Argentina,2024-03-11,26,Standard
+1708,North America,Mexico,2022-08-03,38,Premium
+1709,Africa,South Africa,2024-01-26,56,Standard
+1710,South America,Argentina,2021-12-31,33,VIP
+1711,South America,Brazil,2021-02-12,31,Standard
+1712,South America,Argentina,2021-11-12,25,Standard
+1713,South America,Chile,2022-09-28,61,Standard
+1714,Asia,Japan,2023-01-23,50,Standard
+1715,South America,Argentina,2023-09-03,35,Standard
+1716,South America,Brazil,2023-05-16,69,Standard
+1717,Europe,Spain,2023-05-23,23,Standard
+1718,Asia,Singapore,2022-04-05,59,Premium
+1719,Europe,Spain,2023-12-16,58,Standard
+1720,North America,Canada,2023-08-17,45,Standard
+1721,South America,Argentina,2021-11-01,26,Premium
+1722,Asia,India,2023-12-08,45,Standard
+1723,North America,Mexico,2021-06-06,20,Standard
+1724,Middle East,Saudi Arabia,2023-04-26,24,Standard
+1725,Africa,,2022-06-03,40,Standard
+1726,North America,Mexico,2021-02-03,25,Premium
+1727,South America,Brazil,2022-01-09,43,Standard
+1728,South America,Chile,2022-09-02,38,Standard
+1729,South America,Chile,2023-07-11,57,Premium
+1730,Asia,India,2022-03-09,29,Standard
+1731,Middle East,Saudi Arabia,2021-08-06,45,Standard
+1732,North America,Canada,2021-08-27,18,Standard
+1733,South America,Argentina,2023-04-10,60,VIP
+1734,Middle East,Qatar,2023-09-24,37,Standard
+1735,Middle East,Saudi Arabia,2023-03-20,69,Standard
+1736,Europe,France,2021-01-29,30,Standard
+1737,North America,Mexico,2022-01-21,19,Standard
+1738,Africa,South Africa,2022-05-11,45,Premium
+1739,Middle East,UAE,2021-06-26,37,Premium
+1740,Europe,Spain,2023-05-15,19,Standard
+1741,Europe,Spain,2023-09-21,48,Standard
+1742,South America,Chile,2022-05-12,30,Standard
+1743,South America,Brazil,2022-11-15,18,Standard
+1744,Africa,Kenya,2023-05-02,49,Premium
+1745,Middle East,Qatar,2024-02-10,36,Standard
+1746,South America,Argentina,2023-11-18,55,Premium
+1747,Africa,Kenya,2022-04-20,63,Standard
+1748,North America,Canada,2024-03-26,38,Standard
+1749,Asia,Singapore,2023-08-28,25,Standard
+1750,Africa,Kenya,2023-07-08,62,Standard
+1751,Europe,UK,2022-01-29,48,Standard
+1752,Europe,France,2022-11-26,56,Premium
+1753,Africa,Egypt,2023-08-18,26,Premium
+1754,Africa,Egypt,2023-03-11,44,Premium
+1755,Africa,Egypt,2023-01-08,68,Standard
+1756,Europe,France,2022-08-02,62,Premium
+1757,Africa,Kenya,2021-09-22,29,Standard
+1758,Middle East,Saudi Arabia,2021-07-26,68,Standard
+1759,South America,,2022-04-26,31,Standard
+1760,North America,Canada,2022-06-19,40,Standard
+1761,Europe,Germany,2021-05-11,39,Standard
+1762,Middle East,UAE,2021-09-05,53,Standard
+1763,Asia,South Korea,2022-12-29,67,Standard
+1764,Middle East,Saudi Arabia,2021-11-06,62,Premium
+1765,Middle East,Qatar,2021-08-02,63,Standard
+1766,South America,Argentina,2021-08-16,24,Premium
+1767,Middle East,UAE,2024-02-26,20,Standard
+1768,Europe,Germany,2022-02-25,41,Standard
+1769,Asia,Singapore,2023-11-03,49,Premium
+1770,North America,USA,2023-01-15,39,Premium
+1771,North America,USA,2023-06-19,44,Premium
+1772,North America,USA,2023-08-29,39,Standard
+1773,Europe,Germany,2022-06-29,41,Premium
+1774,South America,Argentina,2022-05-18,27,Premium
+1775,Middle East,Saudi Arabia,2022-04-13,26,Premium
+1776,South America,Argentina,2023-07-29,51,Premium
+1777,Asia,Japan,2023-06-26,27,Premium
+1778,Africa,Egypt,2021-05-23,23,Standard
+1779,South America,Brazil,2023-06-08,21,Standard
+1780,North America,Mexico,2021-11-06,54,Standard
+1781,Africa,Egypt,2023-12-01,36,Standard
+1782,Africa,Egypt,2024-02-08,37,Premium
+1783,Asia,,2021-01-17,70,Standard
+1784,Middle East,Qatar,2021-10-28,62,Standard
+1785,Africa,South Africa,2024-01-20,57,Premium
+1786,Africa,Kenya,2022-12-09,69,Premium
+1787,South America,Brazil,2022-09-10,23,Standard
+1788,Asia,Singapore,2021-09-16,51,VIP
+1789,Asia,India,2021-07-10,50,Standard
+1790,Middle East,Saudi Arabia,2021-11-24,19,Standard
+1791,Middle East,Qatar,2022-06-14,33,Premium
+1792,Asia,Singapore,2023-11-01,25,Premium
+1793,Asia,South Korea,2023-11-06,40,Standard
+1794,Africa,South Africa,2023-07-09,37,Standard
+1795,North America,Canada,2022-11-26,33,Premium
+1796,Middle East,Qatar,2023-12-29,56,Standard
+1797,Asia,South Korea,2024-03-19,61,Standard
+1798,South America,Chile,2022-05-23,24,Standard
+1799,Middle East,UAE,2023-01-10,47,Standard
+1800,Africa,Kenya,2023-04-24,23,Standard
+1801,South America,Brazil,2023-09-03,31,Standard
+1802,Asia,Singapore,2024-02-19,51,Premium
+1803,Asia,Singapore,2023-05-18,46,Premium
+1804,South America,Chile,2023-05-04,70,Standard
+1805,Middle East,UAE,2023-09-20,63,Standard
+1806,Africa,Egypt,2023-12-20,25,Premium
+1807,South America,Argentina,2021-03-08,65,Standard
+1808,Middle East,Saudi Arabia,2021-09-01,56,Premium
+1809,North America,USA,2023-01-27,54,Standard
+1810,Middle East,UAE,2021-08-30,41,Standard
+1811,Asia,South Korea,2022-08-26,49,Standard
+1812,Europe,France,2023-05-14,21,VIP
+1813,Asia,South Korea,2022-03-18,29,Premium
+1814,South America,Brazil,2021-09-08,53,Standard
+1815,North America,Canada,2023-09-13,54,Standard
+1816,South America,Argentina,2023-02-12,48,Premium
+1817,Middle East,UAE,2021-10-11,50,Standard
+1818,South America,Chile,2023-07-09,27,Premium
+1819,Asia,Japan,2023-04-19,42,Standard
+1820,South America,Argentina,2024-01-13,20,VIP
+1821,South America,Chile,2022-07-23,59,Standard
+1822,Europe,Germany,2024-03-17,58,Premium
+1823,Africa,Kenya,2024-02-24,59,Standard
+1824,Middle East,UAE,2022-01-30,57,Standard
+1825,North America,Mexico,2023-12-05,30,Premium
+1826,Middle East,UAE,2021-09-04,60,VIP
+1827,Europe,Germany,2022-07-18,68,Standard
+1828,Africa,Egypt,2023-06-29,23,Premium
+1829,Middle East,Saudi Arabia,2023-04-03,55,Standard
+1830,North America,Canada,2023-06-15,29,Standard
+1831,Middle East,Saudi Arabia,2023-02-22,34,Standard
+1832,North America,Mexico,2021-12-11,36,Standard
+1833,Asia,Japan,2021-11-12,37,VIP
+1834,Africa,South Africa,2021-05-01,57,VIP
+1835,Europe,Germany,2021-04-30,37,Standard
+1836,Asia,India,2023-04-26,38,Standard
+1837,North America,USA,2022-02-19,33,Premium
+1838,Middle East,UAE,2023-10-07,50,Premium
+1839,South America,Brazil,2022-07-06,21,Standard
+1840,Middle East,Saudi Arabia,2021-05-15,48,Standard
+1841,Africa,South Africa,2021-02-08,35,Standard
+1842,Middle East,Qatar,2021-07-27,33,Premium
+1843,Africa,South Africa,2022-09-16,54,Standard
+1844,North America,Mexico,2023-10-22,31,Premium
+1845,Europe,UK,2024-01-12,28,Premium
+1846,Middle East,Saudi Arabia,2024-02-11,46,Standard
+1847,South America,Chile,2022-08-16,59,VIP
+1848,North America,USA,2023-09-15,35,Standard
+1849,Africa,Kenya,2022-12-21,58,Standard
+1850,Middle East,Saudi Arabia,2021-04-04,28,Premium
+1851,Middle East,UAE,2022-09-08,23,Standard
+1852,North America,USA,2024-02-14,35,Premium
+1853,Europe,UK,2022-12-03,58,Standard
+1854,Africa,Kenya,2022-07-14,33,Standard
+1855,Asia,South Korea,2022-03-08,47,VIP
+1856,Asia,Japan,2021-10-01,59,VIP
+1857,Middle East,Saudi Arabia,2021-01-09,18,Standard
+1858,South America,Chile,2023-09-29,66,Standard
+1859,North America,Mexico,2021-06-08,52,Standard
+1860,Africa,Kenya,2021-09-10,40,VIP
+1861,South America,Chile,2023-01-04,42,Standard
+1862,Africa,South Africa,2021-09-13,47,Standard
+1863,Europe,Spain,2021-01-20,32,Premium
+1864,Asia,South Korea,2022-01-28,23,Premium
+1865,Africa,Kenya,2022-03-29,32,VIP
+1866,Asia,Japan,2022-07-29,49,Premium
+1867,Africa,,2022-03-05,18,Standard
+1868,Africa,Kenya,2021-08-16,35,Standard
+1869,South America,Brazil,2024-02-05,30,Standard
+1870,Middle East,Qatar,2024-03-03,29,Standard
+1871,Europe,Germany,2021-09-18,34,VIP
+1872,Europe,UK,2022-01-28,61,Standard
+1873,Africa,Egypt,2023-12-28,57,Standard
+1874,Middle East,Saudi Arabia,2021-01-05,45,Standard
+1875,Africa,South Africa,2022-10-24,45,Premium
+1876,South America,Argentina,2021-09-07,61,Standard
+1877,South America,Argentina,2023-11-26,66,Standard
+1878,Africa,South Africa,2021-04-07,35,Premium
+1879,Middle East,Saudi Arabia,2022-10-10,18,Standard
+1880,Asia,Japan,2024-03-17,69,Standard
+1881,Africa,South Africa,2023-05-18,22,Premium
+1882,Europe,France,2022-11-06,37,Standard
+1883,Africa,South Africa,2021-02-27,48,Standard
+1884,North America,Mexico,2022-11-16,34,Standard
+1885,South America,Brazil,2022-11-29,21,Premium
+1886,Middle East,UAE,2021-05-30,67,Standard
+1887,South America,,2023-07-04,55,Standard
+1888,North America,USA,2023-02-12,38,Premium
+1889,Africa,South Africa,2021-09-19,21,Premium
+1890,South America,Brazil,2022-09-10,57,Standard
+1891,North America,USA,2021-04-25,53,Standard
+1892,South America,,2021-07-16,57,Premium
+1893,Europe,Germany,2023-07-18,42,Standard
+1894,South America,Chile,2021-07-27,39,Standard
+1895,Africa,South Africa,2023-07-19,51,Standard
+1896,Europe,Germany,2021-07-30,18,Standard
+1897,North America,Mexico,2022-02-01,54,Standard
+1898,Middle East,Saudi Arabia,2022-12-29,44,Standard
+1899,Middle East,Saudi Arabia,2022-01-16,33,Standard
+1900,North America,USA,2021-09-19,37,Standard
+1901,Middle East,Qatar,2023-01-03,37,Standard
+1902,Middle East,UAE,2021-10-29,48,Standard
+1903,Asia,South Korea,2023-01-26,18,Standard
+1904,Africa,Egypt,2021-10-24,21,Standard
+1905,Middle East,UAE,2023-05-15,40,Standard
+1906,Europe,France,2021-05-21,39,Standard
+1907,South America,Chile,2023-08-16,56,Premium
+1908,Middle East,Qatar,2022-11-19,57,Standard
+1909,Asia,India,2021-08-03,47,Premium
+1910,North America,Canada,2022-03-26,18,Standard
+1911,Africa,South Africa,2023-08-14,57,Standard
+1912,South America,Chile,2022-11-10,69,Premium
+1913,Europe,,2022-01-13,70,VIP
+1914,Asia,Japan,2021-06-01,40,Standard
+1915,North America,USA,2022-08-19,46,Standard
+1916,Middle East,Saudi Arabia,2021-03-31,19,Standard
+1917,Asia,India,2022-03-25,34,Premium
+1918,Asia,India,2022-01-01,30,Standard
+1919,Asia,Japan,2021-02-12,61,Standard
+1920,Africa,South Africa,2022-11-25,31,Standard
+1921,Europe,UK,2023-02-02,60,Standard
+1922,Middle East,Qatar,2023-06-08,63,Standard
+1923,Europe,France,2022-01-24,30,Standard
+1924,Africa,Kenya,2022-10-14,56,Standard
+1925,Africa,South Africa,2021-04-05,66,Standard
+1926,Europe,UK,2021-11-01,38,Standard
+1927,Africa,,2021-09-16,50,VIP
+1928,South America,Brazil,2021-06-16,68,Standard
+1929,Africa,Egypt,2021-05-13,28,Standard
+1930,Africa,Egypt,2023-02-06,49,Standard
+1931,Europe,UK,2023-02-05,51,Premium
+1932,Africa,Kenya,2023-08-29,35,Standard
+1933,Africa,Egypt,2021-03-16,31,Standard
+1934,Europe,Spain,2022-04-26,43,Standard
+1935,South America,Argentina,2024-03-16,28,VIP
+1936,Asia,South Korea,2024-02-02,23,Standard
+1937,North America,Canada,2023-06-30,51,Standard
+1938,Middle East,UAE,2023-08-11,50,Standard
+1939,South America,Argentina,2023-08-16,45,Standard
+1940,South America,Argentina,2022-07-14,42,Standard
+1941,South America,Brazil,2022-06-28,59,Standard
+1942,North America,Canada,2023-10-25,50,Standard
+1943,North America,Canada,2022-04-12,24,Standard
+1944,Asia,Japan,2024-01-24,30,Standard
+1945,Africa,Kenya,2022-05-28,37,Premium
+1946,Africa,Kenya,2022-01-26,63,Standard
+1947,Europe,UK,2021-01-18,67,Standard
+1948,Asia,Singapore,2023-04-11,70,Standard
+1949,Africa,South Africa,2023-08-25,59,Standard
+1950,Europe,Spain,2022-04-12,32,Premium
+1951,Europe,Spain,2022-04-24,51,Standard
+1952,Middle East,Saudi Arabia,2023-08-03,39,Premium
+1953,Asia,India,2023-05-29,67,VIP
+1954,South America,Brazil,2023-06-18,46,Premium
+1955,North America,Canada,2021-10-12,54,Premium
+1956,Asia,Japan,2023-10-21,69,Standard
+1957,Asia,South Korea,2022-04-07,44,Standard
+1958,South America,Chile,2024-01-07,37,Standard
+1959,North America,Mexico,2021-03-07,26,Standard
+1960,Asia,Singapore,2023-02-20,31,VIP
+1961,North America,Mexico,2023-03-03,30,Standard
+1962,Asia,Singapore,2022-09-16,23,Standard
+1963,Africa,Egypt,2021-12-30,20,Premium
+1964,Middle East,Saudi Arabia,2021-02-24,29,Standard
+1965,South America,Argentina,2022-02-26,32,Standard
+1966,Middle East,UAE,2023-07-21,21,Standard
+1967,North America,USA,2022-11-01,44,Standard
+1968,North America,USA,2024-01-04,44,Standard
+1969,North America,Canada,2022-02-27,26,Premium
+1970,Asia,Singapore,2023-08-31,28,Standard
+1971,Asia,India,2023-10-27,63,Premium
+1972,Asia,India,2021-01-16,27,Standard
+1973,South America,Chile,2022-05-21,51,Standard
+1974,Middle East,Saudi Arabia,2023-08-01,47,Standard
+1975,Africa,South Africa,2022-08-13,59,Premium
+1976,South America,Argentina,2022-09-02,43,Standard
+1977,Europe,Spain,2022-05-26,29,Premium
+1978,Africa,Kenya,2023-07-27,42,Premium
+1979,Europe,Germany,2023-03-17,62,VIP
+1980,Europe,France,2022-07-15,58,Standard
+1981,Africa,South Africa,2022-03-21,49,Standard
+1982,Middle East,UAE,2023-01-26,22,Premium
+1983,Middle East,Saudi Arabia,2023-04-20,46,Standard
+1984,Europe,Germany,2023-08-05,19,Standard
+1985,Africa,Egypt,2023-08-04,42,Standard
+1986,South America,Brazil,2023-03-24,20,Standard
+1987,North America,Mexico,2021-10-07,38,Standard
+1988,South America,Argentina,2023-08-03,22,Standard
+1989,Africa,South Africa,2023-06-16,26,Standard
+1990,Asia,India,2021-12-16,19,Standard
+1991,Europe,UK,2021-09-12,52,Premium
+1992,Europe,Germany,2021-01-23,61,Standard
+1993,South America,Argentina,2021-12-31,31,Premium
+1994,Africa,Egypt,2022-03-19,46,Premium
+1995,Africa,Egypt,2021-07-30,42,Premium
+1996,South America,Brazil,2021-01-10,21,Premium
+1997,Europe,France,2023-02-07,33,Standard
+1998,North America,Canada,2021-02-27,18,Standard
+1999,Europe,Germany,2022-03-28,24,Premium
+2000,Africa,South Africa,2021-12-09,20,Standard

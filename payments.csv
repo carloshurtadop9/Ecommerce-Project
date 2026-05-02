@@ -1,0 +1,5001 @@
+order_id,payment_method,payment_amount,payment_status
+1,UPI,571.89,Paid
+2,Apple Pay,115.75,Refunded
+3,Debit Card,111.43,Paid
+4,Apple Pay,1741.24,Refunded
+5,Bank Transfer,638.7,Paid
+6,Credit Card,134.55,Paid
+7,Bank Transfer,104.3,Paid
+8,UPI,58.87,Refunded
+9,Debit Card,1539.15,Paid
+10,Debit Card,646.92,Refunded
+11,Credit Card,69.39,Paid
+12,PayPal,173.16,Paid
+13,Bank Transfer,252.1,Paid
+14,UPI,104.79,Refunded
+15,PayPal,171.91,Refunded
+16,Bank Transfer,23.63,Paid
+17,Debit Card,330.32,Paid
+18,Debit Card,3687.52,Paid
+19,Bank Transfer,78.51,Paid
+20,Credit Card,1038.78,Paid
+21,Credit Card,250.77,Paid
+22,Credit Card,43.19,Paid
+23,Apple Pay,122.65,Paid
+24,Debit Card,702.56,Paid
+25,Apple Pay,534.97,Paid
+26,PayPal,481.24,Paid
+27,Apple Pay,247.25,Refunded
+28,Credit Card,622.65,Refunded
+29,Apple Pay,178.18,Refunded
+30,PayPal,134.18,Refunded
+31,Credit Card,146.41,Paid
+32,Bank Transfer,550.2,Refunded
+33,PayPal,230.07,Paid
+34,PayPal,33.91,Paid
+35,Bank Transfer,238.89,Paid
+36,Apple Pay,1914.68,Paid
+37,Bank Transfer,348.54,Refunded
+38,PayPal,943.57,Refunded
+39,Credit Card,173.67,Paid
+40,UPI,331.21,Paid
+41,Bank Transfer,70.93,Paid
+42,Debit Card,2099.7,Refunded
+43,Apple Pay,47.8,Refunded
+44,Debit Card,999.96,Paid
+45,Credit Card,23.45,Paid
+46,Credit Card,73.35,Refunded
+47,Bank Transfer,189.73,Paid
+48,Bank Transfer,1821.77,Refunded
+49,Apple Pay,920.19,Paid
+50,Credit Card,151.3,Refunded
+51,Bank Transfer,64.86,Paid
+52,Debit Card,77.61,Refunded
+53,Apple Pay,796.0,Refunded
+54,Bank Transfer,463.58,Paid
+55,Bank Transfer,78.5,Paid
+56,UPI,133.78,Paid
+57,UPI,939.4,Paid
+58,UPI,482.16,Paid
+59,PayPal,615.47,Paid
+60,Bank Transfer,33.69,Paid
+61,Credit Card,501.06,Paid
+62,Bank Transfer,862.86,Paid
+63,Apple Pay,308.91,Paid
+64,Apple Pay,812.28,Paid
+65,Apple Pay,450.7,Paid
+66,Bank Transfer,216.89,Paid
+67,UPI,842.64,Paid
+68,Bank Transfer,2518.04,Paid
+69,PayPal,115.23,Paid
+70,UPI,137.18,Paid
+71,PayPal,266.53,Refunded
+72,Bank Transfer,112.07,Refunded
+73,Apple Pay,196.38,Paid
+74,Credit Card,766.51,Paid
+75,Credit Card,137.41,Paid
+76,PayPal,80.57,Refunded
+77,UPI,1004.15,Paid
+78,PayPal,757.74,Paid
+79,Debit Card,360.8,Paid
+80,Debit Card,241.01,Refunded
+81,UPI,139.63,Paid
+82,Debit Card,61.55,Refunded
+83,PayPal,115.59,Paid
+84,PayPal,1100.74,Paid
+85,Credit Card,40.96,Paid
+86,PayPal,528.28,Paid
+87,Bank Transfer,651.63,Refunded
+88,Apple Pay,435.15,Paid
+89,UPI,240.13,Paid
+90,Bank Transfer,185.92,Paid
+91,Apple Pay,51.54,Paid
+92,PayPal,153.8,Paid
+93,UPI,663.22,Paid
+94,PayPal,45.03,Refunded
+95,PayPal,29.94,Paid
+96,Apple Pay,230.97,Paid
+97,UPI,927.64,Paid
+98,Apple Pay,143.35,Paid
+99,Credit Card,777.84,Paid
+100,PayPal,305.49,Paid
+101,PayPal,193.46,Paid
+102,PayPal,1535.4,Paid
+103,UPI,693.72,Refunded
+104,PayPal,646.51,Paid
+105,Debit Card,576.1,Paid
+106,UPI,203.53,Refunded
+107,Debit Card,1272.98,Paid
+108,Apple Pay,160.93,Paid
+109,Bank Transfer,1251.5,Refunded
+110,Debit Card,1135.08,Paid
+111,Credit Card,388.12,Paid
+112,Apple Pay,705.15,Paid
+113,Apple Pay,52.01,Paid
+114,Bank Transfer,1584.29,Paid
+115,Apple Pay,177.89,Paid
+116,Credit Card,168.14,Paid
+117,PayPal,335.36,Paid
+118,PayPal,130.48,Refunded
+119,Apple Pay,201.32,Paid
+120,Debit Card,334.83,Paid
+121,Bank Transfer,755.83,Paid
+122,Debit Card,394.3,Paid
+123,UPI,804.81,Paid
+124,UPI,243.67,Paid
+125,Bank Transfer,96.26,Paid
+126,UPI,57.52,Paid
+127,Debit Card,346.2,Paid
+128,Credit Card,136.43,Paid
+129,PayPal,756.6,Paid
+130,PayPal,817.21,Paid
+131,Debit Card,1470.98,Paid
+132,Bank Transfer,120.17,Paid
+133,UPI,189.01,Paid
+134,Bank Transfer,105.32,Paid
+135,Debit Card,1996.98,Refunded
+136,PayPal,204.53,Paid
+137,UPI,730.41,Paid
+138,Credit Card,683.83,Paid
+139,UPI,2243.45,Refunded
+140,Bank Transfer,213.96,Paid
+141,Apple Pay,468.72,Paid
+142,UPI,393.66,Paid
+143,Credit Card,414.24,Paid
+144,Apple Pay,158.21,Paid
+145,UPI,87.46,Paid
+146,PayPal,176.54,Paid
+147,Bank Transfer,1205.58,Paid
+148,Apple Pay,1407.02,Paid
+149,UPI,433.77,Paid
+150,Apple Pay,133.45,Paid
+151,Debit Card,62.84,Paid
+152,Credit Card,561.16,Paid
+153,PayPal,51.44,Paid
+154,UPI,1371.24,Refunded
+155,Debit Card,722.37,Paid
+156,Credit Card,2252.07,Paid
+157,UPI,3348.04,Refunded
+158,PayPal,1089.59,Paid
+159,Credit Card,358.71,Refunded
+160,Bank Transfer,2358.17,Paid
+161,UPI,440.5,Paid
+162,PayPal,573.41,Paid
+163,PayPal,1374.9,Paid
+164,Bank Transfer,132.27,Paid
+165,Apple Pay,523.37,Paid
+166,PayPal,57.03,Paid
+167,PayPal,180.29,Paid
+168,Credit Card,440.6,Refunded
+169,PayPal,1513.48,Paid
+170,UPI,483.76,Paid
+171,Bank Transfer,1180.7,Paid
+172,PayPal,381.34,Paid
+173,Bank Transfer,504.62,Paid
+174,Debit Card,1801.12,Paid
+175,Apple Pay,751.59,Paid
+176,PayPal,461.24,Refunded
+177,Debit Card,538.95,Paid
+178,Debit Card,360.03,Paid
+179,Apple Pay,126.07,Paid
+180,PayPal,56.33,Paid
+181,Apple Pay,43.78,Paid
+182,Apple Pay,1833.42,Paid
+183,Credit Card,268.38,Refunded
+184,Apple Pay,441.41,Refunded
+185,Apple Pay,66.24,Paid
+186,PayPal,29.7,Paid
+187,UPI,770.74,Refunded
+188,Apple Pay,60.73,Paid
+189,Debit Card,1317.24,Paid
+190,UPI,3344.92,Paid
+191,Apple Pay,40.18,Paid
+192,Credit Card,104.14,Paid
+193,Bank Transfer,1232.67,Paid
+194,Credit Card,1645.4,Refunded
+195,Debit Card,34.79,Paid
+196,Apple Pay,281.87,Refunded
+197,PayPal,845.98,Paid
+198,Debit Card,24.96,Paid
+199,Apple Pay,1090.72,Paid
+200,Bank Transfer,166.45,Paid
+201,Debit Card,238.67,Paid
+202,Bank Transfer,860.82,Paid
+203,Bank Transfer,438.26,Paid
+204,Credit Card,105.35,Paid
+205,Bank Transfer,227.68,Paid
+206,Apple Pay,260.94,Paid
+207,UPI,159.83,Refunded
+208,Apple Pay,149.82,Paid
+209,Apple Pay,133.0,Paid
+210,UPI,304.72,Refunded
+211,Debit Card,693.04,Paid
+212,Credit Card,1652.58,Paid
+213,PayPal,1803.0,Paid
+214,UPI,474.45,Paid
+215,UPI,137.77,Paid
+216,Credit Card,265.35,Paid
+217,Debit Card,3329.42,Refunded
+218,UPI,2229.15,Paid
+219,UPI,595.45,Refunded
+220,UPI,336.91,Paid
+221,PayPal,406.27,Paid
+222,Credit Card,270.58,Paid
+223,Credit Card,51.49,Paid
+224,Debit Card,2242.02,Paid
+225,Debit Card,618.1,Paid
+226,Apple Pay,263.79,Paid
+227,Credit Card,297.9,Paid
+228,UPI,38.45,Paid
+229,PayPal,47.34,Refunded
+230,Bank Transfer,878.86,Paid
+231,PayPal,458.86,Paid
+232,Credit Card,271.51,Paid
+233,PayPal,110.52,Refunded
+234,Credit Card,373.58,Paid
+235,PayPal,719.56,Paid
+236,Credit Card,338.95,Refunded
+237,Bank Transfer,49.73,Paid
+238,Debit Card,70.26,Paid
+239,Debit Card,600.94,Refunded
+240,Debit Card,580.41,Paid
+241,Debit Card,94.49,Paid
+242,UPI,257.37,Paid
+243,Bank Transfer,102.96,Paid
+244,UPI,76.6,Paid
+245,Apple Pay,515.65,Paid
+246,UPI,58.74,Paid
+247,Credit Card,433.26,Paid
+248,PayPal,309.44,Paid
+249,PayPal,200.86,Paid
+250,Credit Card,148.36,Paid
+251,Debit Card,2591.55,Refunded
+252,Credit Card,1520.17,Paid
+253,Credit Card,104.02,Refunded
+254,PayPal,4362.25,Paid
+255,Debit Card,154.61,Refunded
+256,Credit Card,105.35,Refunded
+257,UPI,440.68,Refunded
+258,Debit Card,1075.85,Paid
+259,Credit Card,287.2,Paid
+260,Credit Card,153.73,Refunded
+261,Credit Card,1173.94,Paid
+262,Apple Pay,388.14,Paid
+263,Apple Pay,1385.3,Paid
+264,Credit Card,255.99,Paid
+265,PayPal,851.04,Paid
+266,Credit Card,32.69,Refunded
+267,Apple Pay,360.42,Paid
+268,Apple Pay,226.66,Paid
+269,PayPal,169.26,Refunded
+270,UPI,73.75,Paid
+271,UPI,927.57,Paid
+272,UPI,1170.52,Paid
+273,Apple Pay,159.87,Paid
+274,Credit Card,862.71,Refunded
+275,Bank Transfer,198.1,Paid
+276,UPI,125.4,Paid
+277,UPI,798.88,Paid
+278,Debit Card,857.84,Paid
+279,Bank Transfer,124.05,Paid
+280,Debit Card,238.39,Paid
+281,Bank Transfer,490.44,Refunded
+282,Bank Transfer,174.51,Paid
+283,Apple Pay,1279.06,Paid
+284,Apple Pay,757.53,Paid
+285,Credit Card,943.82,Refunded
+286,Apple Pay,164.05,Refunded
+287,Credit Card,1353.62,Refunded
+288,Debit Card,824.98,Paid
+289,UPI,229.87,Refunded
+290,Bank Transfer,277.16,Paid
+291,Debit Card,318.03,Refunded
+292,PayPal,64.43,Paid
+293,UPI,204.39,Paid
+294,Bank Transfer,2206.38,Refunded
+295,Bank Transfer,59.6,Paid
+296,UPI,203.81,Paid
+297,Apple Pay,190.26,Paid
+298,Credit Card,250.01,Paid
+299,UPI,3448.0,Paid
+300,Credit Card,1960.66,Paid
+301,UPI,146.83,Paid
+302,UPI,353.14,Paid
+303,Bank Transfer,146.16,Paid
+304,UPI,53.18,Paid
+305,Credit Card,416.85,Paid
+306,UPI,2392.82,Paid
+307,UPI,1483.2,Refunded
+308,PayPal,57.89,Refunded
+309,UPI,1339.24,Paid
+310,Bank Transfer,456.86,Paid
+311,UPI,505.16,Paid
+312,Credit Card,491.98,Paid
+313,PayPal,1219.08,Paid
+314,Credit Card,64.41,Paid
+315,Bank Transfer,168.87,Paid
+316,Debit Card,280.58,Paid
+317,Credit Card,520.9,Paid
+318,Debit Card,466.32,Paid
+319,UPI,265.82,Refunded
+320,Bank Transfer,846.26,Paid
+321,Credit Card,169.09,Paid
+322,PayPal,485.37,Paid
+323,Bank Transfer,1270.56,Paid
+324,Apple Pay,233.43,Paid
+325,PayPal,92.04,Paid
+326,Credit Card,114.8,Paid
+327,Apple Pay,3270.03,Paid
+328,PayPal,751.83,Paid
+329,Apple Pay,84.37,Paid
+330,Debit Card,4200.68,Paid
+331,Credit Card,996.94,Paid
+332,Credit Card,1414.96,Refunded
+333,UPI,27.64,Paid
+334,Bank Transfer,95.72,Paid
+335,UPI,689.39,Paid
+336,Debit Card,208.77,Paid
+337,PayPal,281.18,Paid
+338,Credit Card,387.68,Paid
+339,Bank Transfer,716.4,Refunded
+340,Apple Pay,1985.45,Paid
+341,PayPal,1235.4,Paid
+342,PayPal,475.16,Paid
+343,Apple Pay,165.81,Paid
+344,Bank Transfer,278.29,Paid
+345,UPI,531.18,Refunded
+346,Bank Transfer,2019.65,Paid
+347,PayPal,1900.36,Paid
+348,PayPal,252.26,Paid
+349,Bank Transfer,436.18,Paid
+350,Bank Transfer,212.27,Paid
+351,Bank Transfer,159.14,Paid
+352,Bank Transfer,4232.12,Refunded
+353,Credit Card,533.05,Refunded
+354,Bank Transfer,1001.16,Paid
+355,Credit Card,208.02,Paid
+356,UPI,331.72,Refunded
+357,PayPal,3317.16,Paid
+358,Debit Card,911.72,Paid
+359,Debit Card,1872.6,Paid
+360,UPI,1009.2,Paid
+361,Debit Card,198.44,Paid
+362,Bank Transfer,45.14,Refunded
+363,Debit Card,989.26,Paid
+364,Debit Card,58.99,Refunded
+365,UPI,1598.29,Paid
+366,PayPal,893.04,Paid
+367,Apple Pay,139.98,Paid
+368,PayPal,164.09,Paid
+369,Credit Card,231.63,Paid
+370,UPI,3780.98,Paid
+371,Credit Card,550.86,Paid
+372,UPI,92.32,Paid
+373,Bank Transfer,223.92,Paid
+374,Debit Card,990.39,Refunded
+375,PayPal,56.4,Refunded
+376,Bank Transfer,37.24,Paid
+377,UPI,617.04,Paid
+378,PayPal,1024.14,Paid
+379,Bank Transfer,197.41,Paid
+380,UPI,538.1,Paid
+381,Debit Card,2685.94,Paid
+382,UPI,605.81,Paid
+383,Debit Card,251.43,Paid
+384,Debit Card,670.98,Paid
+385,Credit Card,191.5,Paid
+386,Credit Card,143.59,Paid
+387,Credit Card,201.05,Paid
+388,Debit Card,646.9,Paid
+389,UPI,409.14,Paid
+390,Apple Pay,404.67,Paid
+391,UPI,153.62,Paid
+392,Debit Card,111.46,Paid
+393,PayPal,474.56,Paid
+394,Apple Pay,148.58,Paid
+395,PayPal,356.72,Refunded
+396,PayPal,1088.97,Paid
+397,UPI,955.51,Refunded
+398,Apple Pay,88.02,Paid
+399,Bank Transfer,19.47,Paid
+400,Bank Transfer,1669.93,Paid
+401,UPI,174.75,Paid
+402,Bank Transfer,91.55,Refunded
+403,Credit Card,4446.64,Refunded
+404,Bank Transfer,57.62,Refunded
+405,Apple Pay,733.39,Refunded
+406,Apple Pay,156.43,Paid
+407,PayPal,157.27,Paid
+408,Credit Card,1699.49,Paid
+409,Credit Card,2081.37,Paid
+410,Debit Card,102.41,Paid
+411,Apple Pay,300.57,Refunded
+412,UPI,480.9,Paid
+413,UPI,645.05,Paid
+414,Credit Card,845.06,Refunded
+415,Bank Transfer,1138.9,Paid
+416,Credit Card,4644.8,Paid
+417,Apple Pay,97.82,Paid
+418,Bank Transfer,1160.44,Paid
+419,Bank Transfer,1399.88,Paid
+420,UPI,156.57,Paid
+421,Bank Transfer,121.29,Refunded
+422,Bank Transfer,253.91,Paid
+423,Apple Pay,200.05,Paid
+424,Debit Card,48.43,Paid
+425,Bank Transfer,196.93,Paid
+426,Bank Transfer,191.38,Paid
+427,Apple Pay,236.32,Refunded
+428,PayPal,1012.79,Paid
+429,Bank Transfer,214.59,Paid
+430,PayPal,33.64,Paid
+431,Bank Transfer,101.48,Paid
+432,Credit Card,35.1,Paid
+433,Apple Pay,1002.04,Refunded
+434,Bank Transfer,203.68,Paid
+435,Apple Pay,255.99,Paid
+436,PayPal,887.32,Paid
+437,PayPal,192.1,Paid
+438,PayPal,1064.69,Paid
+439,PayPal,110.27,Refunded
+440,Credit Card,258.31,Paid
+441,Debit Card,194.16,Paid
+442,Credit Card,146.03,Paid
+443,Apple Pay,75.33,Paid
+444,Debit Card,545.95,Refunded
+445,UPI,284.79,Paid
+446,Debit Card,315.2,Paid
+447,Apple Pay,576.02,Paid
+448,Debit Card,152.32,Refunded
+449,Debit Card,61.01,Paid
+450,Bank Transfer,955.06,Paid
+451,Credit Card,155.88,Paid
+452,Debit Card,577.43,Paid
+453,Bank Transfer,1047.39,Paid
+454,Credit Card,89.49,Paid
+455,Bank Transfer,269.64,Paid
+456,PayPal,1107.86,Paid
+457,UPI,322.77,Paid
+458,Credit Card,65.14,Paid
+459,PayPal,106.99,Paid
+460,Credit Card,335.28,Paid
+461,Apple Pay,37.17,Paid
+462,PayPal,41.98,Paid
+463,UPI,294.88,Refunded
+464,Credit Card,294.05,Paid
+465,PayPal,771.03,Refunded
+466,Debit Card,88.73,Paid
+467,Debit Card,663.84,Paid
+468,Credit Card,2085.3,Refunded
+469,PayPal,59.59,Refunded
+470,PayPal,79.4,Paid
+471,Apple Pay,57.04,Paid
+472,Bank Transfer,233.72,Paid
+473,Bank Transfer,134.34,Paid
+474,Apple Pay,25.62,Paid
+475,Debit Card,21.87,Paid
+476,Debit Card,377.85,Paid
+477,Apple Pay,862.14,Paid
+478,Bank Transfer,445.7,Refunded
+479,Credit Card,503.27,Paid
+480,PayPal,48.11,Paid
+481,Bank Transfer,342.3,Paid
+482,Apple Pay,258.46,Paid
+483,UPI,592.62,Paid
+484,PayPal,164.0,Paid
+485,Bank Transfer,98.9,Paid
+486,UPI,330.9,Paid
+487,Credit Card,492.37,Paid
+488,UPI,30.77,Paid
+489,PayPal,281.72,Paid
+490,UPI,491.98,Paid
+491,PayPal,318.39,Refunded
+492,Debit Card,72.55,Refunded
+493,Apple Pay,225.28,Paid
+494,Credit Card,378.12,Paid
+495,Apple Pay,351.86,Refunded
+496,PayPal,134.92,Paid
+497,Credit Card,211.85,Paid
+498,Credit Card,299.64,Refunded
+499,Credit Card,23.5,Paid
+500,UPI,233.27,Paid
+501,Bank Transfer,1694.3,Refunded
+502,Apple Pay,118.58,Paid
+503,Credit Card,191.45,Paid
+504,Credit Card,439.63,Paid
+505,PayPal,50.85,Paid
+506,Credit Card,237.97,Paid
+507,UPI,84.2,Paid
+508,Credit Card,126.65,Paid
+509,PayPal,81.78,Paid
+510,Apple Pay,111.53,Paid
+511,Bank Transfer,54.63,Paid
+512,UPI,146.27,Refunded
+513,Debit Card,163.33,Paid
+514,Debit Card,133.12,Paid
+515,Debit Card,243.09,Paid
+516,Debit Card,95.11,Paid
+517,Bank Transfer,217.83,Paid
+518,Credit Card,497.88,Paid
+519,PayPal,1093.92,Paid
+520,Debit Card,324.39,Paid
+521,UPI,32.11,Refunded
+522,Debit Card,246.45,Refunded
+523,Apple Pay,816.54,Refunded
+524,UPI,55.04,Paid
+525,Credit Card,429.3,Paid
+526,Bank Transfer,597.89,Paid
+527,PayPal,707.18,Paid
+528,Credit Card,490.92,Paid
+529,PayPal,305.57,Paid
+530,Debit Card,74.18,Paid
+531,Bank Transfer,2312.64,Refunded
+532,UPI,523.47,Refunded
+533,Debit Card,862.62,Refunded
+534,Debit Card,256.67,Paid
+535,Bank Transfer,143.23,Paid
+536,Bank Transfer,286.61,Refunded
+537,Debit Card,628.53,Paid
+538,Apple Pay,648.03,Paid
+539,PayPal,75.44,Refunded
+540,PayPal,800.14,Paid
+541,Apple Pay,638.85,Paid
+542,Credit Card,960.54,Paid
+543,Credit Card,607.08,Paid
+544,Debit Card,525.26,Paid
+545,Apple Pay,624.6,Refunded
+546,UPI,520.03,Paid
+547,Credit Card,15.15,Paid
+548,Credit Card,616.31,Paid
+549,Debit Card,1750.64,Refunded
+550,Debit Card,188.55,Paid
+551,UPI,1237.73,Paid
+552,PayPal,44.03,Paid
+553,Credit Card,120.94,Paid
+554,Debit Card,735.92,Paid
+555,Apple Pay,1604.59,Paid
+556,Credit Card,310.1,Paid
+557,Debit Card,176.92,Refunded
+558,Bank Transfer,1092.86,Paid
+559,Debit Card,521.79,Paid
+560,Bank Transfer,1312.18,Paid
+561,UPI,87.98,Paid
+562,Debit Card,1174.76,Refunded
+563,Apple Pay,83.79,Paid
+564,Debit Card,63.19,Paid
+565,PayPal,211.37,Refunded
+566,UPI,539.78,Paid
+567,Apple Pay,702.9,Refunded
+568,Debit Card,151.26,Refunded
+569,Apple Pay,121.09,Paid
+570,Debit Card,2016.18,Refunded
+571,Debit Card,592.87,Refunded
+572,Bank Transfer,94.7,Paid
+573,Debit Card,540.45,Paid
+574,PayPal,1238.92,Paid
+575,PayPal,696.95,Paid
+576,Credit Card,195.62,Paid
+577,Debit Card,847.95,Paid
+578,Credit Card,1141.17,Refunded
+579,Debit Card,654.93,Refunded
+580,Debit Card,361.9,Paid
+581,Debit Card,1101.78,Paid
+582,Debit Card,607.49,Paid
+583,PayPal,413.92,Paid
+584,Bank Transfer,132.82,Paid
+585,PayPal,1353.39,Paid
+586,Bank Transfer,367.05,Refunded
+587,Debit Card,25.63,Refunded
+588,Debit Card,56.09,Paid
+589,UPI,354.64,Refunded
+590,Bank Transfer,25.96,Paid
+591,Debit Card,655.18,Refunded
+592,Apple Pay,598.32,Paid
+593,Apple Pay,516.27,Paid
+594,PayPal,186.19,Paid
+595,Debit Card,613.72,Refunded
+596,Credit Card,444.3,Paid
+597,Debit Card,265.78,Paid
+598,Debit Card,64.06,Paid
+599,PayPal,444.84,Paid
+600,UPI,2023.71,Refunded
+601,Debit Card,18.61,Paid
+602,UPI,213.86,Refunded
+603,PayPal,33.5,Paid
+604,Credit Card,114.79,Paid
+605,Apple Pay,1755.34,Paid
+606,Apple Pay,960.41,Refunded
+607,Debit Card,307.04,Paid
+608,UPI,1575.04,Paid
+609,UPI,1210.0,Refunded
+610,UPI,78.09,Paid
+611,Bank Transfer,494.75,Paid
+612,Credit Card,1461.26,Paid
+613,PayPal,2613.1,Paid
+614,PayPal,115.55,Paid
+615,UPI,240.19,Paid
+616,Credit Card,236.56,Paid
+617,UPI,223.0,Refunded
+618,Apple Pay,935.02,Refunded
+619,Credit Card,894.84,Paid
+620,PayPal,26.14,Refunded
+621,Credit Card,147.06,Paid
+622,PayPal,52.91,Paid
+623,PayPal,208.53,Paid
+624,Bank Transfer,806.2,Paid
+625,Bank Transfer,1170.92,Paid
+626,Apple Pay,2209.65,Paid
+627,Debit Card,774.48,Paid
+628,PayPal,601.87,Paid
+629,PayPal,262.23,Paid
+630,Bank Transfer,27.85,Refunded
+631,Debit Card,285.92,Paid
+632,Bank Transfer,235.61,Paid
+633,Bank Transfer,111.89,Refunded
+634,Bank Transfer,653.3,Paid
+635,Bank Transfer,58.07,Paid
+636,Apple Pay,193.44,Refunded
+637,Credit Card,321.0,Refunded
+638,Debit Card,1502.32,Paid
+639,UPI,151.83,Paid
+640,Bank Transfer,34.64,Refunded
+641,Apple Pay,737.94,Refunded
+642,UPI,148.87,Paid
+643,Debit Card,300.91,Refunded
+644,Debit Card,1656.56,Paid
+645,Debit Card,463.45,Refunded
+646,UPI,170.34,Refunded
+647,Debit Card,32.44,Paid
+648,Apple Pay,149.64,Paid
+649,Bank Transfer,1220.83,Paid
+650,Apple Pay,851.04,Paid
+651,Credit Card,19.43,Refunded
+652,PayPal,112.71,Paid
+653,Bank Transfer,149.52,Paid
+654,PayPal,392.52,Paid
+655,PayPal,993.88,Refunded
+656,Bank Transfer,78.44,Refunded
+657,PayPal,789.71,Paid
+658,PayPal,273.15,Paid
+659,Apple Pay,53.31,Paid
+660,Bank Transfer,673.42,Paid
+661,UPI,182.22,Refunded
+662,PayPal,85.92,Paid
+663,Apple Pay,192.11,Paid
+664,Apple Pay,267.19,Paid
+665,Bank Transfer,177.7,Paid
+666,Debit Card,637.37,Refunded
+667,Debit Card,543.17,Refunded
+668,Debit Card,672.37,Paid
+669,Debit Card,355.0,Refunded
+670,Bank Transfer,149.77,Paid
+671,Apple Pay,43.39,Paid
+672,Credit Card,158.3,Paid
+673,Bank Transfer,29.47,Paid
+674,UPI,616.3,Paid
+675,Apple Pay,664.08,Paid
+676,Apple Pay,402.7,Refunded
+677,Bank Transfer,2307.6,Paid
+678,UPI,1829.0,Refunded
+679,Bank Transfer,153.24,Refunded
+680,PayPal,378.06,Paid
+681,Apple Pay,66.06,Paid
+682,Credit Card,554.9,Paid
+683,Bank Transfer,452.66,Paid
+684,Bank Transfer,102.99,Paid
+685,Apple Pay,599.13,Paid
+686,Apple Pay,368.3,Paid
+687,Bank Transfer,29.44,Paid
+688,Apple Pay,196.26,Paid
+689,Credit Card,37.37,Refunded
+690,Bank Transfer,401.11,Paid
+691,Apple Pay,44.62,Refunded
+692,Credit Card,65.95,Paid
+693,PayPal,734.15,Refunded
+694,Debit Card,42.7,Paid
+695,UPI,101.45,Paid
+696,Debit Card,991.38,Paid
+697,Credit Card,208.39,Paid
+698,PayPal,216.09,Refunded
+699,Credit Card,93.1,Paid
+700,Debit Card,306.86,Paid
+701,UPI,203.87,Paid
+702,Bank Transfer,3655.25,Paid
+703,Bank Transfer,101.72,Paid
+704,UPI,320.6,Paid
+705,PayPal,261.33,Paid
+706,Credit Card,818.93,Paid
+707,UPI,403.72,Paid
+708,Credit Card,613.66,Paid
+709,UPI,323.19,Paid
+710,Bank Transfer,97.07,Refunded
+711,Apple Pay,133.74,Paid
+712,Apple Pay,600.05,Paid
+713,Bank Transfer,99.99,Paid
+714,Bank Transfer,1603.15,Paid
+715,PayPal,126.35,Paid
+716,UPI,160.41,Paid
+717,UPI,349.39,Paid
+718,Debit Card,235.41,Refunded
+719,Debit Card,211.67,Paid
+720,UPI,505.92,Paid
+721,Debit Card,386.12,Paid
+722,Apple Pay,2562.77,Refunded
+723,Credit Card,282.39,Refunded
+724,Bank Transfer,2050.04,Paid
+725,Apple Pay,517.77,Paid
+726,Debit Card,47.59,Refunded
+727,Apple Pay,121.35,Paid
+728,Apple Pay,1671.62,Paid
+729,Credit Card,116.53,Paid
+730,UPI,474.56,Paid
+731,UPI,1298.37,Refunded
+732,PayPal,226.46,Paid
+733,Apple Pay,227.54,Paid
+734,Debit Card,525.26,Paid
+735,Bank Transfer,186.8,Paid
+736,Apple Pay,39.55,Paid
+737,Debit Card,97.95,Paid
+738,Apple Pay,923.37,Paid
+739,Credit Card,39.97,Paid
+740,Bank Transfer,477.27,Paid
+741,Credit Card,1123.05,Paid
+742,Bank Transfer,76.95,Paid
+743,Credit Card,118.98,Refunded
+744,Bank Transfer,227.4,Refunded
+745,PayPal,624.0,Refunded
+746,Credit Card,313.64,Refunded
+747,PayPal,837.29,Refunded
+748,Bank Transfer,395.36,Refunded
+749,Debit Card,967.56,Paid
+750,UPI,827.23,Paid
+751,Apple Pay,695.76,Paid
+752,Debit Card,506.11,Paid
+753,PayPal,1493.06,Paid
+754,Bank Transfer,89.68,Paid
+755,UPI,949.27,Paid
+756,Debit Card,800.14,Refunded
+757,PayPal,57.72,Paid
+758,Bank Transfer,1942.16,Paid
+759,Debit Card,319.1,Paid
+760,UPI,33.7,Paid
+761,Debit Card,175.85,Refunded
+762,Apple Pay,346.64,Paid
+763,Bank Transfer,46.12,Paid
+764,Debit Card,108.15,Paid
+765,UPI,154.28,Paid
+766,PayPal,234.39,Paid
+767,Credit Card,2867.56,Paid
+768,PayPal,194.11,Paid
+769,Apple Pay,45.14,Refunded
+770,Credit Card,707.39,Refunded
+771,Apple Pay,163.39,Paid
+772,PayPal,437.67,Refunded
+773,Apple Pay,159.7,Paid
+774,Debit Card,904.61,Paid
+775,UPI,634.58,Paid
+776,Credit Card,97.82,Paid
+777,Credit Card,452.66,Paid
+778,UPI,582.2,Refunded
+779,UPI,245.01,Paid
+780,Bank Transfer,879.24,Paid
+781,Apple Pay,1178.13,Paid
+782,Credit Card,634.77,Paid
+783,UPI,215.34,Paid
+784,PayPal,1116.54,Paid
+785,Apple Pay,851.22,Paid
+786,Apple Pay,377.3,Paid
+787,UPI,892.86,Paid
+788,UPI,287.2,Paid
+789,Debit Card,162.48,Paid
+790,Debit Card,497.08,Refunded
+791,Bank Transfer,121.36,Refunded
+792,Bank Transfer,1512.93,Paid
+793,Apple Pay,198.1,Paid
+794,Debit Card,1154.08,Paid
+795,PayPal,1095.29,Refunded
+796,Bank Transfer,682.32,Paid
+797,UPI,88.55,Paid
+798,Bank Transfer,1046.87,Paid
+799,Apple Pay,55.09,Refunded
+800,PayPal,807.97,Paid
+801,PayPal,626.81,Paid
+802,UPI,325.38,Paid
+803,PayPal,883.44,Paid
+804,PayPal,53.18,Paid
+805,Bank Transfer,159.35,Paid
+806,Bank Transfer,1273.97,Refunded
+807,Debit Card,1259.64,Paid
+808,Apple Pay,470.01,Paid
+809,UPI,2721.27,Paid
+810,UPI,117.29,Refunded
+811,PayPal,538.93,Paid
+812,Bank Transfer,71.71,Paid
+813,Bank Transfer,943.07,Paid
+814,Debit Card,147.57,Paid
+815,Apple Pay,68.7,Refunded
+816,Apple Pay,394.06,Paid
+817,Apple Pay,79.82,Refunded
+818,Credit Card,61.44,Paid
+819,Bank Transfer,535.48,Paid
+820,Bank Transfer,1318.4,Refunded
+821,Apple Pay,263.57,Paid
+822,Debit Card,192.96,Paid
+823,Debit Card,1046.1,Paid
+824,Bank Transfer,1024.94,Refunded
+825,Bank Transfer,428.72,Refunded
+826,UPI,260.25,Paid
+827,PayPal,1368.66,Paid
+828,Bank Transfer,83.36,Refunded
+829,PayPal,1094.34,Paid
+830,Bank Transfer,235.29,Refunded
+831,Credit Card,605.28,Paid
+832,PayPal,21.77,Paid
+833,Debit Card,1606.62,Paid
+834,Credit Card,84.41,Paid
+835,Apple Pay,115.03,Paid
+836,PayPal,113.0,Paid
+837,UPI,2024.08,Paid
+838,Bank Transfer,379.08,Refunded
+839,Debit Card,81.9,Paid
+840,Debit Card,25.1,Paid
+841,Credit Card,57.2,Paid
+842,PayPal,267.36,Refunded
+843,Bank Transfer,138.24,Refunded
+844,Debit Card,357.65,Paid
+845,Apple Pay,103.94,Paid
+846,Debit Card,583.75,Paid
+847,PayPal,160.17,Refunded
+848,UPI,169.57,Paid
+849,Credit Card,425.94,Paid
+850,Debit Card,1762.38,Paid
+851,PayPal,334.98,Paid
+852,Debit Card,189.04,Paid
+853,PayPal,944.98,Paid
+854,Bank Transfer,306.72,Paid
+855,Debit Card,241.77,Paid
+856,UPI,294.2,Paid
+857,Bank Transfer,119.89,Paid
+858,PayPal,437.2,Refunded
+859,Bank Transfer,826.45,Paid
+860,Bank Transfer,667.52,Paid
+861,Bank Transfer,2209.5,Paid
+862,Debit Card,884.92,Paid
+863,Apple Pay,2488.98,Paid
+864,Bank Transfer,699.25,Paid
+865,Apple Pay,35.81,Paid
+866,UPI,672.06,Refunded
+867,UPI,1436.74,Paid
+868,Bank Transfer,975.92,Paid
+869,Bank Transfer,513.34,Refunded
+870,PayPal,86.73,Paid
+871,Bank Transfer,1512.14,Paid
+872,Bank Transfer,244.82,Paid
+873,PayPal,295.39,Paid
+874,Credit Card,297.85,Paid
+875,Credit Card,296.55,Refunded
+876,Credit Card,121.49,Paid
+877,Debit Card,1223.78,Paid
+878,Apple Pay,595.95,Paid
+879,UPI,505.9,Refunded
+880,Bank Transfer,13.7,Paid
+881,Bank Transfer,289.25,Paid
+882,Credit Card,1449.4,Refunded
+883,Apple Pay,1526.21,Paid
+884,Credit Card,62.41,Refunded
+885,Credit Card,424.26,Refunded
+886,UPI,451.29,Paid
+887,PayPal,1646.88,Paid
+888,Bank Transfer,41.32,Paid
+889,Credit Card,956.1,Paid
+890,Apple Pay,867.36,Refunded
+891,Apple Pay,58.39,Paid
+892,Bank Transfer,77.97,Paid
+893,PayPal,96.36,Paid
+894,Credit Card,14.22,Paid
+895,Credit Card,94.54,Paid
+896,Debit Card,100.33,Paid
+897,UPI,34.71,Refunded
+898,Bank Transfer,110.9,Paid
+899,Bank Transfer,1800.48,Paid
+900,Bank Transfer,284.76,Paid
+901,UPI,136.18,Paid
+902,Apple Pay,1514.64,Paid
+903,Bank Transfer,1538.78,Refunded
+904,UPI,250.78,Refunded
+905,Debit Card,118.07,Paid
+906,UPI,33.64,Paid
+907,Bank Transfer,262.83,Paid
+908,Credit Card,271.18,Paid
+909,UPI,333.42,Refunded
+910,Bank Transfer,35.99,Paid
+911,Credit Card,188.75,Paid
+912,Bank Transfer,161.83,Paid
+913,PayPal,222.09,Paid
+914,Debit Card,171.93,Paid
+915,UPI,195.97,Paid
+916,Bank Transfer,52.69,Refunded
+917,PayPal,104.15,Paid
+918,Credit Card,65.58,Paid
+919,Credit Card,369.18,Paid
+920,PayPal,60.03,Paid
+921,Bank Transfer,522.22,Paid
+922,Debit Card,365.76,Refunded
+923,UPI,107.15,Refunded
+924,Debit Card,800.63,Refunded
+925,PayPal,29.7,Refunded
+926,UPI,373.15,Paid
+927,Debit Card,299.05,Refunded
+928,PayPal,735.93,Paid
+929,PayPal,551.42,Paid
+930,Credit Card,44.53,Refunded
+931,Debit Card,165.36,Paid
+932,Apple Pay,306.48,Paid
+933,Bank Transfer,46.42,Paid
+934,Bank Transfer,712.07,Paid
+935,Debit Card,753.15,Paid
+936,PayPal,622.44,Paid
+937,Bank Transfer,2306.97,Paid
+938,UPI,31.16,Paid
+939,Credit Card,282.97,Paid
+940,PayPal,221.74,Paid
+941,Debit Card,86.95,Refunded
+942,Debit Card,694.55,Paid
+943,Apple Pay,925.64,Refunded
+944,Apple Pay,2486.13,Paid
+945,PayPal,546.11,Paid
+946,Bank Transfer,117.3,Refunded
+947,Debit Card,30.61,Paid
+948,UPI,399.76,Refunded
+949,Credit Card,28.46,Paid
+950,Debit Card,104.41,Paid
+951,UPI,862.34,Paid
+952,Apple Pay,59.47,Paid
+953,UPI,59.55,Paid
+954,PayPal,301.31,Paid
+955,Apple Pay,1030.09,Paid
+956,UPI,265.04,Refunded
+957,Credit Card,1391.21,Paid
+958,Bank Transfer,702.66,Refunded
+959,UPI,580.92,Paid
+960,PayPal,135.33,Paid
+961,Apple Pay,840.17,Refunded
+962,Credit Card,319.82,Paid
+963,Credit Card,71.86,Paid
+964,PayPal,177.05,Paid
+965,UPI,75.17,Refunded
+966,Bank Transfer,189.33,Paid
+967,UPI,313.33,Paid
+968,UPI,1830.09,Refunded
+969,Bank Transfer,494.21,Refunded
+970,UPI,203.46,Paid
+971,Credit Card,714.78,Paid
+972,Debit Card,202.52,Paid
+973,Debit Card,626.47,Paid
+974,Apple Pay,69.31,Paid
+975,Debit Card,315.39,Paid
+976,Debit Card,556.72,Refunded
+977,PayPal,228.23,Paid
+978,PayPal,126.67,Paid
+979,Debit Card,714.23,Refunded
+980,Apple Pay,383.84,Paid
+981,Bank Transfer,281.87,Paid
+982,Debit Card,344.96,Paid
+983,UPI,33.92,Paid
+984,Credit Card,771.13,Paid
+985,Apple Pay,778.88,Paid
+986,Apple Pay,1914.3,Refunded
+987,UPI,667.83,Refunded
+988,Bank Transfer,30.05,Paid
+989,Bank Transfer,3442.3,Paid
+990,PayPal,338.7,Refunded
+991,PayPal,683.92,Refunded
+992,Apple Pay,947.19,Paid
+993,Debit Card,228.59,Paid
+994,PayPal,1705.74,Paid
+995,Debit Card,1491.2,Refunded
+996,Debit Card,343.14,Refunded
+997,Debit Card,38.53,Paid
+998,PayPal,43.25,Refunded
+999,Apple Pay,1465.66,Refunded
+1000,Credit Card,1292.06,Paid
+1001,PayPal,576.15,Paid
+1002,Apple Pay,1463.92,Refunded
+1003,UPI,215.67,Paid
+1004,UPI,72.87,Refunded
+1005,Debit Card,1090.26,Paid
+1006,UPI,500.54,Paid
+1007,Bank Transfer,123.73,Paid
+1008,Debit Card,316.6,Paid
+1009,UPI,184.47,Paid
+1010,Apple Pay,200.88,Paid
+1011,Credit Card,686.94,Paid
+1012,Credit Card,3477.81,Paid
+1013,Credit Card,131.02,Paid
+1014,Debit Card,32.74,Refunded
+1015,Apple Pay,1268.34,Paid
+1016,Credit Card,167.83,Paid
+1017,Debit Card,808.59,Paid
+1018,Bank Transfer,114.62,Refunded
+1019,Credit Card,81.84,Paid
+1020,Debit Card,53.81,Refunded
+1021,UPI,407.88,Paid
+1022,UPI,105.84,Paid
+1023,Bank Transfer,70.9,Refunded
+1024,Debit Card,181.19,Paid
+1025,Debit Card,531.28,Paid
+1026,UPI,4703.43,Refunded
+1027,UPI,591.51,Paid
+1028,UPI,780.99,Refunded
+1029,Bank Transfer,117.65,Paid
+1030,Bank Transfer,392.56,Paid
+1031,UPI,418.94,Paid
+1032,Apple Pay,1501.3,Paid
+1033,Credit Card,1731.04,Paid
+1034,Debit Card,64.87,Refunded
+1035,Credit Card,959.42,Paid
+1036,Bank Transfer,40.27,Paid
+1037,Credit Card,495.69,Paid
+1038,Bank Transfer,254.32,Refunded
+1039,Bank Transfer,87.51,Paid
+1040,Credit Card,129.24,Paid
+1041,PayPal,178.63,Paid
+1042,UPI,632.7,Paid
+1043,Bank Transfer,192.05,Paid
+1044,Bank Transfer,2507.01,Refunded
+1045,UPI,52.75,Refunded
+1046,Credit Card,500.96,Paid
+1047,UPI,352.08,Paid
+1048,Debit Card,79.81,Refunded
+1049,UPI,690.87,Paid
+1050,Debit Card,734.8,Paid
+1051,Bank Transfer,1435.26,Paid
+1052,Credit Card,52.5,Paid
+1053,Credit Card,401.7,Paid
+1054,Bank Transfer,722.52,Paid
+1055,Debit Card,155.5,Paid
+1056,Bank Transfer,2133.72,Paid
+1057,PayPal,468.49,Paid
+1058,Debit Card,637.37,Paid
+1059,PayPal,350.73,Paid
+1060,Debit Card,2170.75,Refunded
+1061,Debit Card,101.11,Paid
+1062,PayPal,148.81,Paid
+1063,PayPal,331.34,Paid
+1064,Credit Card,275.92,Paid
+1065,Debit Card,29.48,Paid
+1066,Apple Pay,1931.64,Refunded
+1067,UPI,208.9,Refunded
+1068,Bank Transfer,1531.01,Paid
+1069,Apple Pay,240.22,Paid
+1070,Apple Pay,108.26,Refunded
+1071,Debit Card,268.43,Paid
+1072,Apple Pay,631.57,Paid
+1073,Debit Card,1688.56,Refunded
+1074,Apple Pay,65.91,Paid
+1075,PayPal,115.63,Paid
+1076,Bank Transfer,870.06,Paid
+1077,Bank Transfer,159.21,Refunded
+1078,UPI,1221.04,Paid
+1079,PayPal,130.11,Paid
+1080,UPI,776.43,Paid
+1081,UPI,280.24,Paid
+1082,Apple Pay,173.5,Refunded
+1083,UPI,1007.86,Refunded
+1084,PayPal,378.4,Refunded
+1085,Apple Pay,47.51,Paid
+1086,Credit Card,419.95,Paid
+1087,Credit Card,418.56,Paid
+1088,Debit Card,206.0,Paid
+1089,Apple Pay,232.99,Paid
+1090,PayPal,154.97,Paid
+1091,Debit Card,98.67,Paid
+1092,Apple Pay,641.23,Paid
+1093,Credit Card,28.07,Paid
+1094,UPI,1750.98,Paid
+1095,Bank Transfer,107.65,Paid
+1096,PayPal,671.1,Paid
+1097,PayPal,136.64,Paid
+1098,UPI,162.33,Refunded
+1099,Credit Card,394.57,Paid
+1100,Bank Transfer,229.22,Paid
+1101,Debit Card,117.55,Refunded
+1102,PayPal,592.26,Paid
+1103,Apple Pay,238.75,Paid
+1104,UPI,2589.59,Paid
+1105,Credit Card,2450.89,Paid
+1106,UPI,592.8,Paid
+1107,Apple Pay,308.68,Paid
+1108,Apple Pay,1975.72,Refunded
+1109,PayPal,225.69,Paid
+1110,Apple Pay,1088.28,Paid
+1111,Credit Card,156.15,Paid
+1112,Apple Pay,1336.76,Paid
+1113,Credit Card,140.57,Paid
+1114,PayPal,200.06,Paid
+1115,Credit Card,71.27,Refunded
+1116,PayPal,1234.06,Paid
+1117,Credit Card,58.77,Paid
+1118,Debit Card,453.63,Paid
+1119,Apple Pay,1510.09,Refunded
+1120,PayPal,1647.22,Refunded
+1121,Debit Card,516.16,Refunded
+1122,PayPal,439.81,Paid
+1123,Apple Pay,957.86,Paid
+1124,Apple Pay,50.21,Refunded
+1125,PayPal,80.51,Paid
+1126,UPI,1220.06,Paid
+1127,Bank Transfer,544.46,Paid
+1128,PayPal,340.02,Refunded
+1129,UPI,87.06,Refunded
+1130,PayPal,627.84,Paid
+1131,Bank Transfer,437.1,Paid
+1132,UPI,176.92,Paid
+1133,PayPal,444.73,Paid
+1134,PayPal,3267.55,Paid
+1135,PayPal,634.02,Paid
+1136,Bank Transfer,1334.4,Paid
+1137,Apple Pay,1497.38,Paid
+1138,UPI,2081.69,Paid
+1139,Debit Card,1601.58,Paid
+1140,Apple Pay,1851.03,Paid
+1141,UPI,246.13,Paid
+1142,PayPal,160.93,Paid
+1143,PayPal,356.14,Paid
+1144,UPI,63.77,Paid
+1145,Bank Transfer,130.44,Paid
+1146,UPI,208.92,Refunded
+1147,Apple Pay,2008.12,Paid
+1148,UPI,38.8,Paid
+1149,PayPal,633.1,Paid
+1150,Debit Card,2244.02,Paid
+1151,PayPal,3849.8,Paid
+1152,Bank Transfer,150.45,Paid
+1153,PayPal,1861.18,Refunded
+1154,Apple Pay,40.21,Paid
+1155,PayPal,131.89,Paid
+1156,Bank Transfer,162.69,Paid
+1157,Apple Pay,1479.62,Paid
+1158,UPI,78.07,Paid
+1159,Apple Pay,618.2,Paid
+1160,PayPal,533.55,Paid
+1161,Credit Card,112.88,Paid
+1162,UPI,500.86,Paid
+1163,Credit Card,228.78,Refunded
+1164,PayPal,504.96,Paid
+1165,Credit Card,90.8,Paid
+1166,Debit Card,121.05,Refunded
+1167,Apple Pay,659.15,Refunded
+1168,UPI,215.51,Paid
+1169,Apple Pay,271.49,Paid
+1170,Credit Card,423.01,Paid
+1171,PayPal,492.44,Paid
+1172,UPI,191.52,Refunded
+1173,Debit Card,52.61,Refunded
+1174,UPI,86.15,Paid
+1175,Credit Card,112.21,Paid
+1176,Credit Card,162.0,Paid
+1177,PayPal,64.03,Refunded
+1178,UPI,3134.23,Refunded
+1179,PayPal,3382.08,Refunded
+1180,Credit Card,85.73,Paid
+1181,Apple Pay,43.71,Paid
+1182,Bank Transfer,28.46,Paid
+1183,Apple Pay,137.89,Paid
+1184,Bank Transfer,319.07,Paid
+1185,UPI,1613.54,Paid
+1186,Credit Card,40.25,Paid
+1187,PayPal,148.53,Paid
+1188,PayPal,858.31,Paid
+1189,Debit Card,346.4,Paid
+1190,Debit Card,576.28,Paid
+1191,UPI,70.64,Paid
+1192,PayPal,2386.55,Paid
+1193,Debit Card,172.62,Refunded
+1194,Debit Card,1312.1,Paid
+1195,Credit Card,1166.15,Paid
+1196,PayPal,553.16,Refunded
+1197,Bank Transfer,108.53,Paid
+1198,PayPal,202.15,Paid
+1199,Debit Card,2502.87,Paid
+1200,Bank Transfer,922.33,Paid
+1201,PayPal,2525.93,Paid
+1202,Bank Transfer,175.65,Refunded
+1203,Debit Card,869.12,Paid
+1204,Apple Pay,74.81,Refunded
+1205,Bank Transfer,485.46,Refunded
+1206,Credit Card,74.78,Refunded
+1207,Debit Card,157.33,Refunded
+1208,PayPal,1089.32,Paid
+1209,PayPal,236.83,Paid
+1210,UPI,185.71,Paid
+1211,Bank Transfer,1817.86,Refunded
+1212,Credit Card,433.89,Paid
+1213,Debit Card,1083.96,Paid
+1214,Bank Transfer,208.77,Paid
+1215,PayPal,299.03,Refunded
+1216,Bank Transfer,558.88,Paid
+1217,UPI,111.93,Paid
+1218,PayPal,763.29,Paid
+1219,Credit Card,894.6,Refunded
+1220,Debit Card,75.83,Refunded
+1221,UPI,185.99,Paid
+1222,UPI,132.66,Paid
+1223,Bank Transfer,961.64,Paid
+1224,PayPal,96.27,Paid
+1225,UPI,208.88,Paid
+1226,Bank Transfer,692.73,Refunded
+1227,Debit Card,191.35,Refunded
+1228,Bank Transfer,425.61,Refunded
+1229,Apple Pay,890.25,Paid
+1230,UPI,139.47,Paid
+1231,Apple Pay,30.36,Paid
+1232,Bank Transfer,295.07,Paid
+1233,Bank Transfer,136.93,Paid
+1234,Debit Card,552.22,Paid
+1235,Bank Transfer,2877.06,Paid
+1236,UPI,1573.59,Paid
+1237,Debit Card,156.43,Paid
+1238,Apple Pay,811.23,Refunded
+1239,PayPal,801.26,Paid
+1240,Apple Pay,203.99,Paid
+1241,PayPal,64.27,Refunded
+1242,Apple Pay,239.35,Paid
+1243,PayPal,186.92,Paid
+1244,PayPal,148.71,Paid
+1245,Apple Pay,334.38,Paid
+1246,UPI,1091.86,Paid
+1247,PayPal,659.02,Paid
+1248,UPI,623.0,Paid
+1249,Debit Card,1175.01,Paid
+1250,Credit Card,377.72,Paid
+1251,PayPal,115.71,Paid
+1252,UPI,373.88,Refunded
+1253,UPI,519.34,Paid
+1254,UPI,217.94,Paid
+1255,Debit Card,713.84,Paid
+1256,Apple Pay,339.46,Paid
+1257,PayPal,318.02,Refunded
+1258,Debit Card,2157.05,Paid
+1259,UPI,25.52,Refunded
+1260,PayPal,267.25,Paid
+1261,Debit Card,179.57,Paid
+1262,Bank Transfer,1737.76,Refunded
+1263,PayPal,81.29,Paid
+1264,Debit Card,22.11,Refunded
+1265,PayPal,64.62,Refunded
+1266,Debit Card,161.15,Paid
+1267,Apple Pay,1488.6,Refunded
+1268,PayPal,1386.03,Paid
+1269,Apple Pay,173.24,Paid
+1270,Debit Card,1141.89,Refunded
+1271,Bank Transfer,220.76,Refunded
+1272,Debit Card,2474.94,Refunded
+1273,Debit Card,234.4,Paid
+1274,Credit Card,254.68,Paid
+1275,PayPal,41.96,Paid
+1276,Apple Pay,4822.75,Paid
+1277,Credit Card,46.16,Paid
+1278,Debit Card,27.45,Paid
+1279,UPI,86.01,Paid
+1280,UPI,52.33,Paid
+1281,Debit Card,168.94,Paid
+1282,Credit Card,90.89,Paid
+1283,Debit Card,74.99,Paid
+1284,PayPal,752.56,Paid
+1285,Bank Transfer,306.84,Paid
+1286,UPI,93.53,Paid
+1287,UPI,255.18,Paid
+1288,UPI,1154.83,Paid
+1289,Debit Card,926.64,Paid
+1290,UPI,77.57,Refunded
+1291,PayPal,392.06,Paid
+1292,Bank Transfer,938.47,Paid
+1293,Bank Transfer,441.78,Paid
+1294,Apple Pay,1560.46,Refunded
+1295,Apple Pay,174.15,Paid
+1296,Debit Card,672.37,Paid
+1297,PayPal,611.27,Paid
+1298,Credit Card,172.22,Paid
+1299,UPI,1681.7,Paid
+1300,Bank Transfer,576.99,Paid
+1301,PayPal,100.78,Paid
+1302,Bank Transfer,192.3,Paid
+1303,Apple Pay,674.89,Paid
+1304,Credit Card,182.96,Paid
+1305,Apple Pay,184.37,Paid
+1306,PayPal,1827.83,Paid
+1307,UPI,93.16,Paid
+1308,PayPal,2041.61,Paid
+1309,Bank Transfer,6778.49,Paid
+1310,Apple Pay,321.12,Paid
+1311,Bank Transfer,613.72,Refunded
+1312,Credit Card,1331.76,Paid
+1313,Apple Pay,409.47,Paid
+1314,Apple Pay,525.06,Paid
+1315,UPI,89.97,Paid
+1316,UPI,923.26,Paid
+1317,Debit Card,479.28,Paid
+1318,Debit Card,374.12,Paid
+1319,Bank Transfer,13.26,Paid
+1320,Credit Card,68.77,Paid
+1321,Bank Transfer,187.85,Paid
+1322,Credit Card,503.72,Refunded
+1323,Bank Transfer,140.84,Paid
+1324,UPI,73.64,Refunded
+1325,Apple Pay,423.54,Paid
+1326,Credit Card,6726.82,Paid
+1327,Credit Card,800.56,Paid
+1328,Apple Pay,84.92,Paid
+1329,Bank Transfer,166.79,Paid
+1330,PayPal,37.83,Paid
+1331,Credit Card,89.21,Refunded
+1332,Apple Pay,766.43,Paid
+1333,Credit Card,644.46,Paid
+1334,Apple Pay,809.92,Paid
+1335,UPI,699.54,Paid
+1336,PayPal,60.35,Paid
+1337,Credit Card,92.36,Paid
+1338,Credit Card,177.43,Refunded
+1339,PayPal,3510.98,Refunded
+1340,PayPal,1062.49,Paid
+1341,Credit Card,147.33,Paid
+1342,Credit Card,43.39,Paid
+1343,UPI,345.84,Refunded
+1344,Debit Card,95.79,Paid
+1345,Debit Card,257.66,Paid
+1346,PayPal,95.32,Refunded
+1347,PayPal,404.85,Paid
+1348,UPI,877.08,Paid
+1349,PayPal,62.75,Paid
+1350,Credit Card,197.75,Paid
+1351,UPI,234.35,Paid
+1352,UPI,172.31,Refunded
+1353,Credit Card,107.87,Paid
+1354,Bank Transfer,27.86,Paid
+1355,Credit Card,126.14,Paid
+1356,Debit Card,74.87,Paid
+1357,Bank Transfer,607.93,Refunded
+1358,PayPal,46.24,Paid
+1359,PayPal,167.34,Paid
+1360,PayPal,494.43,Paid
+1361,PayPal,146.63,Refunded
+1362,Apple Pay,179.86,Refunded
+1363,Bank Transfer,845.61,Refunded
+1364,Credit Card,253.32,Refunded
+1365,UPI,397.32,Paid
+1366,Debit Card,1531.58,Refunded
+1367,Credit Card,394.06,Paid
+1368,Debit Card,96.57,Paid
+1369,Credit Card,305.5,Refunded
+1370,Debit Card,4401.73,Paid
+1371,PayPal,1856.27,Refunded
+1372,PayPal,36.11,Paid
+1373,Debit Card,397.72,Refunded
+1374,PayPal,850.69,Paid
+1375,Apple Pay,171.59,Refunded
+1376,PayPal,2120.03,Paid
+1377,Bank Transfer,77.19,Paid
+1378,Credit Card,597.81,Paid
+1379,Debit Card,57.18,Paid
+1380,UPI,729.57,Paid
+1381,Debit Card,777.18,Paid
+1382,Apple Pay,133.47,Paid
+1383,Apple Pay,332.7,Refunded
+1384,Credit Card,3799.84,Paid
+1385,Debit Card,247.13,Paid
+1386,Apple Pay,457.53,Paid
+1387,Bank Transfer,2128.5,Paid
+1388,Debit Card,2314.14,Paid
+1389,Apple Pay,1009.91,Paid
+1390,Credit Card,225.9,Refunded
+1391,PayPal,46.59,Paid
+1392,Debit Card,23.59,Paid
+1393,Credit Card,82.75,Paid
+1394,UPI,715.16,Refunded
+1395,Apple Pay,2134.68,Refunded
+1396,Bank Transfer,105.89,Paid
+1397,Credit Card,1159.84,Paid
+1398,PayPal,298.08,Paid
+1399,Debit Card,480.77,Refunded
+1400,Credit Card,197.07,Refunded
+1401,Bank Transfer,2727.77,Paid
+1402,Apple Pay,188.19,Paid
+1403,Debit Card,75.82,Paid
+1404,Apple Pay,1292.13,Paid
+1405,Bank Transfer,86.78,Refunded
+1406,Bank Transfer,669.08,Paid
+1407,PayPal,124.84,Refunded
+1408,Bank Transfer,543.57,Paid
+1409,UPI,494.52,Refunded
+1410,Debit Card,769.96,Paid
+1411,Apple Pay,728.85,Paid
+1412,Bank Transfer,142.38,Paid
+1413,Apple Pay,56.16,Paid
+1414,Bank Transfer,200.71,Paid
+1415,Apple Pay,788.55,Refunded
+1416,Bank Transfer,546.63,Refunded
+1417,PayPal,129.27,Refunded
+1418,Debit Card,967.81,Paid
+1419,PayPal,2312.14,Paid
+1420,Apple Pay,347.52,Paid
+1421,Credit Card,253.94,Paid
+1422,Apple Pay,85.71,Paid
+1423,Credit Card,513.46,Paid
+1424,Bank Transfer,1797.15,Paid
+1425,Debit Card,39.51,Paid
+1426,Debit Card,252.21,Refunded
+1427,UPI,2749.0,Paid
+1428,Apple Pay,1415.28,Paid
+1429,PayPal,701.75,Paid
+1430,Debit Card,373.44,Paid
+1431,Bank Transfer,387.24,Paid
+1432,UPI,60.14,Refunded
+1433,Debit Card,346.52,Paid
+1434,Apple Pay,133.13,Paid
+1435,UPI,205.72,Paid
+1436,Credit Card,211.39,Paid
+1437,Credit Card,1032.46,Paid
+1438,Credit Card,1453.82,Paid
+1439,Credit Card,459.06,Paid
+1440,Credit Card,804.28,Paid
+1441,Debit Card,67.19,Refunded
+1442,UPI,1426.45,Refunded
+1443,Credit Card,135.61,Paid
+1444,Debit Card,67.97,Paid
+1445,Credit Card,146.47,Paid
+1446,UPI,783.4,Paid
+1447,PayPal,97.32,Paid
+1448,Bank Transfer,62.49,Paid
+1449,Bank Transfer,244.47,Refunded
+1450,Bank Transfer,930.45,Paid
+1451,PayPal,1290.08,Paid
+1452,Debit Card,87.77,Paid
+1453,PayPal,83.97,Paid
+1454,Apple Pay,241.87,Paid
+1455,Apple Pay,480.83,Refunded
+1456,Credit Card,120.54,Paid
+1457,UPI,56.39,Paid
+1458,PayPal,258.05,Paid
+1459,Apple Pay,198.15,Paid
+1460,PayPal,253.06,Paid
+1461,Bank Transfer,991.71,Paid
+1462,Debit Card,251.94,Paid
+1463,Debit Card,45.1,Paid
+1464,PayPal,58.63,Paid
+1465,Apple Pay,42.31,Refunded
+1466,Bank Transfer,414.98,Refunded
+1467,Apple Pay,1156.2,Refunded
+1468,Bank Transfer,337.77,Paid
+1469,Credit Card,92.25,Paid
+1470,Debit Card,193.91,Paid
+1471,Apple Pay,754.12,Paid
+1472,Bank Transfer,3128.12,Paid
+1473,PayPal,312.15,Refunded
+1474,Credit Card,116.9,Paid
+1475,Credit Card,118.6,Paid
+1476,Bank Transfer,360.56,Paid
+1477,Bank Transfer,166.45,Paid
+1478,Debit Card,1702.85,Paid
+1479,Debit Card,856.42,Refunded
+1480,Credit Card,106.03,Paid
+1481,Apple Pay,522.11,Paid
+1482,Apple Pay,534.96,Paid
+1483,PayPal,816.47,Paid
+1484,Apple Pay,1155.23,Paid
+1485,Bank Transfer,570.28,Paid
+1486,Credit Card,1307.33,Paid
+1487,Debit Card,105.39,Paid
+1488,Apple Pay,173.75,Paid
+1489,Apple Pay,66.7,Paid
+1490,Debit Card,139.88,Paid
+1491,Credit Card,430.55,Paid
+1492,PayPal,64.31,Paid
+1493,Bank Transfer,227.48,Refunded
+1494,PayPal,243.09,Refunded
+1495,UPI,639.34,Refunded
+1496,UPI,23.35,Refunded
+1497,PayPal,75.6,Refunded
+1498,Credit Card,144.34,Paid
+1499,PayPal,274.16,Refunded
+1500,Credit Card,33.65,Paid
+1501,Apple Pay,299.05,Refunded
+1502,UPI,127.08,Refunded
+1503,UPI,117.89,Paid
+1504,Apple Pay,648.14,Refunded
+1505,Bank Transfer,78.99,Refunded
+1506,Credit Card,370.9,Paid
+1507,Bank Transfer,649.59,Paid
+1508,Bank Transfer,553.01,Paid
+1509,UPI,218.34,Paid
+1510,Debit Card,315.3,Refunded
+1511,Debit Card,858.6,Paid
+1512,Bank Transfer,251.43,Paid
+1513,Apple Pay,609.63,Paid
+1514,Apple Pay,99.5,Paid
+1515,Debit Card,66.32,Paid
+1516,Credit Card,257.67,Paid
+1517,Bank Transfer,628.78,Paid
+1518,PayPal,1310.15,Paid
+1519,UPI,522.82,Paid
+1520,Credit Card,1400.65,Refunded
+1521,Apple Pay,310.61,Paid
+1522,Bank Transfer,229.95,Paid
+1523,Apple Pay,339.86,Paid
+1524,UPI,57.78,Paid
+1525,Debit Card,265.38,Paid
+1526,Bank Transfer,1004.03,Paid
+1527,Debit Card,114.56,Paid
+1528,Debit Card,1011.76,Refunded
+1529,UPI,1199.54,Paid
+1530,Credit Card,449.97,Paid
+1531,PayPal,37.64,Paid
+1532,Debit Card,228.13,Refunded
+1533,Bank Transfer,59.57,Paid
+1534,Apple Pay,3289.75,Refunded
+1535,Bank Transfer,290.76,Paid
+1536,UPI,620.3,Paid
+1537,PayPal,497.2,Paid
+1538,Credit Card,458.18,Paid
+1539,UPI,226.31,Refunded
+1540,PayPal,585.94,Paid
+1541,Bank Transfer,29.71,Paid
+1542,Bank Transfer,226.65,Refunded
+1543,PayPal,683.09,Refunded
+1544,UPI,1106.07,Paid
+1545,Apple Pay,1435.57,Paid
+1546,PayPal,141.04,Refunded
+1547,Bank Transfer,298.3,Paid
+1548,UPI,795.44,Refunded
+1549,Credit Card,542.86,Refunded
+1550,Credit Card,2264.77,Paid
+1551,Bank Transfer,255.91,Paid
+1552,Bank Transfer,31.76,Paid
+1553,Apple Pay,731.31,Refunded
+1554,Debit Card,235.43,Refunded
+1555,Bank Transfer,198.37,Refunded
+1556,Apple Pay,349.44,Paid
+1557,UPI,255.07,Paid
+1558,Bank Transfer,554.49,Paid
+1559,Debit Card,65.93,Paid
+1560,UPI,39.33,Paid
+1561,UPI,250.16,Paid
+1562,Credit Card,1290.87,Paid
+1563,Credit Card,498.97,Paid
+1564,Apple Pay,99.89,Paid
+1565,PayPal,653.46,Paid
+1566,Debit Card,1373.97,Paid
+1567,Credit Card,274.63,Refunded
+1568,PayPal,870.8,Refunded
+1569,Credit Card,1195.64,Refunded
+1570,Credit Card,483.29,Paid
+1571,Apple Pay,467.46,Refunded
+1572,Credit Card,64.33,Refunded
+1573,Credit Card,21.3,Refunded
+1574,UPI,59.05,Paid
+1575,Apple Pay,70.5,Paid
+1576,PayPal,1140.48,Paid
+1577,Debit Card,2805.58,Paid
+1578,Debit Card,1229.18,Paid
+1579,Bank Transfer,214.1,Paid
+1580,Apple Pay,1054.73,Paid
+1581,Bank Transfer,695.43,Paid
+1582,Bank Transfer,237.67,Paid
+1583,Debit Card,159.99,Paid
+1584,PayPal,416.87,Paid
+1585,UPI,282.92,Paid
+1586,Debit Card,165.72,Paid
+1587,Bank Transfer,277.32,Paid
+1588,Bank Transfer,555.26,Paid
+1589,UPI,109.31,Paid
+1590,Credit Card,2687.88,Paid
+1591,Debit Card,620.42,Paid
+1592,Bank Transfer,684.7,Paid
+1593,Debit Card,156.27,Paid
+1594,Debit Card,861.72,Paid
+1595,Apple Pay,53.71,Paid
+1596,PayPal,30.01,Paid
+1597,Bank Transfer,47.21,Paid
+1598,UPI,740.67,Paid
+1599,Credit Card,252.28,Paid
+1600,UPI,482.19,Refunded
+1601,Bank Transfer,39.58,Paid
+1602,Apple Pay,1600.82,Refunded
+1603,UPI,857.85,Paid
+1604,Apple Pay,503.04,Paid
+1605,Debit Card,174.5,Paid
+1606,Apple Pay,139.31,Refunded
+1607,UPI,481.17,Paid
+1608,Apple Pay,210.04,Paid
+1609,Bank Transfer,171.99,Refunded
+1610,Apple Pay,81.17,Paid
+1611,PayPal,366.39,Paid
+1612,PayPal,254.87,Paid
+1613,PayPal,2180.29,Refunded
+1614,Credit Card,87.33,Paid
+1615,Credit Card,226.17,Paid
+1616,Apple Pay,267.56,Paid
+1617,PayPal,443.35,Paid
+1618,Credit Card,1207.16,Refunded
+1619,UPI,242.11,Paid
+1620,UPI,636.12,Refunded
+1621,Credit Card,596.19,Paid
+1622,PayPal,55.8,Paid
+1623,PayPal,1130.74,Paid
+1624,UPI,31.67,Paid
+1625,Credit Card,665.13,Refunded
+1626,Bank Transfer,1486.39,Paid
+1627,PayPal,269.63,Paid
+1628,Debit Card,69.78,Paid
+1629,PayPal,77.97,Paid
+1630,Apple Pay,470.85,Refunded
+1631,UPI,531.33,Paid
+1632,PayPal,595.32,Paid
+1633,PayPal,390.13,Paid
+1634,UPI,1028.4,Refunded
+1635,PayPal,123.63,Paid
+1636,Bank Transfer,593.99,Paid
+1637,Bank Transfer,50.42,Refunded
+1638,Bank Transfer,218.83,Paid
+1639,Credit Card,221.81,Paid
+1640,UPI,1403.8,Paid
+1641,Debit Card,87.29,Paid
+1642,Debit Card,236.86,Paid
+1643,Credit Card,1324.96,Paid
+1644,Debit Card,111.47,Refunded
+1645,Debit Card,420.06,Paid
+1646,Credit Card,68.95,Paid
+1647,Debit Card,252.3,Paid
+1648,Credit Card,607.32,Refunded
+1649,Debit Card,54.77,Paid
+1650,Credit Card,288.68,Paid
+1651,UPI,1441.77,Paid
+1652,Bank Transfer,552.87,Paid
+1653,Apple Pay,145.22,Paid
+1654,Bank Transfer,253.08,Paid
+1655,Apple Pay,271.87,Paid
+1656,Credit Card,335.54,Refunded
+1657,Credit Card,190.56,Paid
+1658,Apple Pay,723.54,Paid
+1659,PayPal,68.3,Paid
+1660,Debit Card,836.92,Refunded
+1661,UPI,34.55,Refunded
+1662,UPI,56.35,Refunded
+1663,Bank Transfer,652.57,Refunded
+1664,Apple Pay,314.92,Paid
+1665,UPI,417.23,Refunded
+1666,Bank Transfer,337.55,Paid
+1667,PayPal,2528.11,Paid
+1668,Credit Card,273.33,Paid
+1669,Bank Transfer,82.07,Paid
+1670,PayPal,383.48,Paid
+1671,UPI,474.55,Paid
+1672,PayPal,1075.05,Refunded
+1673,PayPal,347.01,Paid
+1674,Credit Card,758.42,Refunded
+1675,PayPal,540.53,Refunded
+1676,PayPal,1198.28,Paid
+1677,UPI,221.63,Paid
+1678,UPI,803.99,Paid
+1679,Debit Card,203.54,Paid
+1680,UPI,1406.11,Refunded
+1681,UPI,1642.97,Refunded
+1682,Bank Transfer,227.73,Paid
+1683,UPI,953.28,Refunded
+1684,Credit Card,805.92,Refunded
+1685,PayPal,22.15,Refunded
+1686,Apple Pay,226.41,Paid
+1687,PayPal,1974.8,Refunded
+1688,Debit Card,971.44,Paid
+1689,Debit Card,117.95,Refunded
+1690,Credit Card,123.11,Paid
+1691,UPI,37.97,Paid
+1692,Debit Card,1521.06,Paid
+1693,Credit Card,349.78,Paid
+1694,PayPal,98.59,Paid
+1695,PayPal,851.85,Refunded
+1696,Bank Transfer,29.75,Paid
+1697,Bank Transfer,280.16,Paid
+1698,PayPal,43.29,Paid
+1699,Credit Card,74.65,Refunded
+1700,Debit Card,110.27,Paid
+1701,UPI,228.44,Paid
+1702,Debit Card,1193.61,Paid
+1703,Bank Transfer,182.49,Refunded
+1704,Credit Card,140.61,Paid
+1705,PayPal,162.34,Paid
+1706,Credit Card,248.63,Paid
+1707,UPI,3111.48,Refunded
+1708,Apple Pay,46.3,Refunded
+1709,Credit Card,281.01,Paid
+1710,UPI,272.68,Paid
+1711,PayPal,756.75,Refunded
+1712,Credit Card,150.45,Refunded
+1713,UPI,652.62,Paid
+1714,PayPal,51.85,Refunded
+1715,Debit Card,129.8,Paid
+1716,Debit Card,237.04,Paid
+1717,Bank Transfer,265.84,Paid
+1718,Credit Card,254.97,Paid
+1719,Credit Card,1972.13,Refunded
+1720,Debit Card,509.12,Paid
+1721,Bank Transfer,514.16,Paid
+1722,UPI,73.85,Paid
+1723,UPI,282.8,Paid
+1724,Bank Transfer,367.4,Paid
+1725,Credit Card,1614.36,Refunded
+1726,PayPal,265.85,Paid
+1727,Apple Pay,61.96,Paid
+1728,Debit Card,135.97,Paid
+1729,Credit Card,3997.67,Paid
+1730,Apple Pay,816.2,Refunded
+1731,UPI,324.63,Refunded
+1732,UPI,259.67,Paid
+1733,Apple Pay,1792.14,Paid
+1734,Bank Transfer,648.66,Paid
+1735,PayPal,67.29,Paid
+1736,UPI,543.56,Paid
+1737,UPI,285.41,Paid
+1738,UPI,25.62,Paid
+1739,Debit Card,80.9,Refunded
+1740,Bank Transfer,402.14,Paid
+1741,Debit Card,1151.06,Paid
+1742,Debit Card,302.03,Paid
+1743,Debit Card,518.84,Paid
+1744,Apple Pay,366.72,Paid
+1745,Credit Card,227.21,Refunded
+1746,Debit Card,351.71,Paid
+1747,Credit Card,76.16,Refunded
+1748,Apple Pay,304.46,Refunded
+1749,Bank Transfer,157.14,Paid
+1750,Credit Card,239.37,Paid
+1751,UPI,812.73,Paid
+1752,Apple Pay,3127.96,Paid
+1753,UPI,424.09,Paid
+1754,Credit Card,440.56,Paid
+1755,Credit Card,492.24,Paid
+1756,UPI,348.91,Paid
+1757,Debit Card,38.05,Paid
+1758,Bank Transfer,430.21,Paid
+1759,PayPal,463.28,Paid
+1760,Debit Card,103.9,Paid
+1761,Debit Card,69.81,Paid
+1762,Credit Card,69.67,Paid
+1763,PayPal,498.62,Paid
+1764,Apple Pay,439.89,Paid
+1765,UPI,86.22,Paid
+1766,UPI,355.86,Paid
+1767,Apple Pay,86.29,Paid
+1768,Bank Transfer,822.25,Refunded
+1769,Bank Transfer,107.81,Refunded
+1770,Debit Card,310.86,Paid
+1771,Debit Card,35.64,Refunded
+1772,Credit Card,79.07,Paid
+1773,Bank Transfer,239.83,Paid
+1774,Debit Card,239.68,Paid
+1775,UPI,63.4,Paid
+1776,Credit Card,245.69,Paid
+1777,UPI,235.89,Paid
+1778,Credit Card,525.18,Paid
+1779,Credit Card,70.47,Paid
+1780,Bank Transfer,170.58,Paid
+1781,UPI,101.54,Paid
+1782,Credit Card,1118.34,Refunded
+1783,UPI,104.16,Paid
+1784,UPI,276.18,Paid
+1785,Credit Card,454.8,Paid
+1786,Debit Card,55.39,Paid
+1787,Credit Card,52.69,Refunded
+1788,Debit Card,1307.36,Paid
+1789,Apple Pay,31.85,Paid
+1790,UPI,68.84,Paid
+1791,UPI,329.1,Refunded
+1792,Credit Card,251.41,Paid
+1793,UPI,102.43,Refunded
+1794,Bank Transfer,78.72,Paid
+1795,Credit Card,2364.03,Paid
+1796,Credit Card,820.12,Paid
+1797,PayPal,145.59,Paid
+1798,Bank Transfer,324.18,Paid
+1799,Debit Card,1484.02,Paid
+1800,Bank Transfer,205.27,Refunded
+1801,UPI,2133.72,Paid
+1802,Apple Pay,389.19,Paid
+1803,Debit Card,3042.75,Refunded
+1804,Credit Card,62.34,Refunded
+1805,UPI,526.4,Paid
+1806,UPI,463.89,Paid
+1807,Apple Pay,867.93,Refunded
+1808,Debit Card,279.55,Paid
+1809,Credit Card,298.27,Refunded
+1810,PayPal,1366.68,Paid
+1811,Debit Card,85.85,Refunded
+1812,UPI,852.32,Paid
+1813,Credit Card,256.93,Paid
+1814,UPI,344.6,Paid
+1815,PayPal,222.65,Paid
+1816,PayPal,439.28,Refunded
+1817,Debit Card,101.81,Paid
+1818,PayPal,360.13,Paid
+1819,Apple Pay,64.18,Paid
+1820,PayPal,256.3,Refunded
+1821,PayPal,479.16,Refunded
+1822,Bank Transfer,184.42,Paid
+1823,Apple Pay,704.12,Paid
+1824,Apple Pay,1499.38,Paid
+1825,Bank Transfer,45.15,Paid
+1826,Apple Pay,1000.81,Paid
+1827,PayPal,811.71,Paid
+1828,Debit Card,333.93,Paid
+1829,Credit Card,602.72,Paid
+1830,Debit Card,723.04,Refunded
+1831,PayPal,368.23,Refunded
+1832,Debit Card,221.84,Refunded
+1833,PayPal,389.4,Paid
+1834,Credit Card,273.32,Paid
+1835,PayPal,287.56,Refunded
+1836,PayPal,103.39,Paid
+1837,Apple Pay,37.42,Paid
+1838,Debit Card,1098.85,Refunded
+1839,Debit Card,436.14,Paid
+1840,PayPal,250.48,Paid
+1841,Debit Card,1027.14,Paid
+1842,Credit Card,352.29,Paid
+1843,Debit Card,497.68,Paid
+1844,Bank Transfer,48.87,Paid
+1845,Apple Pay,347.52,Paid
+1846,Credit Card,226.4,Refunded
+1847,Apple Pay,2727.33,Paid
+1848,PayPal,3297.11,Paid
+1849,Debit Card,22.7,Paid
+1850,Debit Card,321.94,Refunded
+1851,Credit Card,112.22,Paid
+1852,PayPal,28.52,Paid
+1853,Credit Card,802.88,Paid
+1854,Debit Card,467.96,Paid
+1855,Debit Card,92.23,Paid
+1856,UPI,75.96,Refunded
+1857,Apple Pay,1217.27,Paid
+1858,Apple Pay,1579.78,Paid
+1859,Debit Card,577.68,Paid
+1860,Bank Transfer,543.0,Paid
+1861,Apple Pay,1992.21,Paid
+1862,PayPal,870.88,Paid
+1863,Bank Transfer,660.04,Paid
+1864,Apple Pay,562.45,Paid
+1865,Bank Transfer,903.62,Paid
+1866,Apple Pay,163.79,Refunded
+1867,Credit Card,4405.14,Paid
+1868,Debit Card,150.83,Paid
+1869,Debit Card,227.07,Refunded
+1870,UPI,46.01,Paid
+1871,Debit Card,27.05,Paid
+1872,UPI,122.81,Paid
+1873,PayPal,27.73,Paid
+1874,Credit Card,253.06,Paid
+1875,UPI,69.78,Paid
+1876,Apple Pay,639.13,Paid
+1877,Bank Transfer,1646.52,Paid
+1878,PayPal,876.48,Paid
+1879,Debit Card,60.07,Paid
+1880,Bank Transfer,66.38,Refunded
+1881,UPI,3263.64,Refunded
+1882,UPI,461.0,Paid
+1883,Debit Card,22.11,Paid
+1884,Apple Pay,243.23,Paid
+1885,Debit Card,337.59,Paid
+1886,Debit Card,2985.95,Paid
+1887,PayPal,132.65,Paid
+1888,Debit Card,1276.28,Paid
+1889,Debit Card,449.96,Paid
+1890,PayPal,26.82,Refunded
+1891,Bank Transfer,60.11,Paid
+1892,Apple Pay,104.78,Refunded
+1893,UPI,597.66,Paid
+1894,UPI,154.85,Paid
+1895,Bank Transfer,2690.2,Refunded
+1896,Bank Transfer,62.11,Paid
+1897,UPI,107.84,Refunded
+1898,Apple Pay,1615.21,Paid
+1899,Bank Transfer,2765.88,Paid
+1900,PayPal,135.83,Paid
+1901,Bank Transfer,509.0,Refunded
+1902,Credit Card,42.45,Paid
+1903,Credit Card,541.99,Refunded
+1904,Debit Card,110.96,Paid
+1905,Credit Card,508.95,Paid
+1906,Bank Transfer,42.26,Refunded
+1907,Bank Transfer,56.71,Paid
+1908,UPI,1441.2,Paid
+1909,Apple Pay,578.76,Paid
+1910,Apple Pay,125.61,Paid
+1911,Debit Card,1080.15,Refunded
+1912,UPI,99.26,Paid
+1913,UPI,319.07,Refunded
+1914,PayPal,271.78,Paid
+1915,PayPal,232.62,Refunded
+1916,PayPal,206.2,Paid
+1917,Bank Transfer,224.44,Refunded
+1918,Apple Pay,1376.63,Paid
+1919,Credit Card,1783.53,Paid
+1920,Debit Card,860.62,Paid
+1921,PayPal,870.97,Paid
+1922,PayPal,1233.74,Paid
+1923,Bank Transfer,322.42,Refunded
+1924,PayPal,934.48,Paid
+1925,Bank Transfer,319.46,Refunded
+1926,PayPal,1429.87,Paid
+1927,Bank Transfer,46.52,Paid
+1928,Credit Card,1264.56,Paid
+1929,Credit Card,96.91,Paid
+1930,Debit Card,210.68,Paid
+1931,Credit Card,365.31,Paid
+1932,Credit Card,365.89,Paid
+1933,PayPal,231.02,Paid
+1934,Debit Card,452.13,Paid
+1935,Debit Card,1745.95,Refunded
+1936,Debit Card,163.39,Refunded
+1937,PayPal,149.55,Refunded
+1938,Bank Transfer,240.32,Paid
+1939,UPI,1788.75,Paid
+1940,Bank Transfer,72.39,Paid
+1941,UPI,676.78,Refunded
+1942,PayPal,280.43,Paid
+1943,UPI,527.44,Paid
+1944,Credit Card,208.65,Paid
+1945,PayPal,780.63,Paid
+1946,Bank Transfer,648.08,Refunded
+1947,Credit Card,104.43,Paid
+1948,Debit Card,643.1,Paid
+1949,PayPal,314.68,Paid
+1950,Debit Card,1999.72,Paid
+1951,Apple Pay,390.82,Paid
+1952,Bank Transfer,1469.19,Paid
+1953,Credit Card,775.62,Paid
+1954,Debit Card,667.83,Refunded
+1955,Apple Pay,532.19,Paid
+1956,PayPal,143.59,Refunded
+1957,Bank Transfer,76.7,Paid
+1958,Bank Transfer,126.99,Paid
+1959,Debit Card,594.0,Paid
+1960,PayPal,190.77,Paid
+1961,PayPal,685.98,Paid
+1962,UPI,860.06,Paid
+1963,PayPal,155.54,Paid
+1964,Debit Card,600.76,Paid
+1965,Apple Pay,67.49,Paid
+1966,UPI,356.34,Paid
+1967,Bank Transfer,583.21,Paid
+1968,Debit Card,540.36,Refunded
+1969,Debit Card,24.35,Paid
+1970,Debit Card,300.54,Paid
+1971,Bank Transfer,130.35,Refunded
+1972,PayPal,1442.88,Paid
+1973,Apple Pay,79.78,Paid
+1974,Debit Card,1877.48,Paid
+1975,Credit Card,70.84,Paid
+1976,UPI,495.15,Paid
+1977,Credit Card,154.68,Refunded
+1978,Bank Transfer,227.43,Refunded
+1979,Apple Pay,30.21,Refunded
+1980,Credit Card,2442.91,Refunded
+1981,Bank Transfer,183.41,Paid
+1982,UPI,37.98,Paid
+1983,Credit Card,83.43,Paid
+1984,Credit Card,124.25,Paid
+1985,Credit Card,757.16,Paid
+1986,PayPal,2433.24,Paid
+1987,PayPal,262.95,Refunded
+1988,PayPal,1124.49,Paid
+1989,Bank Transfer,332.15,Paid
+1990,PayPal,24.62,Paid
+1991,Credit Card,63.56,Paid
+1992,UPI,134.31,Paid
+1993,Apple Pay,1592.37,Refunded
+1994,Bank Transfer,26.05,Paid
+1995,Bank Transfer,268.61,Paid
+1996,PayPal,230.49,Paid
+1997,Credit Card,2286.21,Paid
+1998,UPI,169.22,Paid
+1999,Apple Pay,336.79,Paid
+2000,Apple Pay,269.66,Paid
+2001,PayPal,33.65,Paid
+2002,Bank Transfer,411.08,Refunded
+2003,Bank Transfer,204.09,Paid
+2004,PayPal,1080.39,Paid
+2005,Apple Pay,74.91,Paid
+2006,Credit Card,992.88,Paid
+2007,PayPal,2320.14,Paid
+2008,Credit Card,1902.08,Paid
+2009,Credit Card,27.86,Paid
+2010,Credit Card,862.96,Paid
+2011,Apple Pay,1521.92,Refunded
+2012,Apple Pay,361.99,Refunded
+2013,Apple Pay,787.47,Paid
+2014,UPI,4402.38,Refunded
+2015,Bank Transfer,3055.42,Paid
+2016,Apple Pay,345.62,Refunded
+2017,PayPal,113.91,Paid
+2018,UPI,195.75,Refunded
+2019,Debit Card,690.42,Paid
+2020,PayPal,120.58,Paid
+2021,Apple Pay,223.25,Paid
+2022,Credit Card,150.44,Paid
+2023,Apple Pay,409.0,Paid
+2024,Debit Card,1404.69,Refunded
+2025,UPI,185.17,Paid
+2026,Bank Transfer,184.04,Paid
+2027,PayPal,403.77,Paid
+2028,Credit Card,37.64,Paid
+2029,Apple Pay,29.27,Paid
+2030,Credit Card,1130.25,Refunded
+2031,UPI,69.49,Refunded
+2032,Debit Card,37.05,Paid
+2033,PayPal,325.92,Paid
+2034,PayPal,810.0,Paid
+2035,Debit Card,215.27,Paid
+2036,Apple Pay,737.01,Paid
+2037,Credit Card,97.46,Paid
+2038,PayPal,2480.67,Refunded
+2039,Debit Card,982.56,Paid
+2040,Bank Transfer,753.86,Paid
+2041,Apple Pay,1452.02,Refunded
+2042,Credit Card,856.16,Refunded
+2043,Bank Transfer,255.53,Paid
+2044,Bank Transfer,792.73,Paid
+2045,PayPal,655.9,Paid
+2046,UPI,579.64,Paid
+2047,Debit Card,2214.68,Paid
+2048,Debit Card,144.63,Paid
+2049,UPI,44.51,Refunded
+2050,PayPal,43.39,Refunded
+2051,Apple Pay,775.25,Paid
+2052,UPI,426.34,Refunded
+2053,Debit Card,180.82,Refunded
+2054,Bank Transfer,1533.59,Paid
+2055,UPI,400.8,Paid
+2056,UPI,311.47,Refunded
+2057,Apple Pay,805.02,Paid
+2058,Bank Transfer,1415.11,Paid
+2059,Bank Transfer,106.31,Paid
+2060,PayPal,242.43,Paid
+2061,PayPal,78.68,Paid
+2062,Debit Card,607.59,Refunded
+2063,Bank Transfer,1306.01,Paid
+2064,Credit Card,442.02,Paid
+2065,Credit Card,68.01,Refunded
+2066,Credit Card,96.85,Paid
+2067,Apple Pay,757.15,Refunded
+2068,Apple Pay,236.79,Paid
+2069,Bank Transfer,174.73,Refunded
+2070,Debit Card,1767.09,Paid
+2071,Bank Transfer,105.96,Paid
+2072,Bank Transfer,211.97,Paid
+2073,Bank Transfer,188.83,Paid
+2074,Bank Transfer,580.76,Refunded
+2075,Bank Transfer,143.24,Paid
+2076,Debit Card,255.95,Paid
+2077,Apple Pay,178.77,Paid
+2078,Credit Card,529.91,Paid
+2079,Debit Card,76.84,Refunded
+2080,PayPal,53.63,Refunded
+2081,Debit Card,2202.34,Refunded
+2082,Credit Card,390.3,Paid
+2083,Apple Pay,936.29,Paid
+2084,Bank Transfer,212.7,Paid
+2085,Apple Pay,82.16,Refunded
+2086,UPI,2066.97,Paid
+2087,Credit Card,237.87,Refunded
+2088,Bank Transfer,1372.89,Paid
+2089,Debit Card,788.81,Paid
+2090,Debit Card,880.39,Refunded
+2091,Debit Card,672.16,Paid
+2092,UPI,405.02,Paid
+2093,Apple Pay,252.63,Paid
+2094,UPI,149.26,Paid
+2095,Debit Card,109.01,Refunded
+2096,Credit Card,178.67,Refunded
+2097,Credit Card,273.85,Refunded
+2098,PayPal,2374.73,Paid
+2099,Credit Card,528.24,Paid
+2100,Credit Card,185.0,Paid
+2101,Apple Pay,172.57,Paid
+2102,Debit Card,515.46,Paid
+2103,PayPal,517.94,Paid
+2104,Credit Card,2368.87,Paid
+2105,Bank Transfer,172.72,Refunded
+2106,UPI,627.92,Paid
+2107,Bank Transfer,812.07,Paid
+2108,Debit Card,90.22,Refunded
+2109,Debit Card,519.36,Refunded
+2110,PayPal,380.47,Paid
+2111,Apple Pay,254.25,Paid
+2112,Debit Card,228.77,Paid
+2113,Apple Pay,849.09,Paid
+2114,Credit Card,27.11,Paid
+2115,Bank Transfer,244.79,Paid
+2116,Bank Transfer,163.63,Paid
+2117,UPI,702.56,Refunded
+2118,Bank Transfer,660.06,Refunded
+2119,Apple Pay,2007.84,Paid
+2120,Debit Card,424.88,Paid
+2121,UPI,813.6,Paid
+2122,PayPal,1225.17,Paid
+2123,PayPal,39.43,Paid
+2124,Bank Transfer,1927.02,Refunded
+2125,PayPal,270.32,Paid
+2126,PayPal,445.76,Refunded
+2127,Bank Transfer,176.4,Paid
+2128,Bank Transfer,855.12,Paid
+2129,PayPal,106.4,Refunded
+2130,Apple Pay,61.59,Refunded
+2131,Bank Transfer,261.26,Paid
+2132,Bank Transfer,404.32,Refunded
+2133,UPI,78.15,Refunded
+2134,UPI,186.05,Paid
+2135,Bank Transfer,87.65,Paid
+2136,UPI,2788.43,Paid
+2137,PayPal,233.52,Paid
+2138,UPI,703.14,Refunded
+2139,UPI,404.18,Paid
+2140,UPI,104.15,Refunded
+2141,UPI,498.2,Paid
+2142,UPI,197.5,Paid
+2143,Bank Transfer,1064.17,Paid
+2144,UPI,576.96,Paid
+2145,UPI,1371.99,Refunded
+2146,Bank Transfer,757.74,Paid
+2147,PayPal,322.86,Paid
+2148,Debit Card,2005.56,Paid
+2149,Apple Pay,330.24,Paid
+2150,Apple Pay,165.43,Paid
+2151,PayPal,64.54,Paid
+2152,PayPal,2318.85,Refunded
+2153,Debit Card,328.75,Paid
+2154,PayPal,1168.35,Refunded
+2155,Apple Pay,40.99,Paid
+2156,Debit Card,997.2,Refunded
+2157,Debit Card,547.64,Refunded
+2158,Bank Transfer,285.86,Paid
+2159,Credit Card,68.68,Paid
+2160,PayPal,1670.77,Paid
+2161,PayPal,260.82,Paid
+2162,PayPal,112.59,Refunded
+2163,UPI,298.94,Paid
+2164,Debit Card,1027.0,Paid
+2165,Debit Card,3068.16,Refunded
+2166,Credit Card,248.57,Paid
+2167,Bank Transfer,952.09,Paid
+2168,Credit Card,1234.76,Refunded
+2169,Credit Card,43.57,Paid
+2170,Credit Card,282.15,Paid
+2171,PayPal,34.19,Paid
+2172,Debit Card,136.87,Refunded
+2173,Credit Card,2169.91,Paid
+2174,Credit Card,557.57,Paid
+2175,Debit Card,3612.64,Refunded
+2176,Credit Card,56.11,Paid
+2177,PayPal,347.92,Paid
+2178,UPI,451.68,Paid
+2179,Credit Card,216.23,Paid
+2180,UPI,544.08,Paid
+2181,Bank Transfer,141.59,Refunded
+2182,PayPal,167.26,Paid
+2183,Bank Transfer,1700.84,Refunded
+2184,PayPal,351.54,Paid
+2185,PayPal,119.18,Paid
+2186,PayPal,280.92,Paid
+2187,Debit Card,1414.4,Paid
+2188,Debit Card,887.76,Paid
+2189,Bank Transfer,876.09,Refunded
+2190,PayPal,142.33,Paid
+2191,Debit Card,762.25,Paid
+2192,Apple Pay,184.93,Paid
+2193,Credit Card,539.44,Paid
+2194,Apple Pay,41.1,Paid
+2195,Apple Pay,280.91,Paid
+2196,Apple Pay,250.11,Refunded
+2197,Bank Transfer,277.41,Paid
+2198,UPI,367.64,Paid
+2199,Credit Card,263.56,Paid
+2200,Debit Card,456.35,Paid
+2201,UPI,174.29,Paid
+2202,Apple Pay,2065.93,Paid
+2203,PayPal,191.52,Refunded
+2204,PayPal,156.28,Paid
+2205,Debit Card,568.85,Paid
+2206,Apple Pay,689.79,Refunded
+2207,PayPal,183.36,Paid
+2208,PayPal,40.83,Paid
+2209,Debit Card,1220.22,Refunded
+2210,Bank Transfer,44.89,Paid
+2211,Debit Card,99.45,Paid
+2212,UPI,53.09,Paid
+2213,PayPal,88.27,Refunded
+2214,Apple Pay,587.27,Paid
+2215,Apple Pay,520.0,Paid
+2216,UPI,548.06,Paid
+2217,PayPal,1707.2,Paid
+2218,Credit Card,172.04,Refunded
+2219,Credit Card,3675.31,Paid
+2220,PayPal,1021.96,Refunded
+2221,Debit Card,122.03,Paid
+2222,Debit Card,645.92,Refunded
+2223,Debit Card,78.51,Paid
+2224,Bank Transfer,32.27,Paid
+2225,UPI,375.39,Paid
+2226,Credit Card,175.55,Paid
+2227,Debit Card,197.57,Paid
+2228,Debit Card,69.87,Paid
+2229,Debit Card,35.48,Paid
+2230,Credit Card,259.49,Paid
+2231,UPI,658.69,Refunded
+2232,Bank Transfer,70.47,Paid
+2233,Credit Card,935.83,Paid
+2234,PayPal,120.37,Refunded
+2235,Credit Card,737.56,Paid
+2236,Bank Transfer,65.13,Paid
+2237,Bank Transfer,63.62,Paid
+2238,PayPal,1131.64,Paid
+2239,Credit Card,518.6,Paid
+2240,UPI,820.59,Paid
+2241,Debit Card,66.17,Paid
+2242,Apple Pay,970.36,Paid
+2243,Apple Pay,63.17,Paid
+2244,Apple Pay,629.28,Paid
+2245,Credit Card,121.24,Refunded
+2246,Apple Pay,1245.56,Paid
+2247,Apple Pay,356.13,Paid
+2248,Credit Card,384.24,Paid
+2249,Apple Pay,1538.14,Paid
+2250,Bank Transfer,2303.08,Paid
+2251,UPI,193.08,Refunded
+2252,Apple Pay,109.28,Refunded
+2253,UPI,842.95,Paid
+2254,PayPal,750.03,Refunded
+2255,Apple Pay,344.45,Refunded
+2256,Bank Transfer,116.05,Refunded
+2257,PayPal,89.58,Paid
+2258,Debit Card,90.35,Paid
+2259,Credit Card,254.68,Paid
+2260,Bank Transfer,719.96,Paid
+2261,Credit Card,205.51,Refunded
+2262,PayPal,969.08,Paid
+2263,Debit Card,67.51,Paid
+2264,Debit Card,1034.37,Paid
+2265,Apple Pay,1462.27,Paid
+2266,Credit Card,261.16,Refunded
+2267,Bank Transfer,119.6,Paid
+2268,Debit Card,62.84,Paid
+2269,Bank Transfer,280.04,Refunded
+2270,Bank Transfer,118.06,Paid
+2271,Credit Card,82.83,Refunded
+2272,Debit Card,669.78,Paid
+2273,Credit Card,184.42,Paid
+2274,Apple Pay,3091.33,Paid
+2275,Credit Card,484.28,Paid
+2276,PayPal,395.74,Refunded
+2277,Debit Card,1024.51,Refunded
+2278,Bank Transfer,2452.2,Paid
+2279,PayPal,267.17,Paid
+2280,Debit Card,381.5,Refunded
+2281,Bank Transfer,83.25,Paid
+2282,Debit Card,546.41,Paid
+2283,Apple Pay,323.78,Refunded
+2284,Apple Pay,61.88,Paid
+2285,Credit Card,910.6,Paid
+2286,Credit Card,416.55,Paid
+2287,UPI,82.83,Paid
+2288,Credit Card,168.15,Paid
+2289,Bank Transfer,306.02,Paid
+2290,Debit Card,55.29,Refunded
+2291,Credit Card,394.35,Paid
+2292,Credit Card,100.83,Paid
+2293,Bank Transfer,4871.85,Paid
+2294,UPI,175.97,Paid
+2295,PayPal,2518.9,Refunded
+2296,UPI,103.21,Paid
+2297,UPI,145.9,Refunded
+2298,UPI,487.37,Paid
+2299,Credit Card,1240.01,Refunded
+2300,Debit Card,264.16,Paid
+2301,UPI,1338.04,Paid
+2302,Bank Transfer,267.72,Refunded
+2303,Apple Pay,916.9,Paid
+2304,Apple Pay,137.37,Paid
+2305,Apple Pay,255.8,Paid
+2306,Credit Card,317.13,Refunded
+2307,UPI,328.1,Paid
+2308,Credit Card,723.85,Paid
+2309,Debit Card,1341.65,Paid
+2310,UPI,102.49,Refunded
+2311,PayPal,3127.06,Paid
+2312,Debit Card,181.49,Refunded
+2313,Debit Card,568.14,Paid
+2314,PayPal,1127.82,Paid
+2315,Bank Transfer,256.5,Paid
+2316,Bank Transfer,1358.45,Refunded
+2317,Bank Transfer,2207.24,Paid
+2318,Credit Card,250.66,Paid
+2319,UPI,730.14,Refunded
+2320,Apple Pay,582.57,Paid
+2321,Credit Card,66.72,Paid
+2322,Debit Card,83.58,Paid
+2323,Credit Card,138.12,Paid
+2324,Apple Pay,238.29,Paid
+2325,Bank Transfer,1312.43,Refunded
+2326,Apple Pay,336.21,Refunded
+2327,Debit Card,541.64,Paid
+2328,UPI,211.27,Paid
+2329,UPI,1706.74,Refunded
+2330,Credit Card,191.02,Paid
+2331,Debit Card,939.74,Paid
+2332,Bank Transfer,82.05,Paid
+2333,PayPal,718.42,Paid
+2334,PayPal,68.24,Paid
+2335,Credit Card,63.77,Refunded
+2336,Bank Transfer,967.0,Paid
+2337,Debit Card,3500.26,Paid
+2338,Apple Pay,25.75,Paid
+2339,Credit Card,1010.53,Refunded
+2340,Bank Transfer,431.02,Paid
+2341,PayPal,657.78,Paid
+2342,PayPal,891.93,Paid
+2343,Credit Card,351.04,Refunded
+2344,Apple Pay,840.96,Paid
+2345,PayPal,173.87,Paid
+2346,PayPal,87.78,Paid
+2347,Debit Card,23.8,Paid
+2348,Apple Pay,2502.9,Paid
+2349,PayPal,22.83,Paid
+2350,Credit Card,105.83,Paid
+2351,UPI,81.95,Paid
+2352,Debit Card,611.16,Refunded
+2353,PayPal,480.84,Paid
+2354,UPI,474.94,Paid
+2355,Debit Card,467.69,Paid
+2356,Debit Card,49.3,Paid
+2357,Debit Card,681.19,Paid
+2358,PayPal,583.04,Paid
+2359,UPI,440.68,Paid
+2360,PayPal,381.07,Refunded
+2361,Debit Card,33.14,Paid
+2362,UPI,31.47,Paid
+2363,PayPal,23.65,Paid
+2364,Credit Card,337.6,Paid
+2365,PayPal,260.54,Paid
+2366,Credit Card,367.52,Paid
+2367,UPI,557.51,Paid
+2368,PayPal,1121.38,Paid
+2369,Apple Pay,265.74,Paid
+2370,Bank Transfer,34.44,Paid
+2371,Debit Card,3365.36,Refunded
+2372,Apple Pay,218.46,Paid
+2373,Debit Card,877.1,Paid
+2374,Debit Card,131.15,Paid
+2375,Bank Transfer,478.76,Refunded
+2376,Debit Card,336.39,Paid
+2377,Debit Card,136.7,Paid
+2378,Apple Pay,1383.72,Refunded
+2379,UPI,58.78,Paid
+2380,Bank Transfer,630.0,Paid
+2381,Debit Card,3898.47,Paid
+2382,UPI,422.46,Paid
+2383,UPI,80.67,Paid
+2384,Credit Card,937.78,Refunded
+2385,Debit Card,1300.08,Refunded
+2386,PayPal,54.16,Paid
+2387,UPI,114.34,Paid
+2388,Apple Pay,336.08,Paid
+2389,Bank Transfer,231.6,Refunded
+2390,Debit Card,238.43,Paid
+2391,Debit Card,173.67,Paid
+2392,Apple Pay,83.56,Refunded
+2393,PayPal,341.89,Refunded
+2394,Credit Card,1499.52,Paid
+2395,PayPal,485.24,Refunded
+2396,Bank Transfer,142.39,Paid
+2397,Credit Card,44.36,Paid
+2398,PayPal,123.56,Refunded
+2399,Credit Card,292.02,Paid
+2400,UPI,261.28,Paid
+2401,Debit Card,241.02,Paid
+2402,UPI,605.29,Paid
+2403,UPI,345.22,Paid
+2404,Bank Transfer,34.17,Paid
+2405,PayPal,175.86,Paid
+2406,PayPal,74.1,Refunded
+2407,Credit Card,1083.74,Paid
+2408,UPI,1117.59,Refunded
+2409,PayPal,414.36,Refunded
+2410,Apple Pay,396.66,Refunded
+2411,Credit Card,170.2,Paid
+2412,PayPal,229.22,Paid
+2413,Apple Pay,113.68,Paid
+2414,Debit Card,116.82,Paid
+2415,Credit Card,128.27,Paid
+2416,PayPal,112.51,Paid
+2417,UPI,1736.75,Paid
+2418,Apple Pay,90.91,Refunded
+2419,UPI,276.59,Paid
+2420,Apple Pay,435.01,Paid
+2421,Debit Card,1915.28,Refunded
+2422,Bank Transfer,43.96,Refunded
+2423,UPI,817.7,Paid
+2424,Credit Card,62.01,Paid
+2425,Credit Card,935.8,Refunded
+2426,Apple Pay,39.01,Paid
+2427,Bank Transfer,278.28,Paid
+2428,Bank Transfer,883.76,Refunded
+2429,Debit Card,1161.39,Paid
+2430,UPI,599.28,Paid
+2431,Debit Card,795.35,Paid
+2432,UPI,80.45,Paid
+2433,Credit Card,336.66,Paid
+2434,Apple Pay,630.15,Paid
+2435,PayPal,712.72,Paid
+2436,Debit Card,62.03,Paid
+2437,Apple Pay,65.59,Paid
+2438,Debit Card,1301.66,Paid
+2439,Debit Card,216.82,Paid
+2440,PayPal,29.97,Paid
+2441,Bank Transfer,651.44,Paid
+2442,Bank Transfer,129.53,Paid
+2443,Debit Card,516.04,Paid
+2444,Debit Card,1354.06,Paid
+2445,UPI,430.04,Paid
+2446,Debit Card,371.46,Paid
+2447,Credit Card,901.11,Paid
+2448,Bank Transfer,575.46,Paid
+2449,Bank Transfer,3117.76,Paid
+2450,Credit Card,269.12,Refunded
+2451,Credit Card,701.91,Paid
+2452,PayPal,117.44,Refunded
+2453,Debit Card,115.26,Refunded
+2454,Debit Card,119.59,Refunded
+2455,Credit Card,24.85,Paid
+2456,Bank Transfer,397.54,Paid
+2457,UPI,567.05,Paid
+2458,Apple Pay,54.85,Paid
+2459,Debit Card,516.57,Refunded
+2460,Credit Card,342.8,Refunded
+2461,PayPal,819.93,Refunded
+2462,Credit Card,39.29,Paid
+2463,PayPal,145.97,Paid
+2464,Bank Transfer,120.32,Paid
+2465,Bank Transfer,231.12,Paid
+2466,UPI,55.27,Paid
+2467,UPI,962.92,Paid
+2468,Debit Card,105.13,Paid
+2469,Apple Pay,630.15,Refunded
+2470,Credit Card,196.56,Refunded
+2471,PayPal,270.85,Paid
+2472,Credit Card,257.44,Paid
+2473,PayPal,1419.42,Paid
+2474,Debit Card,255.02,Paid
+2475,Apple Pay,189.64,Paid
+2476,UPI,42.65,Paid
+2477,Credit Card,628.69,Paid
+2478,PayPal,1341.89,Paid
+2479,Debit Card,863.63,Paid
+2480,Apple Pay,42.53,Paid
+2481,UPI,268.44,Paid
+2482,Credit Card,31.06,Paid
+2483,Debit Card,287.5,Paid
+2484,UPI,358.04,Paid
+2485,Debit Card,917.04,Paid
+2486,Bank Transfer,62.17,Refunded
+2487,Bank Transfer,531.3,Paid
+2488,PayPal,661.53,Refunded
+2489,Credit Card,118.21,Paid
+2490,Credit Card,1545.4,Paid
+2491,Bank Transfer,299.45,Paid
+2492,Bank Transfer,139.0,Paid
+2493,Credit Card,605.71,Paid
+2494,UPI,312.93,Refunded
+2495,Apple Pay,208.6,Refunded
+2496,UPI,120.17,Paid
+2497,PayPal,271.61,Paid
+2498,PayPal,268.67,Paid
+2499,Bank Transfer,29.58,Refunded
+2500,UPI,1096.31,Refunded
+2501,Credit Card,25.22,Paid
+2502,Debit Card,1291.82,Paid
+2503,Credit Card,3660.87,Refunded
+2504,Bank Transfer,159.28,Refunded
+2505,UPI,575.69,Refunded
+2506,Credit Card,347.25,Refunded
+2507,PayPal,1226.8,Paid
+2508,PayPal,1613.68,Paid
+2509,Bank Transfer,191.99,Paid
+2510,UPI,446.6,Paid
+2511,Debit Card,107.19,Paid
+2512,PayPal,102.67,Refunded
+2513,Debit Card,2807.5,Paid
+2514,PayPal,218.7,Refunded
+2515,Bank Transfer,49.82,Paid
+2516,Bank Transfer,315.9,Paid
+2517,Bank Transfer,25.97,Paid
+2518,Debit Card,284.43,Paid
+2519,Debit Card,216.59,Paid
+2520,UPI,140.01,Refunded
+2521,Debit Card,579.92,Paid
+2522,PayPal,1348.17,Paid
+2523,Debit Card,810.17,Refunded
+2524,Apple Pay,67.63,Refunded
+2525,Apple Pay,24.71,Refunded
+2526,Bank Transfer,307.51,Paid
+2527,Bank Transfer,25.29,Paid
+2528,Debit Card,966.9,Paid
+2529,Apple Pay,482.22,Paid
+2530,Bank Transfer,344.96,Paid
+2531,Bank Transfer,1376.3,Paid
+2532,PayPal,957.36,Refunded
+2533,Apple Pay,202.97,Paid
+2534,Bank Transfer,385.47,Refunded
+2535,Debit Card,625.84,Paid
+2536,Credit Card,459.41,Paid
+2537,Apple Pay,492.06,Refunded
+2538,Debit Card,942.44,Paid
+2539,Credit Card,37.15,Paid
+2540,PayPal,597.2,Refunded
+2541,Credit Card,234.94,Paid
+2542,Bank Transfer,44.01,Paid
+2543,Bank Transfer,145.21,Paid
+2544,Bank Transfer,392.27,Refunded
+2545,Bank Transfer,89.35,Paid
+2546,Debit Card,188.43,Paid
+2547,Debit Card,404.88,Paid
+2548,Bank Transfer,1920.34,Refunded
+2549,Debit Card,581.68,Paid
+2550,Debit Card,403.22,Paid
+2551,PayPal,539.94,Paid
+2552,Bank Transfer,584.65,Refunded
+2553,PayPal,164.76,Refunded
+2554,Credit Card,43.47,Paid
+2555,Credit Card,100.83,Refunded
+2556,Apple Pay,1026.55,Paid
+2557,Credit Card,1101.72,Paid
+2558,Debit Card,25.57,Paid
+2559,Apple Pay,253.22,Paid
+2560,Apple Pay,150.33,Paid
+2561,UPI,328.1,Refunded
+2562,UPI,699.18,Paid
+2563,Bank Transfer,259.02,Paid
+2564,Apple Pay,163.35,Paid
+2565,Credit Card,208.27,Paid
+2566,Bank Transfer,145.67,Paid
+2567,UPI,47.98,Paid
+2568,Bank Transfer,40.8,Refunded
+2569,Debit Card,1132.05,Paid
+2570,PayPal,836.24,Paid
+2571,Apple Pay,1504.86,Paid
+2572,Bank Transfer,1068.21,Paid
+2573,PayPal,391.24,Paid
+2574,PayPal,432.52,Paid
+2575,Debit Card,4744.67,Paid
+2576,Credit Card,2911.44,Paid
+2577,PayPal,917.16,Refunded
+2578,Credit Card,171.91,Refunded
+2579,Apple Pay,29.37,Paid
+2580,Apple Pay,418.76,Paid
+2581,UPI,31.8,Paid
+2582,UPI,48.09,Refunded
+2583,UPI,81.99,Paid
+2584,Debit Card,1303.32,Paid
+2585,Credit Card,974.31,Paid
+2586,UPI,45.96,Refunded
+2587,PayPal,360.04,Refunded
+2588,UPI,461.08,Paid
+2589,Apple Pay,352.43,Paid
+2590,UPI,533.74,Paid
+2591,Debit Card,108.45,Paid
+2592,Credit Card,47.78,Paid
+2593,Debit Card,308.64,Paid
+2594,PayPal,698.01,Refunded
+2595,PayPal,70.05,Paid
+2596,Apple Pay,1357.16,Paid
+2597,UPI,674.67,Paid
+2598,UPI,245.99,Paid
+2599,PayPal,261.27,Paid
+2600,UPI,46.51,Paid
+2601,PayPal,254.82,Paid
+2602,Apple Pay,847.01,Paid
+2603,UPI,466.95,Paid
+2604,Apple Pay,144.42,Paid
+2605,Bank Transfer,118.21,Paid
+2606,UPI,535.51,Paid
+2607,Bank Transfer,3443.67,Paid
+2608,UPI,1520.07,Paid
+2609,Bank Transfer,1531.08,Paid
+2610,Bank Transfer,2031.18,Paid
+2611,Bank Transfer,208.25,Refunded
+2612,Debit Card,537.44,Paid
+2613,Debit Card,108.11,Refunded
+2614,UPI,270.08,Paid
+2615,UPI,123.83,Paid
+2616,PayPal,220.79,Refunded
+2617,PayPal,61.68,Refunded
+2618,Credit Card,106.64,Paid
+2619,Bank Transfer,1352.85,Paid
+2620,Bank Transfer,418.92,Refunded
+2621,Credit Card,1232.58,Paid
+2622,PayPal,1369.92,Paid
+2623,Credit Card,761.32,Paid
+2624,Debit Card,1908.68,Paid
+2625,Credit Card,564.73,Paid
+2626,Debit Card,1145.4,Refunded
+2627,Apple Pay,124.01,Paid
+2628,PayPal,175.67,Refunded
+2629,PayPal,154.27,Paid
+2630,Apple Pay,783.74,Refunded
+2631,Credit Card,360.12,Paid
+2632,Credit Card,79.07,Refunded
+2633,UPI,126.14,Paid
+2634,Credit Card,302.77,Paid
+2635,Credit Card,51.57,Refunded
+2636,Apple Pay,154.97,Paid
+2637,UPI,238.5,Refunded
+2638,Credit Card,259.61,Paid
+2639,Bank Transfer,306.99,Paid
+2640,PayPal,265.59,Paid
+2641,Apple Pay,75.31,Refunded
+2642,Bank Transfer,993.84,Paid
+2643,PayPal,40.98,Paid
+2644,Apple Pay,154.34,Paid
+2645,PayPal,137.08,Paid
+2646,Apple Pay,290.62,Paid
+2647,Apple Pay,275.96,Refunded
+2648,Apple Pay,80.75,Paid
+2649,Debit Card,1226.63,Paid
+2650,Debit Card,510.4,Paid
+2651,Apple Pay,375.55,Paid
+2652,PayPal,1625.48,Paid
+2653,Credit Card,275.07,Paid
+2654,UPI,150.39,Paid
+2655,Bank Transfer,1171.41,Paid
+2656,UPI,86.08,Refunded
+2657,Debit Card,122.89,Paid
+2658,Debit Card,254.62,Refunded
+2659,Bank Transfer,41.36,Refunded
+2660,Credit Card,25.81,Paid
+2661,PayPal,705.83,Paid
+2662,Credit Card,29.71,Refunded
+2663,Debit Card,364.38,Paid
+2664,UPI,603.64,Paid
+2665,Bank Transfer,31.49,Refunded
+2666,Credit Card,2754.72,Paid
+2667,Apple Pay,53.45,Refunded
+2668,PayPal,42.74,Paid
+2669,Debit Card,852.69,Paid
+2670,PayPal,887.56,Paid
+2671,Apple Pay,436.27,Refunded
+2672,Bank Transfer,925.2,Paid
+2673,Bank Transfer,777.81,Paid
+2674,Debit Card,87.18,Paid
+2675,UPI,483.98,Paid
+2676,UPI,1196.68,Paid
+2677,Apple Pay,842.43,Paid
+2678,PayPal,48.77,Paid
+2679,Bank Transfer,520.22,Paid
+2680,Credit Card,1470.04,Paid
+2681,Credit Card,99.5,Refunded
+2682,Credit Card,1339.85,Paid
+2683,UPI,539.04,Paid
+2684,Apple Pay,368.45,Refunded
+2685,Credit Card,155.18,Paid
+2686,Debit Card,118.57,Paid
+2687,PayPal,3100.44,Refunded
+2688,UPI,158.46,Paid
+2689,Credit Card,47.62,Paid
+2690,Apple Pay,731.07,Paid
+2691,Bank Transfer,637.78,Paid
+2692,PayPal,527.28,Paid
+2693,PayPal,97.68,Refunded
+2694,Bank Transfer,1744.11,Refunded
+2695,Credit Card,680.72,Paid
+2696,Apple Pay,49.37,Paid
+2697,PayPal,1378.24,Paid
+2698,Bank Transfer,1592.7,Paid
+2699,Apple Pay,1078.52,Refunded
+2700,Credit Card,685.72,Paid
+2701,Apple Pay,716.11,Paid
+2702,Debit Card,32.57,Paid
+2703,Debit Card,90.35,Refunded
+2704,Credit Card,561.84,Paid
+2705,Credit Card,682.4,Refunded
+2706,Debit Card,26.85,Paid
+2707,Bank Transfer,173.78,Paid
+2708,PayPal,326.41,Paid
+2709,Apple Pay,292.95,Refunded
+2710,UPI,498.1,Paid
+2711,UPI,45.8,Paid
+2712,Debit Card,561.18,Paid
+2713,UPI,1407.33,Paid
+2714,Apple Pay,93.57,Paid
+2715,UPI,194.51,Paid
+2716,Credit Card,32.99,Paid
+2717,Apple Pay,552.2,Paid
+2718,PayPal,1347.42,Refunded
+2719,Credit Card,14.72,Refunded
+2720,Credit Card,205.61,Refunded
+2721,UPI,865.27,Paid
+2722,Credit Card,157.33,Paid
+2723,PayPal,163.03,Refunded
+2724,PayPal,1176.14,Paid
+2725,UPI,278.97,Refunded
+2726,PayPal,482.43,Paid
+2727,Credit Card,356.92,Refunded
+2728,Bank Transfer,119.16,Paid
+2729,Debit Card,29.63,Paid
+2730,UPI,37.19,Refunded
+2731,Apple Pay,433.36,Paid
+2732,Debit Card,31.75,Paid
+2733,Credit Card,188.93,Refunded
+2734,Bank Transfer,368.98,Paid
+2735,PayPal,2994.62,Paid
+2736,Bank Transfer,392.76,Paid
+2737,Bank Transfer,127.76,Paid
+2738,Credit Card,3973.96,Refunded
+2739,Credit Card,140.11,Paid
+2740,PayPal,463.36,Paid
+2741,Credit Card,62.24,Paid
+2742,Debit Card,134.95,Paid
+2743,PayPal,88.61,Paid
+2744,UPI,1011.85,Refunded
+2745,UPI,1115.98,Paid
+2746,Debit Card,407.34,Refunded
+2747,Debit Card,245.05,Paid
+2748,PayPal,228.11,Paid
+2749,Credit Card,785.65,Paid
+2750,PayPal,123.8,Paid
+2751,Bank Transfer,279.2,Paid
+2752,Bank Transfer,38.43,Paid
+2753,Bank Transfer,544.78,Paid
+2754,Debit Card,835.25,Paid
+2755,Apple Pay,198.36,Paid
+2756,Credit Card,442.29,Refunded
+2757,Apple Pay,450.5,Refunded
+2758,Debit Card,65.85,Paid
+2759,Bank Transfer,120.75,Refunded
+2760,Bank Transfer,729.97,Paid
+2761,Debit Card,24.53,Refunded
+2762,UPI,155.79,Paid
+2763,PayPal,232.09,Refunded
+2764,Bank Transfer,1066.0,Paid
+2765,Bank Transfer,139.05,Paid
+2766,Debit Card,187.07,Paid
+2767,UPI,1422.19,Paid
+2768,Bank Transfer,56.65,Paid
+2769,PayPal,445.85,Paid
+2770,Apple Pay,213.08,Refunded
+2771,Bank Transfer,119.97,Refunded
+2772,Bank Transfer,578.44,Paid
+2773,Credit Card,169.75,Paid
+2774,PayPal,768.01,Paid
+2775,Credit Card,20.83,Refunded
+2776,Apple Pay,92.57,Refunded
+2777,Apple Pay,2484.15,Paid
+2778,Bank Transfer,317.66,Paid
+2779,Debit Card,444.58,Refunded
+2780,PayPal,517.72,Paid
+2781,Apple Pay,250.11,Paid
+2782,UPI,58.75,Paid
+2783,Apple Pay,347.03,Refunded
+2784,Debit Card,355.21,Paid
+2785,PayPal,920.55,Paid
+2786,Debit Card,283.04,Refunded
+2787,UPI,312.3,Paid
+2788,Debit Card,646.98,Paid
+2789,PayPal,1632.42,Paid
+2790,UPI,46.43,Refunded
+2791,Credit Card,82.33,Paid
+2792,Bank Transfer,79.89,Paid
+2793,Apple Pay,446.64,Paid
+2794,UPI,251.82,Paid
+2795,Bank Transfer,124.71,Paid
+2796,Apple Pay,63.65,Paid
+2797,UPI,53.75,Paid
+2798,UPI,751.82,Paid
+2799,Apple Pay,263.85,Refunded
+2800,Bank Transfer,1132.88,Paid
+2801,UPI,554.25,Paid
+2802,PayPal,431.29,Refunded
+2803,Apple Pay,164.0,Paid
+2804,Bank Transfer,479.77,Paid
+2805,Credit Card,385.96,Paid
+2806,Credit Card,164.77,Paid
+2807,Credit Card,361.26,Refunded
+2808,PayPal,25.96,Refunded
+2809,UPI,1132.46,Paid
+2810,UPI,876.52,Paid
+2811,Debit Card,94.43,Refunded
+2812,Credit Card,846.78,Refunded
+2813,UPI,348.92,Paid
+2814,Credit Card,1433.72,Paid
+2815,Apple Pay,621.68,Paid
+2816,Debit Card,96.57,Refunded
+2817,Debit Card,251.55,Paid
+2818,UPI,2430.64,Paid
+2819,PayPal,380.82,Paid
+2820,Credit Card,963.76,Paid
+2821,Debit Card,160.28,Refunded
+2822,Debit Card,377.38,Paid
+2823,UPI,159.79,Refunded
+2824,Apple Pay,72.94,Paid
+2825,Bank Transfer,2137.83,Refunded
+2826,UPI,54.35,Paid
+2827,UPI,109.43,Paid
+2828,Credit Card,225.05,Refunded
+2829,Apple Pay,1604.82,Paid
+2830,Apple Pay,121.28,Paid
+2831,Apple Pay,1303.77,Paid
+2832,Apple Pay,238.49,Paid
+2833,PayPal,151.13,Paid
+2834,Debit Card,1992.27,Paid
+2835,Bank Transfer,345.01,Refunded
+2836,Credit Card,434.2,Paid
+2837,Bank Transfer,900.41,Paid
+2838,UPI,1861.21,Refunded
+2839,Debit Card,605.04,Paid
+2840,PayPal,1383.02,Paid
+2841,PayPal,26.15,Paid
+2842,UPI,127.18,Paid
+2843,PayPal,270.61,Paid
+2844,PayPal,152.37,Paid
+2845,Credit Card,117.89,Refunded
+2846,PayPal,250.21,Paid
+2847,Debit Card,74.87,Paid
+2848,Apple Pay,211.51,Paid
+2849,PayPal,410.94,Paid
+2850,Apple Pay,740.62,Refunded
+2851,PayPal,1162.16,Paid
+2852,Debit Card,80.77,Paid
+2853,Bank Transfer,719.6,Paid
+2854,PayPal,102.02,Refunded
+2855,PayPal,38.35,Refunded
+2856,Debit Card,655.04,Paid
+2857,Credit Card,593.38,Paid
+2858,PayPal,1152.46,Paid
+2859,PayPal,166.25,Paid
+2860,UPI,35.33,Paid
+2861,PayPal,151.7,Paid
+2862,PayPal,280.79,Paid
+2863,UPI,414.52,Paid
+2864,PayPal,392.95,Paid
+2865,PayPal,34.69,Refunded
+2866,Debit Card,310.87,Paid
+2867,Apple Pay,60.99,Paid
+2868,Bank Transfer,365.72,Refunded
+2869,Debit Card,184.11,Paid
+2870,Credit Card,148.46,Refunded
+2871,Apple Pay,136.41,Paid
+2872,Bank Transfer,534.65,Refunded
+2873,Apple Pay,215.96,Paid
+2874,UPI,2057.1,Paid
+2875,Credit Card,687.61,Refunded
+2876,Credit Card,166.49,Paid
+2877,Apple Pay,444.63,Paid
+2878,Credit Card,67.5,Paid
+2879,UPI,1690.56,Paid
+2880,Apple Pay,18.01,Paid
+2881,PayPal,256.25,Refunded
+2882,Debit Card,133.39,Paid
+2883,UPI,819.81,Paid
+2884,UPI,1090.57,Paid
+2885,UPI,1440.56,Paid
+2886,PayPal,150.47,Paid
+2887,Apple Pay,296.05,Paid
+2888,Debit Card,202.82,Paid
+2889,PayPal,1340.99,Paid
+2890,Credit Card,1570.11,Paid
+2891,Apple Pay,808.52,Paid
+2892,Apple Pay,49.05,Paid
+2893,Credit Card,2221.11,Paid
+2894,Apple Pay,173.76,Paid
+2895,PayPal,66.01,Paid
+2896,Debit Card,646.68,Paid
+2897,Bank Transfer,122.03,Refunded
+2898,Debit Card,201.13,Paid
+2899,Credit Card,70.36,Paid
+2900,Apple Pay,88.13,Paid
+2901,Bank Transfer,509.29,Refunded
+2902,PayPal,57.76,Paid
+2903,Credit Card,870.21,Refunded
+2904,Credit Card,200.67,Paid
+2905,PayPal,787.14,Paid
+2906,Bank Transfer,504.77,Paid
+2907,Bank Transfer,981.07,Paid
+2908,UPI,316.28,Refunded
+2909,UPI,1328.11,Paid
+2910,Credit Card,2420.16,Refunded
+2911,Credit Card,172.91,Paid
+2912,Debit Card,555.53,Paid
+2913,Debit Card,654.5,Paid
+2914,Apple Pay,75.97,Paid
+2915,PayPal,104.5,Paid
+2916,UPI,55.39,Paid
+2917,Bank Transfer,444.52,Refunded
+2918,Credit Card,998.68,Paid
+2919,PayPal,104.16,Refunded
+2920,PayPal,253.01,Paid
+2921,Credit Card,1997.43,Paid
+2922,PayPal,1357.32,Paid
+2923,Bank Transfer,551.61,Paid
+2924,PayPal,89.85,Refunded
+2925,Bank Transfer,363.32,Paid
+2926,PayPal,610.83,Paid
+2927,Apple Pay,288.44,Refunded
+2928,Apple Pay,139.49,Paid
+2929,PayPal,46.89,Refunded
+2930,Bank Transfer,1469.85,Refunded
+2931,Bank Transfer,850.71,Paid
+2932,Debit Card,1231.91,Paid
+2933,Apple Pay,799.82,Paid
+2934,PayPal,1810.38,Refunded
+2935,Credit Card,178.92,Paid
+2936,PayPal,244.69,Paid
+2937,PayPal,490.74,Paid
+2938,Apple Pay,79.93,Refunded
+2939,Apple Pay,1098.18,Paid
+2940,Apple Pay,1066.15,Paid
+2941,PayPal,458.28,Paid
+2942,Apple Pay,117.25,Paid
+2943,Debit Card,402.33,Paid
+2944,Credit Card,971.4,Refunded
+2945,Bank Transfer,286.32,Paid
+2946,Apple Pay,738.53,Paid
+2947,Debit Card,279.32,Paid
+2948,Credit Card,281.4,Paid
+2949,PayPal,691.06,Paid
+2950,Bank Transfer,1060.26,Paid
+2951,Apple Pay,28.01,Paid
+2952,Debit Card,24.39,Refunded
+2953,UPI,384.24,Paid
+2954,Credit Card,495.05,Paid
+2955,UPI,529.71,Paid
+2956,Bank Transfer,77.57,Refunded
+2957,Credit Card,372.29,Paid
+2958,PayPal,678.02,Refunded
+2959,PayPal,829.36,Paid
+2960,Debit Card,170.79,Paid
+2961,Apple Pay,230.54,Paid
+2962,Bank Transfer,357.45,Refunded
+2963,UPI,200.24,Paid
+2964,Debit Card,467.3,Paid
+2965,Apple Pay,1131.9,Paid
+2966,UPI,340.41,Paid
+2967,PayPal,580.34,Paid
+2968,Bank Transfer,126.13,Paid
+2969,Apple Pay,157.59,Paid
+2970,Bank Transfer,613.01,Paid
+2971,Credit Card,1659.67,Paid
+2972,PayPal,315.94,Paid
+2973,Apple Pay,70.49,Refunded
+2974,Credit Card,3374.04,Refunded
+2975,PayPal,38.85,Paid
+2976,UPI,303.44,Paid
+2977,Credit Card,581.72,Paid
+2978,Apple Pay,608.95,Paid
+2979,PayPal,2212.23,Paid
+2980,Bank Transfer,179.97,Paid
+2981,Apple Pay,168.77,Paid
+2982,Debit Card,208.33,Paid
+2983,Bank Transfer,205.14,Paid
+2984,Bank Transfer,796.45,Paid
+2985,Bank Transfer,376.84,Refunded
+2986,Credit Card,1871.26,Refunded
+2987,PayPal,244.26,Paid
+2988,Apple Pay,47.82,Paid
+2989,Bank Transfer,160.4,Paid
+2990,PayPal,394.01,Refunded
+2991,PayPal,113.64,Paid
+2992,Apple Pay,481.6,Paid
+2993,PayPal,135.35,Paid
+2994,Credit Card,302.68,Paid
+2995,PayPal,191.41,Paid
+2996,Credit Card,410.42,Paid
+2997,UPI,53.91,Paid
+2998,PayPal,442.8,Refunded
+2999,Debit Card,201.78,Refunded
+3000,UPI,735.91,Paid
+3001,UPI,173.99,Paid
+3002,Credit Card,637.14,Paid
+3003,PayPal,13.8,Paid
+3004,Bank Transfer,367.65,Paid
+3005,UPI,6996.42,Paid
+3006,Apple Pay,313.66,Paid
+3007,Credit Card,370.54,Refunded
+3008,PayPal,127.31,Paid
+3009,Apple Pay,2190.27,Refunded
+3010,Debit Card,1522.42,Refunded
+3011,UPI,195.77,Paid
+3012,UPI,1469.19,Refunded
+3013,Apple Pay,174.45,Paid
+3014,Credit Card,485.6,Paid
+3015,PayPal,55.15,Paid
+3016,Bank Transfer,619.77,Paid
+3017,Apple Pay,251.79,Paid
+3018,UPI,484.92,Refunded
+3019,Credit Card,226.26,Refunded
+3020,Debit Card,1466.61,Paid
+3021,Bank Transfer,190.52,Paid
+3022,PayPal,1627.9,Paid
+3023,PayPal,1348.3,Paid
+3024,Apple Pay,589.47,Paid
+3025,Debit Card,546.06,Paid
+3026,Bank Transfer,208.44,Paid
+3027,UPI,239.96,Paid
+3028,PayPal,2374.88,Paid
+3029,Credit Card,1537.04,Paid
+3030,PayPal,78.39,Refunded
+3031,PayPal,370.71,Refunded
+3032,Credit Card,201.38,Refunded
+3033,Debit Card,769.41,Refunded
+3034,PayPal,402.78,Paid
+3035,Credit Card,1220.82,Paid
+3036,PayPal,145.35,Paid
+3037,Apple Pay,39.78,Refunded
+3038,Credit Card,87.31,Paid
+3039,UPI,790.97,Refunded
+3040,UPI,293.8,Paid
+3041,Credit Card,178.15,Paid
+3042,UPI,2110.1,Paid
+3043,Apple Pay,555.12,Paid
+3044,Debit Card,813.78,Paid
+3045,Credit Card,774.9,Paid
+3046,UPI,95.35,Paid
+3047,UPI,549.07,Refunded
+3048,Credit Card,92.23,Refunded
+3049,Credit Card,1628.47,Refunded
+3050,UPI,295.76,Paid
+3051,Credit Card,492.99,Paid
+3052,Debit Card,526.89,Refunded
+3053,Bank Transfer,270.25,Paid
+3054,UPI,125.49,Paid
+3055,PayPal,169.51,Paid
+3056,Bank Transfer,1330.43,Paid
+3057,PayPal,228.57,Paid
+3058,PayPal,628.54,Paid
+3059,Credit Card,224.88,Paid
+3060,Apple Pay,160.14,Paid
+3061,Credit Card,534.63,Refunded
+3062,Bank Transfer,45.72,Paid
+3063,Debit Card,285.42,Paid
+3064,Credit Card,164.51,Paid
+3065,Bank Transfer,1347.92,Paid
+3066,UPI,149.92,Paid
+3067,Apple Pay,2317.83,Paid
+3068,Debit Card,790.1,Paid
+3069,Apple Pay,220.54,Refunded
+3070,PayPal,137.63,Paid
+3071,Apple Pay,353.96,Paid
+3072,UPI,782.31,Paid
+3073,Credit Card,277.65,Refunded
+3074,UPI,212.25,Paid
+3075,Apple Pay,314.38,Paid
+3076,Credit Card,729.14,Paid
+3077,Credit Card,402.14,Refunded
+3078,Credit Card,253.99,Paid
+3079,Credit Card,159.7,Paid
+3080,Bank Transfer,790.3,Refunded
+3081,PayPal,827.27,Refunded
+3082,Debit Card,457.84,Refunded
+3083,PayPal,360.99,Paid
+3084,Apple Pay,553.29,Refunded
+3085,Credit Card,132.33,Paid
+3086,UPI,139.26,Paid
+3087,UPI,4010.26,Refunded
+3088,Credit Card,792.79,Paid
+3089,UPI,127.37,Refunded
+3090,UPI,104.19,Paid
+3091,Bank Transfer,1492.09,Refunded
+3092,Credit Card,34.4,Paid
+3093,Debit Card,998.24,Paid
+3094,Debit Card,551.18,Refunded
+3095,PayPal,26.64,Paid
+3096,Credit Card,141.74,Paid
+3097,Apple Pay,43.7,Refunded
+3098,UPI,252.11,Paid
+3099,Credit Card,447.24,Paid
+3100,PayPal,1719.79,Paid
+3101,PayPal,124.24,Refunded
+3102,Debit Card,3510.3,Refunded
+3103,UPI,1190.42,Paid
+3104,Apple Pay,825.18,Paid
+3105,Bank Transfer,1293.8,Paid
+3106,UPI,204.47,Paid
+3107,Bank Transfer,487.08,Paid
+3108,Credit Card,135.63,Paid
+3109,Credit Card,400.28,Paid
+3110,UPI,199.36,Paid
+3111,Debit Card,265.37,Paid
+3112,UPI,324.41,Paid
+3113,Credit Card,114.95,Refunded
+3114,Debit Card,458.18,Paid
+3115,PayPal,46.58,Paid
+3116,Credit Card,97.62,Paid
+3117,Bank Transfer,883.51,Paid
+3118,PayPal,53.19,Paid
+3119,Debit Card,227.7,Paid
+3120,UPI,387.38,Paid
+3121,Debit Card,558.0,Paid
+3122,Apple Pay,20.02,Paid
+3123,UPI,215.22,Paid
+3124,Apple Pay,252.27,Paid
+3125,Debit Card,574.96,Refunded
+3126,Apple Pay,448.36,Paid
+3127,Credit Card,1186.93,Paid
+3128,Debit Card,479.59,Paid
+3129,UPI,1044.69,Paid
+3130,Debit Card,398.98,Paid
+3131,Apple Pay,325.89,Paid
+3132,UPI,50.75,Refunded
+3133,PayPal,166.47,Paid
+3134,Bank Transfer,154.39,Paid
+3135,UPI,1209.7,Refunded
+3136,Bank Transfer,527.32,Paid
+3137,Apple Pay,87.64,Paid
+3138,PayPal,36.51,Paid
+3139,PayPal,1429.09,Paid
+3140,Apple Pay,205.32,Refunded
+3141,Apple Pay,1065.86,Paid
+3142,Debit Card,793.61,Paid
+3143,Apple Pay,987.32,Refunded
+3144,Apple Pay,89.64,Paid
+3145,Credit Card,1136.86,Paid
+3146,Apple Pay,1679.1,Paid
+3147,PayPal,659.98,Paid
+3148,Bank Transfer,450.35,Refunded
+3149,PayPal,1714.48,Paid
+3150,PayPal,31.67,Paid
+3151,Debit Card,154.19,Paid
+3152,Credit Card,28.94,Refunded
+3153,Bank Transfer,113.81,Refunded
+3154,Apple Pay,375.18,Refunded
+3155,PayPal,153.74,Paid
+3156,UPI,520.98,Paid
+3157,UPI,1140.4,Refunded
+3158,PayPal,794.62,Paid
+3159,Debit Card,1268.48,Paid
+3160,Debit Card,2335.62,Paid
+3161,PayPal,253.18,Paid
+3162,Bank Transfer,69.2,Paid
+3163,Bank Transfer,137.53,Paid
+3164,Credit Card,313.77,Refunded
+3165,PayPal,198.89,Paid
+3166,Debit Card,727.6,Paid
+3167,Bank Transfer,649.08,Refunded
+3168,PayPal,273.41,Refunded
+3169,UPI,847.76,Paid
+3170,Bank Transfer,562.98,Paid
+3171,Credit Card,203.91,Refunded
+3172,Bank Transfer,833.32,Paid
+3173,Bank Transfer,1243.37,Paid
+3174,UPI,375.94,Paid
+3175,Apple Pay,97.62,Paid
+3176,Bank Transfer,110.98,Paid
+3177,Credit Card,360.78,Paid
+3178,Debit Card,46.25,Refunded
+3179,PayPal,255.71,Paid
+3180,UPI,259.17,Paid
+3181,Credit Card,421.2,Paid
+3182,PayPal,720.6,Refunded
+3183,PayPal,106.06,Paid
+3184,UPI,82.65,Paid
+3185,Debit Card,170.39,Refunded
+3186,Debit Card,741.3,Paid
+3187,UPI,1056.94,Paid
+3188,Apple Pay,632.24,Paid
+3189,UPI,546.89,Paid
+3190,Apple Pay,1992.24,Paid
+3191,Bank Transfer,72.77,Refunded
+3192,UPI,115.96,Refunded
+3193,Apple Pay,83.54,Refunded
+3194,Debit Card,189.07,Paid
+3195,Apple Pay,605.04,Refunded
+3196,Credit Card,251.16,Paid
+3197,Bank Transfer,415.12,Paid
+3198,UPI,40.13,Paid
+3199,PayPal,55.39,Paid
+3200,Apple Pay,173.6,Paid
+3201,Bank Transfer,211.99,Paid
+3202,UPI,501.97,Paid
+3203,Credit Card,881.7,Refunded
+3204,Apple Pay,462.27,Paid
+3205,UPI,282.71,Paid
+3206,Bank Transfer,96.5,Paid
+3207,PayPal,126.36,Paid
+3208,Debit Card,130.73,Paid
+3209,UPI,599.42,Refunded
+3210,Debit Card,2055.07,Paid
+3211,Debit Card,75.49,Paid
+3212,Credit Card,26.91,Refunded
+3213,PayPal,337.61,Paid
+3214,Bank Transfer,2233.97,Paid
+3215,Debit Card,640.9,Paid
+3216,Credit Card,760.83,Paid
+3217,Debit Card,1766.65,Paid
+3218,Apple Pay,521.85,Paid
+3219,Credit Card,15.62,Paid
+3220,Bank Transfer,167.22,Paid
+3221,Apple Pay,439.95,Paid
+3222,Apple Pay,41.73,Paid
+3223,Bank Transfer,1481.0,Refunded
+3224,Debit Card,778.75,Paid
+3225,Debit Card,314.14,Paid
+3226,PayPal,435.25,Paid
+3227,PayPal,1202.25,Paid
+3228,Apple Pay,144.89,Paid
+3229,Debit Card,431.26,Refunded
+3230,Debit Card,301.06,Paid
+3231,Credit Card,27.13,Paid
+3232,PayPal,254.13,Paid
+3233,UPI,813.79,Paid
+3234,Credit Card,1159.28,Refunded
+3235,Credit Card,153.17,Paid
+3236,UPI,822.95,Paid
+3237,Bank Transfer,2547.71,Paid
+3238,PayPal,681.73,Paid
+3239,Apple Pay,3624.73,Paid
+3240,Debit Card,1492.25,Paid
+3241,Bank Transfer,1466.56,Refunded
+3242,Credit Card,395.38,Refunded
+3243,UPI,135.83,Paid
+3244,Bank Transfer,2101.41,Paid
+3245,UPI,372.1,Paid
+3246,Debit Card,126.99,Paid
+3247,Apple Pay,218.41,Paid
+3248,Debit Card,1012.64,Paid
+3249,Bank Transfer,616.78,Refunded
+3250,Apple Pay,172.52,Paid
+3251,UPI,34.21,Paid
+3252,Bank Transfer,424.85,Refunded
+3253,Debit Card,102.75,Paid
+3254,PayPal,2857.13,Paid
+3255,Debit Card,111.06,Paid
+3256,Credit Card,156.71,Paid
+3257,UPI,329.4,Paid
+3258,Bank Transfer,109.96,Paid
+3259,UPI,34.64,Refunded
+3260,UPI,1250.46,Paid
+3261,Credit Card,48.69,Paid
+3262,Apple Pay,174.03,Refunded
+3263,UPI,272.78,Paid
+3264,Bank Transfer,237.93,Paid
+3265,Bank Transfer,176.51,Paid
+3266,Debit Card,227.01,Refunded
+3267,Bank Transfer,216.89,Refunded
+3268,Credit Card,130.95,Refunded
+3269,Bank Transfer,183.59,Paid
+3270,Debit Card,418.43,Paid
+3271,Debit Card,91.93,Refunded
+3272,Credit Card,336.8,Paid
+3273,Apple Pay,93.16,Paid
+3274,Credit Card,127.37,Paid
+3275,Credit Card,1548.89,Paid
+3276,Debit Card,1235.75,Paid
+3277,UPI,909.77,Paid
+3278,Apple Pay,52.33,Paid
+3279,Bank Transfer,260.6,Refunded
+3280,Debit Card,601.01,Paid
+3281,Bank Transfer,394.48,Refunded
+3282,Debit Card,443.52,Paid
+3283,Credit Card,323.78,Paid
+3284,PayPal,120.68,Paid
+3285,PayPal,33.23,Paid
+3286,Credit Card,264.13,Paid
+3287,Credit Card,102.79,Paid
+3288,UPI,117.83,Refunded
+3289,UPI,598.4,Paid
+3290,UPI,632.91,Paid
+3291,Apple Pay,175.74,Refunded
+3292,Credit Card,157.99,Refunded
+3293,PayPal,194.76,Paid
+3294,Apple Pay,1622.2,Paid
+3295,PayPal,160.02,Paid
+3296,Debit Card,985.61,Paid
+3297,Apple Pay,439.8,Paid
+3298,Apple Pay,44.96,Paid
+3299,PayPal,283.08,Refunded
+3300,Credit Card,540.2,Paid
+3301,Apple Pay,1155.16,Refunded
+3302,Bank Transfer,267.05,Paid
+3303,Bank Transfer,25.83,Refunded
+3304,UPI,481.92,Paid
+3305,Debit Card,1004.4,Paid
+3306,PayPal,578.52,Refunded
+3307,Bank Transfer,153.34,Paid
+3308,Debit Card,58.43,Paid
+3309,UPI,49.48,Paid
+3310,Credit Card,112.7,Paid
+3311,Credit Card,72.14,Paid
+3312,Bank Transfer,292.5,Refunded
+3313,Debit Card,791.12,Refunded
+3314,PayPal,375.3,Paid
+3315,UPI,101.61,Refunded
+3316,Debit Card,300.65,Paid
+3317,UPI,301.95,Paid
+3318,UPI,35.79,Paid
+3319,PayPal,1239.14,Paid
+3320,PayPal,426.66,Paid
+3321,PayPal,75.67,Paid
+3322,Debit Card,63.14,Paid
+3323,Apple Pay,84.87,Paid
+3324,UPI,1281.37,Paid
+3325,Bank Transfer,131.25,Refunded
+3326,Apple Pay,213.45,Paid
+3327,Bank Transfer,84.79,Refunded
+3328,Debit Card,131.08,Paid
+3329,Credit Card,178.49,Paid
+3330,Debit Card,402.06,Paid
+3331,Credit Card,1176.48,Refunded
+3332,Bank Transfer,740.81,Paid
+3333,Apple Pay,325.74,Paid
+3334,PayPal,891.68,Paid
+3335,PayPal,239.05,Paid
+3336,Bank Transfer,624.54,Paid
+3337,Bank Transfer,902.48,Paid
+3338,Debit Card,1898.67,Paid
+3339,PayPal,723.81,Paid
+3340,PayPal,251.61,Paid
+3341,PayPal,556.15,Paid
+3342,Bank Transfer,608.2,Paid
+3343,Credit Card,1440.71,Paid
+3344,Credit Card,192.68,Paid
+3345,Apple Pay,1045.05,Paid
+3346,Credit Card,874.57,Paid
+3347,PayPal,785.9,Paid
+3348,PayPal,3087.43,Paid
+3349,Credit Card,442.3,Paid
+3350,UPI,171.99,Paid
+3351,Apple Pay,421.92,Refunded
+3352,PayPal,67.33,Paid
+3353,UPI,41.01,Paid
+3354,Credit Card,155.01,Paid
+3355,Debit Card,610.27,Paid
+3356,UPI,395.1,Paid
+3357,Credit Card,101.8,Paid
+3358,Bank Transfer,94.51,Paid
+3359,PayPal,1110.2,Paid
+3360,UPI,293.82,Refunded
+3361,PayPal,117.09,Paid
+3362,UPI,187.35,Paid
+3363,Bank Transfer,346.44,Paid
+3364,Debit Card,614.85,Refunded
+3365,Debit Card,29.95,Paid
+3366,Bank Transfer,588.6,Refunded
+3367,PayPal,922.65,Paid
+3368,PayPal,442.22,Paid
+3369,Bank Transfer,1607.91,Paid
+3370,Apple Pay,182.85,Paid
+3371,Debit Card,258.94,Refunded
+3372,Debit Card,25.45,Paid
+3373,UPI,657.49,Refunded
+3374,PayPal,852.66,Paid
+3375,PayPal,213.64,Paid
+3376,PayPal,275.66,Refunded
+3377,Debit Card,702.51,Paid
+3378,Credit Card,150.11,Paid
+3379,Credit Card,52.35,Paid
+3380,Apple Pay,591.1,Paid
+3381,Apple Pay,255.81,Paid
+3382,Apple Pay,153.77,Paid
+3383,Bank Transfer,631.66,Paid
+3384,UPI,122.97,Paid
+3385,UPI,528.63,Paid
+3386,UPI,162.82,Paid
+3387,Apple Pay,128.5,Paid
+3388,Apple Pay,526.44,Paid
+3389,Debit Card,122.51,Paid
+3390,Credit Card,139.43,Refunded
+3391,PayPal,164.54,Refunded
+3392,Debit Card,479.42,Paid
+3393,Credit Card,45.81,Paid
+3394,Apple Pay,256.3,Paid
+3395,UPI,177.65,Refunded
+3396,Bank Transfer,35.37,Paid
+3397,UPI,2107.14,Paid
+3398,PayPal,69.43,Paid
+3399,Debit Card,68.09,Paid
+3400,PayPal,172.94,Paid
+3401,UPI,345.13,Paid
+3402,Bank Transfer,904.02,Paid
+3403,Credit Card,198.93,Paid
+3404,Bank Transfer,1253.78,Refunded
+3405,PayPal,1538.36,Paid
+3406,Bank Transfer,66.57,Paid
+3407,Debit Card,3927.37,Paid
+3408,Bank Transfer,274.67,Refunded
+3409,Debit Card,244.81,Paid
+3410,Apple Pay,2176.27,Refunded
+3411,Debit Card,133.07,Refunded
+3412,PayPal,664.01,Paid
+3413,Debit Card,580.68,Paid
+3414,Bank Transfer,105.12,Refunded
+3415,Bank Transfer,2380.12,Refunded
+3416,Apple Pay,378.19,Paid
+3417,PayPal,2362.45,Refunded
+3418,Credit Card,952.71,Paid
+3419,Credit Card,714.57,Paid
+3420,Debit Card,1561.67,Paid
+3421,Bank Transfer,253.89,Refunded
+3422,Debit Card,3703.25,Paid
+3423,PayPal,698.78,Paid
+3424,UPI,299.97,Refunded
+3425,Bank Transfer,108.55,Paid
+3426,UPI,56.91,Paid
+3427,Apple Pay,3258.85,Paid
+3428,Bank Transfer,15.57,Refunded
+3429,UPI,65.17,Paid
+3430,Bank Transfer,82.01,Refunded
+3431,Bank Transfer,89.89,Refunded
+3432,Credit Card,35.85,Paid
+3433,Debit Card,109.33,Paid
+3434,UPI,182.53,Paid
+3435,Apple Pay,261.56,Paid
+3436,Bank Transfer,868.4,Paid
+3437,PayPal,251.09,Paid
+3438,Apple Pay,222.27,Refunded
+3439,Credit Card,1982.61,Paid
+3440,Debit Card,261.91,Refunded
+3441,Debit Card,3312.13,Refunded
+3442,PayPal,890.64,Paid
+3443,Apple Pay,152.34,Paid
+3444,PayPal,401.18,Paid
+3445,UPI,566.59,Paid
+3446,Debit Card,76.26,Paid
+3447,Debit Card,319.01,Paid
+3448,Debit Card,79.66,Paid
+3449,UPI,77.84,Refunded
+3450,PayPal,163.84,Paid
+3451,Credit Card,653.68,Paid
+3452,Credit Card,895.45,Refunded
+3453,PayPal,80.19,Refunded
+3454,PayPal,211.19,Paid
+3455,Credit Card,79.84,Paid
+3456,Apple Pay,612.32,Paid
+3457,UPI,120.68,Paid
+3458,UPI,1019.45,Paid
+3459,Bank Transfer,25.37,Paid
+3460,PayPal,24.39,Paid
+3461,Bank Transfer,230.32,Paid
+3462,Debit Card,438.46,Paid
+3463,UPI,241.86,Paid
+3464,UPI,2329.89,Refunded
+3465,Bank Transfer,389.13,Refunded
+3466,Debit Card,37.95,Paid
+3467,Debit Card,691.99,Paid
+3468,Debit Card,82.52,Paid
+3469,Debit Card,253.26,Paid
+3470,Debit Card,80.18,Paid
+3471,Debit Card,181.78,Paid
+3472,UPI,213.21,Refunded
+3473,PayPal,497.52,Paid
+3474,Credit Card,612.27,Paid
+3475,Apple Pay,205.89,Paid
+3476,Debit Card,177.83,Refunded
+3477,Apple Pay,88.29,Paid
+3478,Debit Card,211.81,Paid
+3479,UPI,485.85,Paid
+3480,PayPal,107.94,Paid
+3481,Apple Pay,2191.23,Paid
+3482,UPI,1388.55,Paid
+3483,Bank Transfer,2962.6,Paid
+3484,Credit Card,138.93,Paid
+3485,UPI,289.59,Paid
+3486,Bank Transfer,57.2,Paid
+3487,UPI,116.44,Paid
+3488,Apple Pay,110.26,Refunded
+3489,Debit Card,188.96,Paid
+3490,Apple Pay,1309.68,Paid
+3491,UPI,887.4,Refunded
+3492,Apple Pay,521.01,Paid
+3493,Credit Card,124.85,Paid
+3494,Apple Pay,132.83,Paid
+3495,Apple Pay,197.51,Paid
+3496,Debit Card,1091.42,Paid
+3497,Credit Card,1022.65,Paid
+3498,Credit Card,119.99,Refunded
+3499,Apple Pay,629.92,Paid
+3500,PayPal,155.57,Paid
+3501,Apple Pay,710.81,Paid
+3502,Debit Card,366.07,Paid
+3503,PayPal,103.97,Paid
+3504,PayPal,182.73,Refunded
+3505,UPI,38.3,Paid
+3506,Bank Transfer,20.79,Paid
+3507,Debit Card,540.11,Paid
+3508,UPI,408.84,Paid
+3509,Credit Card,142.34,Paid
+3510,PayPal,399.21,Paid
+3511,Debit Card,81.38,Paid
+3512,Apple Pay,262.55,Paid
+3513,Debit Card,478.65,Paid
+3514,Bank Transfer,158.52,Paid
+3515,Bank Transfer,1192.64,Paid
+3516,UPI,1606.37,Paid
+3517,UPI,37.68,Refunded
+3518,PayPal,642.04,Refunded
+3519,Debit Card,275.14,Paid
+3520,Bank Transfer,845.78,Paid
+3521,Debit Card,206.55,Paid
+3522,Credit Card,235.43,Refunded
+3523,PayPal,452.83,Refunded
+3524,Credit Card,389.94,Refunded
+3525,Debit Card,2476.23,Paid
+3526,Apple Pay,24.34,Paid
+3527,Apple Pay,20.64,Paid
+3528,Apple Pay,314.38,Paid
+3529,PayPal,362.4,Refunded
+3530,PayPal,616.4,Paid
+3531,Bank Transfer,413.9,Paid
+3532,Bank Transfer,43.81,Paid
+3533,Bank Transfer,284.51,Paid
+3534,Credit Card,46.63,Paid
+3535,Credit Card,481.95,Refunded
+3536,UPI,359.87,Paid
+3537,Bank Transfer,380.03,Paid
+3538,Apple Pay,80.83,Paid
+3539,UPI,195.85,Paid
+3540,Bank Transfer,289.56,Paid
+3541,Bank Transfer,209.45,Paid
+3542,UPI,1119.66,Paid
+3543,Credit Card,484.19,Paid
+3544,Bank Transfer,1472.68,Paid
+3545,UPI,1243.32,Paid
+3546,UPI,913.26,Refunded
+3547,Debit Card,130.33,Paid
+3548,Bank Transfer,1659.34,Paid
+3549,Apple Pay,103.22,Paid
+3550,UPI,59.73,Refunded
+3551,UPI,1031.86,Refunded
+3552,Bank Transfer,184.35,Paid
+3553,Apple Pay,29.53,Refunded
+3554,Debit Card,532.04,Paid
+3555,UPI,759.2,Paid
+3556,Bank Transfer,299.22,Refunded
+3557,Credit Card,164.57,Paid
+3558,Credit Card,77.02,Paid
+3559,Credit Card,288.48,Paid
+3560,Apple Pay,14.55,Paid
+3561,Debit Card,173.21,Paid
+3562,UPI,435.31,Paid
+3563,Apple Pay,641.94,Refunded
+3564,PayPal,151.39,Paid
+3565,Debit Card,112.88,Paid
+3566,UPI,128.0,Refunded
+3567,UPI,44.61,Refunded
+3568,Apple Pay,947.62,Paid
+3569,Bank Transfer,162.03,Paid
+3570,UPI,1187.64,Paid
+3571,UPI,133.32,Paid
+3572,Debit Card,433.95,Refunded
+3573,Debit Card,816.02,Paid
+3574,PayPal,122.51,Paid
+3575,Bank Transfer,40.31,Refunded
+3576,Apple Pay,654.33,Refunded
+3577,Bank Transfer,75.49,Paid
+3578,Bank Transfer,57.0,Paid
+3579,Debit Card,649.45,Paid
+3580,UPI,182.29,Paid
+3581,PayPal,491.46,Paid
+3582,Credit Card,2781.39,Paid
+3583,Credit Card,243.53,Refunded
+3584,Apple Pay,203.62,Refunded
+3585,Credit Card,305.15,Paid
+3586,UPI,974.73,Paid
+3587,PayPal,76.49,Paid
+3588,Debit Card,1671.0,Paid
+3589,PayPal,130.64,Paid
+3590,Debit Card,632.37,Refunded
+3591,Bank Transfer,377.01,Paid
+3592,Debit Card,38.88,Paid
+3593,Debit Card,340.71,Paid
+3594,PayPal,300.78,Refunded
+3595,Credit Card,350.25,Paid
+3596,Debit Card,102.35,Paid
+3597,Bank Transfer,87.65,Refunded
+3598,PayPal,296.76,Paid
+3599,Debit Card,187.84,Paid
+3600,Debit Card,120.73,Paid
+3601,Apple Pay,721.2,Refunded
+3602,Credit Card,510.8,Paid
+3603,Credit Card,1626.94,Refunded
+3604,UPI,64.26,Paid
+3605,PayPal,766.44,Paid
+3606,Debit Card,143.19,Paid
+3607,Credit Card,177.96,Paid
+3608,UPI,388.1,Paid
+3609,Credit Card,147.37,Paid
+3610,PayPal,1043.57,Paid
+3611,Apple Pay,32.19,Paid
+3612,PayPal,273.32,Refunded
+3613,PayPal,326.94,Paid
+3614,PayPal,5166.96,Paid
+3615,Apple Pay,87.49,Refunded
+3616,PayPal,115.51,Refunded
+3617,Apple Pay,140.93,Paid
+3618,UPI,102.45,Paid
+3619,Bank Transfer,643.28,Paid
+3620,Bank Transfer,1610.98,Refunded
+3621,Bank Transfer,117.58,Paid
+3622,Bank Transfer,203.02,Refunded
+3623,Bank Transfer,158.72,Paid
+3624,Credit Card,344.61,Refunded
+3625,Credit Card,458.84,Paid
+3626,Apple Pay,34.0,Paid
+3627,PayPal,1350.32,Refunded
+3628,Credit Card,1286.94,Paid
+3629,PayPal,233.39,Paid
+3630,Debit Card,1476.81,Paid
+3631,Debit Card,2982.83,Paid
+3632,Debit Card,401.62,Paid
+3633,Credit Card,71.22,Paid
+3634,UPI,64.07,Paid
+3635,Apple Pay,122.44,Paid
+3636,Credit Card,169.4,Refunded
+3637,Credit Card,1212.37,Paid
+3638,Bank Transfer,46.49,Paid
+3639,PayPal,142.92,Paid
+3640,Debit Card,150.78,Refunded
+3641,Credit Card,537.03,Paid
+3642,Debit Card,359.04,Paid
+3643,PayPal,3149.49,Paid
+3644,Debit Card,219.03,Paid
+3645,Bank Transfer,656.76,Paid
+3646,PayPal,465.54,Refunded
+3647,Apple Pay,259.39,Refunded
+3648,UPI,236.99,Paid
+3649,Credit Card,121.53,Refunded
+3650,PayPal,356.28,Paid
+3651,Apple Pay,564.12,Paid
+3652,Credit Card,257.2,Refunded
+3653,Credit Card,236.93,Paid
+3654,UPI,172.7,Paid
+3655,Debit Card,88.69,Paid
+3656,Bank Transfer,178.17,Refunded
+3657,Bank Transfer,95.57,Refunded
+3658,PayPal,312.92,Paid
+3659,Debit Card,66.98,Paid
+3660,UPI,1019.32,Refunded
+3661,UPI,63.7,Paid
+3662,UPI,591.65,Paid
+3663,PayPal,28.11,Refunded
+3664,Bank Transfer,529.09,Paid
+3665,Credit Card,581.04,Paid
+3666,PayPal,368.9,Paid
+3667,PayPal,252.12,Paid
+3668,Apple Pay,100.12,Paid
+3669,Debit Card,454.32,Paid
+3670,PayPal,654.76,Refunded
+3671,UPI,1219.57,Paid
+3672,Credit Card,117.16,Paid
+3673,Apple Pay,56.93,Paid
+3674,Apple Pay,100.7,Paid
+3675,Apple Pay,227.75,Paid
+3676,PayPal,516.64,Paid
+3677,Bank Transfer,108.43,Paid
+3678,Debit Card,77.37,Paid
+3679,UPI,886.16,Paid
+3680,Apple Pay,291.87,Paid
+3681,Apple Pay,694.04,Paid
+3682,Debit Card,199.34,Paid
+3683,PayPal,334.68,Paid
+3684,Bank Transfer,622.2,Paid
+3685,Apple Pay,787.4,Paid
+3686,PayPal,1257.15,Refunded
+3687,Bank Transfer,2570.49,Paid
+3688,UPI,64.65,Paid
+3689,Debit Card,106.62,Paid
+3690,PayPal,3313.24,Paid
+3691,UPI,115.66,Paid
+3692,Bank Transfer,56.73,Paid
+3693,Bank Transfer,28.95,Refunded
+3694,UPI,372.64,Refunded
+3695,Bank Transfer,881.63,Paid
+3696,UPI,720.69,Paid
+3697,UPI,13.5,Paid
+3698,Credit Card,1496.46,Paid
+3699,Credit Card,128.2,Refunded
+3700,Bank Transfer,66.45,Paid
+3701,UPI,1052.32,Paid
+3702,Bank Transfer,565.35,Paid
+3703,Apple Pay,197.55,Paid
+3704,Credit Card,376.37,Paid
+3705,PayPal,351.83,Refunded
+3706,Debit Card,176.94,Paid
+3707,UPI,3313.64,Paid
+3708,Apple Pay,800.92,Paid
+3709,PayPal,1662.34,Paid
+3710,Debit Card,452.3,Paid
+3711,Debit Card,45.68,Paid
+3712,Apple Pay,222.9,Refunded
+3713,Debit Card,123.23,Paid
+3714,Debit Card,54.47,Paid
+3715,Credit Card,987.96,Paid
+3716,Apple Pay,2418.84,Paid
+3717,PayPal,718.6,Paid
+3718,PayPal,34.69,Paid
+3719,Debit Card,804.13,Paid
+3720,UPI,1142.78,Paid
+3721,Apple Pay,93.84,Paid
+3722,Bank Transfer,515.84,Paid
+3723,PayPal,334.54,Paid
+3724,UPI,639.01,Paid
+3725,Debit Card,339.55,Paid
+3726,PayPal,825.96,Paid
+3727,Debit Card,20.63,Paid
+3728,Debit Card,240.07,Paid
+3729,UPI,782.05,Refunded
+3730,Credit Card,1156.22,Paid
+3731,UPI,578.4,Refunded
+3732,PayPal,333.61,Refunded
+3733,UPI,27.1,Paid
+3734,Debit Card,2485.86,Refunded
+3735,PayPal,312.73,Refunded
+3736,PayPal,544.44,Paid
+3737,UPI,197.74,Paid
+3738,Apple Pay,883.3,Paid
+3739,UPI,727.7,Paid
+3740,PayPal,305.52,Paid
+3741,Bank Transfer,1397.56,Paid
+3742,Bank Transfer,405.49,Refunded
+3743,Debit Card,83.97,Refunded
+3744,Credit Card,468.12,Refunded
+3745,Debit Card,300.39,Refunded
+3746,Apple Pay,546.2,Paid
+3747,Debit Card,776.31,Paid
+3748,Debit Card,1292.9,Refunded
+3749,UPI,237.25,Paid
+3750,UPI,96.14,Refunded
+3751,PayPal,494.18,Paid
+3752,Debit Card,302.56,Paid
+3753,Credit Card,255.62,Paid
+3754,Credit Card,156.84,Paid
+3755,Apple Pay,784.66,Paid
+3756,Apple Pay,562.13,Paid
+3757,Bank Transfer,60.75,Paid
+3758,Credit Card,261.34,Paid
+3759,Debit Card,3213.86,Paid
+3760,UPI,161.39,Paid
+3761,UPI,916.03,Paid
+3762,PayPal,1609.03,Paid
+3763,Bank Transfer,109.82,Paid
+3764,Apple Pay,103.04,Refunded
+3765,PayPal,1643.92,Paid
+3766,Apple Pay,196.69,Paid
+3767,PayPal,1452.52,Refunded
+3768,Apple Pay,528.88,Paid
+3769,PayPal,254.34,Paid
+3770,PayPal,13.18,Paid
+3771,Bank Transfer,45.51,Paid
+3772,Credit Card,63.93,Refunded
+3773,Apple Pay,534.36,Paid
+3774,UPI,74.61,Paid
+3775,Apple Pay,310.68,Refunded
+3776,Credit Card,152.79,Paid
+3777,PayPal,226.97,Paid
+3778,Apple Pay,1218.3,Refunded
+3779,PayPal,229.05,Paid
+3780,Apple Pay,768.87,Paid
+3781,UPI,141.0,Refunded
+3782,Apple Pay,97.25,Paid
+3783,Debit Card,49.79,Paid
+3784,Apple Pay,586.18,Paid
+3785,Apple Pay,920.32,Paid
+3786,PayPal,83.23,Paid
+3787,Debit Card,97.29,Paid
+3788,Debit Card,863.38,Paid
+3789,Debit Card,644.82,Paid
+3790,UPI,182.55,Refunded
+3791,Credit Card,141.67,Paid
+3792,Credit Card,843.24,Paid
+3793,PayPal,50.23,Paid
+3794,Bank Transfer,434.65,Paid
+3795,PayPal,53.95,Refunded
+3796,UPI,1699.1,Paid
+3797,Bank Transfer,34.69,Paid
+3798,PayPal,1071.88,Paid
+3799,Apple Pay,127.91,Paid
+3800,Credit Card,843.45,Paid
+3801,Apple Pay,538.24,Paid
+3802,Apple Pay,22.82,Paid
+3803,Bank Transfer,141.31,Paid
+3804,Debit Card,121.84,Paid
+3805,Apple Pay,295.51,Paid
+3806,Bank Transfer,672.16,Paid
+3807,PayPal,70.13,Paid
+3808,Bank Transfer,1180.3,Paid
+3809,Apple Pay,747.61,Paid
+3810,Credit Card,109.69,Paid
+3811,Credit Card,1011.28,Paid
+3812,Debit Card,173.68,Refunded
+3813,PayPal,32.7,Paid
+3814,Credit Card,592.53,Refunded
+3815,Apple Pay,193.96,Paid
+3816,Credit Card,38.94,Paid
+3817,Bank Transfer,93.63,Paid
+3818,Apple Pay,581.42,Paid
+3819,PayPal,404.91,Paid
+3820,PayPal,111.62,Paid
+3821,Apple Pay,494.04,Paid
+3822,UPI,653.9,Paid
+3823,Bank Transfer,1397.34,Refunded
+3824,PayPal,322.6,Paid
+3825,Debit Card,56.19,Refunded
+3826,PayPal,252.22,Refunded
+3827,PayPal,79.05,Paid
+3828,Apple Pay,3234.38,Paid
+3829,PayPal,109.91,Paid
+3830,UPI,785.78,Paid
+3831,PayPal,176.13,Refunded
+3832,PayPal,104.21,Paid
+3833,Debit Card,1584.89,Paid
+3834,Apple Pay,2305.64,Paid
+3835,Debit Card,721.2,Refunded
+3836,PayPal,1980.65,Paid
+3837,Bank Transfer,398.67,Refunded
+3838,PayPal,419.53,Paid
+3839,PayPal,661.97,Paid
+3840,UPI,449.47,Paid
+3841,UPI,2696.23,Paid
+3842,UPI,1876.62,Refunded
+3843,UPI,283.29,Paid
+3844,UPI,82.57,Paid
+3845,PayPal,502.04,Paid
+3846,PayPal,285.48,Refunded
+3847,PayPal,459.88,Paid
+3848,PayPal,901.63,Paid
+3849,Bank Transfer,307.43,Paid
+3850,Credit Card,124.1,Paid
+3851,Credit Card,345.01,Paid
+3852,UPI,730.54,Paid
+3853,Apple Pay,75.94,Paid
+3854,PayPal,1581.81,Paid
+3855,Debit Card,3196.46,Refunded
+3856,PayPal,716.48,Refunded
+3857,UPI,1602.67,Refunded
+3858,Bank Transfer,154.35,Paid
+3859,UPI,463.12,Paid
+3860,Credit Card,90.45,Paid
+3861,Credit Card,777.67,Paid
+3862,Credit Card,550.26,Paid
+3863,Bank Transfer,174.9,Paid
+3864,Apple Pay,252.43,Paid
+3865,UPI,84.02,Refunded
+3866,UPI,963.54,Refunded
+3867,UPI,233.0,Refunded
+3868,Credit Card,114.56,Refunded
+3869,Credit Card,101.28,Paid
+3870,Credit Card,261.96,Paid
+3871,Debit Card,538.88,Paid
+3872,PayPal,206.09,Refunded
+3873,Credit Card,143.76,Refunded
+3874,Bank Transfer,189.28,Paid
+3875,Bank Transfer,1697.43,Paid
+3876,Bank Transfer,489.74,Paid
+3877,Apple Pay,872.29,Paid
+3878,Apple Pay,202.56,Paid
+3879,UPI,874.77,Paid
+3880,UPI,1033.28,Paid
+3881,UPI,927.68,Refunded
+3882,Bank Transfer,102.97,Refunded
+3883,Bank Transfer,28.63,Paid
+3884,Bank Transfer,501.75,Paid
+3885,PayPal,78.8,Refunded
+3886,PayPal,676.62,Paid
+3887,UPI,892.67,Paid
+3888,Bank Transfer,364.79,Paid
+3889,Apple Pay,98.05,Paid
+3890,PayPal,227.71,Paid
+3891,PayPal,237.74,Paid
+3892,Apple Pay,86.66,Paid
+3893,Debit Card,879.9,Refunded
+3894,Credit Card,1052.34,Paid
+3895,Credit Card,151.4,Paid
+3896,Credit Card,1654.84,Paid
+3897,Bank Transfer,191.2,Paid
+3898,Bank Transfer,872.43,Refunded
+3899,Apple Pay,278.29,Paid
+3900,Debit Card,66.32,Refunded
+3901,PayPal,214.52,Refunded
+3902,Debit Card,86.3,Paid
+3903,Apple Pay,652.59,Paid
+3904,Bank Transfer,1148.8,Paid
+3905,UPI,1134.42,Paid
+3906,Credit Card,1745.66,Refunded
+3907,PayPal,1380.22,Refunded
+3908,Debit Card,687.21,Paid
+3909,Debit Card,729.98,Refunded
+3910,PayPal,115.31,Paid
+3911,Credit Card,157.11,Paid
+3912,PayPal,326.81,Paid
+3913,Debit Card,408.72,Paid
+3914,PayPal,184.95,Paid
+3915,Debit Card,212.48,Refunded
+3916,Apple Pay,36.89,Refunded
+3917,Bank Transfer,1319.31,Refunded
+3918,Apple Pay,322.68,Refunded
+3919,PayPal,182.65,Paid
+3920,Credit Card,107.07,Paid
+3921,Debit Card,163.37,Paid
+3922,UPI,289.42,Paid
+3923,Apple Pay,15.96,Paid
+3924,Debit Card,2972.66,Paid
+3925,Debit Card,148.69,Refunded
+3926,PayPal,580.0,Paid
+3927,Credit Card,415.8,Paid
+3928,PayPal,261.45,Paid
+3929,Debit Card,222.92,Paid
+3930,Apple Pay,145.99,Refunded
+3931,Apple Pay,118.49,Paid
+3932,PayPal,87.85,Paid
+3933,Bank Transfer,28.33,Refunded
+3934,Credit Card,382.23,Paid
+3935,Bank Transfer,1379.66,Paid
+3936,Bank Transfer,104.9,Paid
+3937,UPI,30.84,Refunded
+3938,PayPal,195.25,Paid
+3939,UPI,1244.0,Refunded
+3940,Credit Card,262.88,Refunded
+3941,PayPal,525.92,Paid
+3942,Bank Transfer,2639.36,Paid
+3943,Debit Card,85.49,Paid
+3944,PayPal,151.3,Refunded
+3945,UPI,496.86,Paid
+3946,UPI,246.27,Paid
+3947,Bank Transfer,243.99,Paid
+3948,Debit Card,708.5,Refunded
+3949,Bank Transfer,967.82,Paid
+3950,Debit Card,122.17,Paid
+3951,Credit Card,274.62,Paid
+3952,UPI,99.86,Paid
+3953,Apple Pay,246.71,Refunded
+3954,UPI,113.94,Paid
+3955,Credit Card,143.23,Paid
+3956,Debit Card,210.75,Paid
+3957,Apple Pay,361.74,Paid
+3958,Bank Transfer,554.02,Paid
+3959,Apple Pay,259.2,Paid
+3960,Credit Card,529.65,Paid
+3961,Debit Card,1003.92,Paid
+3962,Apple Pay,78.2,Paid
+3963,Debit Card,693.68,Paid
+3964,Debit Card,747.06,Refunded
+3965,Debit Card,113.34,Paid
+3966,Debit Card,464.77,Paid
+3967,PayPal,73.17,Paid
+3968,UPI,1008.7,Paid
+3969,PayPal,1256.42,Paid
+3970,Credit Card,147.5,Paid
+3971,Credit Card,1020.92,Paid
+3972,Apple Pay,254.4,Refunded
+3973,Credit Card,744.98,Paid
+3974,Credit Card,260.64,Paid
+3975,Credit Card,851.69,Paid
+3976,Bank Transfer,261.12,Refunded
+3977,Debit Card,228.95,Paid
+3978,Credit Card,1263.91,Refunded
+3979,UPI,2110.51,Paid
+3980,Bank Transfer,1033.86,Paid
+3981,Bank Transfer,116.09,Refunded
+3982,Debit Card,790.11,Refunded
+3983,Debit Card,490.85,Refunded
+3984,PayPal,239.17,Paid
+3985,Debit Card,738.55,Paid
+3986,PayPal,243.56,Paid
+3987,Apple Pay,303.04,Paid
+3988,PayPal,503.81,Paid
+3989,Credit Card,47.33,Refunded
+3990,UPI,292.45,Paid
+3991,Debit Card,281.68,Refunded
+3992,Bank Transfer,23.43,Refunded
+3993,UPI,327.38,Refunded
+3994,UPI,25.37,Paid
+3995,PayPal,1380.04,Refunded
+3996,Apple Pay,166.49,Paid
+3997,UPI,1161.78,Paid
+3998,Credit Card,2923.69,Paid
+3999,Credit Card,723.86,Refunded
+4000,PayPal,116.19,Refunded
+4001,Debit Card,155.04,Refunded
+4002,PayPal,1506.48,Paid
+4003,Bank Transfer,438.36,Refunded
+4004,Apple Pay,331.06,Paid
+4005,PayPal,288.81,Refunded
+4006,PayPal,854.96,Paid
+4007,UPI,252.81,Paid
+4008,Credit Card,123.63,Paid
+4009,UPI,1445.16,Paid
+4010,UPI,1879.44,Paid
+4011,Credit Card,111.47,Paid
+4012,PayPal,2107.17,Paid
+4013,PayPal,193.09,Paid
+4014,UPI,250.62,Paid
+4015,PayPal,2465.79,Paid
+4016,Bank Transfer,343.46,Paid
+4017,PayPal,57.44,Refunded
+4018,Debit Card,68.24,Paid
+4019,PayPal,310.98,Paid
+4020,Debit Card,630.83,Refunded
+4021,Bank Transfer,23.57,Paid
+4022,PayPal,960.33,Paid
+4023,UPI,132.54,Paid
+4024,Apple Pay,72.29,Paid
+4025,Credit Card,140.96,Paid
+4026,UPI,166.76,Paid
+4027,PayPal,212.78,Paid
+4028,PayPal,32.96,Paid
+4029,Debit Card,330.48,Paid
+4030,UPI,146.78,Paid
+4031,Apple Pay,34.49,Paid
+4032,UPI,326.72,Paid
+4033,Bank Transfer,36.71,Refunded
+4034,Credit Card,578.16,Refunded
+4035,PayPal,305.65,Refunded
+4036,Credit Card,205.27,Paid
+4037,PayPal,215.03,Paid
+4038,Apple Pay,2232.85,Refunded
+4039,Apple Pay,375.29,Paid
+4040,UPI,436.62,Paid
+4041,UPI,2535.15,Refunded
+4042,UPI,1484.0,Paid
+4043,PayPal,87.85,Paid
+4044,UPI,82.57,Paid
+4045,Credit Card,59.32,Refunded
+4046,Bank Transfer,991.7,Paid
+4047,Debit Card,156.51,Refunded
+4048,Apple Pay,163.21,Refunded
+4049,PayPal,294.52,Paid
+4050,Bank Transfer,41.88,Paid
+4051,Apple Pay,72.82,Refunded
+4052,Bank Transfer,244.93,Paid
+4053,Debit Card,234.8,Paid
+4054,Credit Card,1533.92,Paid
+4055,UPI,158.93,Refunded
+4056,PayPal,648.2,Paid
+4057,UPI,232.59,Paid
+4058,Bank Transfer,69.95,Paid
+4059,Debit Card,128.87,Paid
+4060,PayPal,75.29,Paid
+4061,UPI,120.97,Paid
+4062,UPI,142.1,Paid
+4063,PayPal,485.26,Paid
+4064,Debit Card,646.2,Paid
+4065,Debit Card,521.52,Paid
+4066,PayPal,608.71,Paid
+4067,Credit Card,2671.87,Paid
+4068,Apple Pay,19.99,Refunded
+4069,Credit Card,415.68,Paid
+4070,Credit Card,1881.35,Paid
+4071,Debit Card,44.82,Paid
+4072,PayPal,40.93,Paid
+4073,Bank Transfer,614.77,Refunded
+4074,PayPal,232.03,Paid
+4075,Debit Card,164.19,Paid
+4076,Credit Card,119.83,Refunded
+4077,Apple Pay,264.39,Paid
+4078,UPI,411.82,Refunded
+4079,Bank Transfer,118.26,Paid
+4080,PayPal,62.06,Paid
+4081,Credit Card,278.15,Paid
+4082,PayPal,207.84,Paid
+4083,Credit Card,74.58,Paid
+4084,Credit Card,1810.99,Refunded
+4085,UPI,293.44,Paid
+4086,Bank Transfer,94.13,Paid
+4087,Apple Pay,201.32,Paid
+4088,Apple Pay,535.78,Paid
+4089,Bank Transfer,598.36,Paid
+4090,PayPal,2989.1,Refunded
+4091,Credit Card,291.02,Paid
+4092,Apple Pay,3361.46,Paid
+4093,Apple Pay,179.41,Paid
+4094,PayPal,456.45,Refunded
+4095,UPI,94.33,Paid
+4096,Bank Transfer,848.81,Paid
+4097,UPI,73.3,Refunded
+4098,Credit Card,183.39,Refunded
+4099,PayPal,1106.16,Paid
+4100,UPI,545.1,Refunded
+4101,PayPal,400.15,Paid
+4102,Debit Card,182.25,Paid
+4103,PayPal,351.96,Paid
+4104,PayPal,443.42,Paid
+4105,PayPal,156.19,Paid
+4106,Bank Transfer,827.3,Paid
+4107,PayPal,661.08,Paid
+4108,PayPal,205.71,Paid
+4109,Credit Card,252.17,Paid
+4110,Credit Card,888.27,Paid
+4111,Bank Transfer,661.06,Refunded
+4112,Bank Transfer,75.55,Refunded
+4113,Credit Card,149.16,Paid
+4114,Bank Transfer,352.24,Refunded
+4115,PayPal,3337.78,Paid
+4116,PayPal,1414.93,Paid
+4117,PayPal,73.45,Paid
+4118,Apple Pay,1513.36,Refunded
+4119,Bank Transfer,1511.07,Refunded
+4120,UPI,59.31,Paid
+4121,Debit Card,1035.84,Paid
+4122,Debit Card,129.87,Paid
+4123,Credit Card,267.52,Paid
+4124,UPI,842.8,Refunded
+4125,Apple Pay,664.31,Paid
+4126,Bank Transfer,192.25,Refunded
+4127,Bank Transfer,106.58,Paid
+4128,Apple Pay,432.28,Paid
+4129,Bank Transfer,805.49,Refunded
+4130,Credit Card,2961.12,Paid
+4131,UPI,2166.12,Paid
+4132,Apple Pay,1707.9,Paid
+4133,Debit Card,1101.62,Paid
+4134,Bank Transfer,289.42,Paid
+4135,Credit Card,3093.74,Refunded
+4136,Debit Card,86.77,Refunded
+4137,PayPal,810.51,Paid
+4138,Debit Card,443.06,Paid
+4139,Bank Transfer,69.34,Paid
+4140,Debit Card,654.19,Refunded
+4141,Debit Card,105.14,Paid
+4142,PayPal,128.33,Paid
+4143,Bank Transfer,54.6,Refunded
+4144,Bank Transfer,85.31,Paid
+4145,PayPal,2140.45,Paid
+4146,UPI,253.01,Paid
+4147,UPI,108.37,Paid
+4148,PayPal,2326.86,Paid
+4149,Debit Card,744.98,Paid
+4150,Credit Card,1045.82,Paid
+4151,Credit Card,522.36,Refunded
+4152,UPI,155.21,Paid
+4153,Apple Pay,1393.32,Refunded
+4154,Credit Card,535.08,Refunded
+4155,Apple Pay,950.84,Paid
+4156,Apple Pay,692.79,Paid
+4157,Bank Transfer,289.58,Paid
+4158,Bank Transfer,126.25,Paid
+4159,Credit Card,48.55,Paid
+4160,UPI,215.2,Paid
+4161,Apple Pay,293.7,Paid
+4162,Credit Card,42.09,Paid
+4163,PayPal,235.66,Refunded
+4164,UPI,147.34,Paid
+4165,UPI,1354.37,Refunded
+4166,Debit Card,200.28,Paid
+4167,PayPal,1183.38,Refunded
+4168,Debit Card,1174.51,Paid
+4169,Credit Card,1779.56,Paid
+4170,Apple Pay,419.75,Paid
+4171,UPI,901.56,Paid
+4172,Debit Card,463.45,Refunded
+4173,Credit Card,118.96,Paid
+4174,PayPal,98.67,Refunded
+4175,Apple Pay,384.67,Paid
+4176,Credit Card,174.39,Paid
+4177,UPI,780.51,Refunded
+4178,Bank Transfer,50.47,Refunded
+4179,Debit Card,235.51,Paid
+4180,UPI,88.37,Paid
+4181,Bank Transfer,243.86,Paid
+4182,Debit Card,119.54,Refunded
+4183,Bank Transfer,534.09,Refunded
+4184,Bank Transfer,417.87,Refunded
+4185,PayPal,856.88,Paid
+4186,PayPal,59.29,Refunded
+4187,UPI,1944.69,Paid
+4188,Bank Transfer,49.58,Paid
+4189,Bank Transfer,149.77,Refunded
+4190,Apple Pay,83.17,Paid
+4191,PayPal,109.98,Paid
+4192,Credit Card,290.19,Paid
+4193,UPI,952.75,Paid
+4194,PayPal,104.54,Paid
+4195,Credit Card,254.04,Paid
+4196,PayPal,268.83,Paid
+4197,Bank Transfer,96.67,Paid
+4198,Apple Pay,525.65,Paid
+4199,Debit Card,43.93,Paid
+4200,UPI,797.62,Paid
+4201,PayPal,39.11,Paid
+4202,UPI,549.16,Paid
+4203,Bank Transfer,62.87,Paid
+4204,Debit Card,100.09,Paid
+4205,UPI,209.44,Paid
+4206,UPI,164.46,Paid
+4207,Bank Transfer,290.7,Refunded
+4208,Apple Pay,358.1,Paid
+4209,Credit Card,388.41,Paid
+4210,UPI,130.85,Paid
+4211,Debit Card,151.99,Paid
+4212,UPI,438.12,Paid
+4213,Credit Card,515.94,Refunded
+4214,Apple Pay,783.78,Paid
+4215,PayPal,1175.42,Paid
+4216,Debit Card,223.69,Paid
+4217,Credit Card,86.61,Paid
+4218,PayPal,945.9,Paid
+4219,Apple Pay,1346.48,Paid
+4220,UPI,252.99,Paid
+4221,PayPal,126.17,Refunded
+4222,PayPal,964.75,Paid
+4223,Debit Card,1656.22,Paid
+4224,Bank Transfer,376.75,Paid
+4225,Credit Card,234.19,Paid
+4226,Apple Pay,923.45,Refunded
+4227,Debit Card,610.38,Refunded
+4228,Credit Card,745.77,Refunded
+4229,Debit Card,206.87,Paid
+4230,Apple Pay,390.03,Paid
+4231,Bank Transfer,525.35,Paid
+4232,UPI,3135.35,Paid
+4233,PayPal,794.43,Paid
+4234,UPI,151.75,Paid
+4235,Apple Pay,2198.58,Refunded
+4236,Debit Card,515.48,Paid
+4237,Bank Transfer,125.56,Paid
+4238,Debit Card,317.32,Paid
+4239,Credit Card,894.11,Paid
+4240,Bank Transfer,74.67,Paid
+4241,Apple Pay,425.04,Paid
+4242,Apple Pay,729.86,Paid
+4243,Credit Card,1897.63,Paid
+4244,Debit Card,1468.67,Paid
+4245,Credit Card,1631.63,Refunded
+4246,UPI,376.62,Paid
+4247,Credit Card,62.56,Paid
+4248,PayPal,192.86,Paid
+4249,PayPal,468.17,Refunded
+4250,Apple Pay,330.49,Paid
+4251,UPI,220.21,Paid
+4252,Debit Card,205.93,Paid
+4253,UPI,527.67,Paid
+4254,PayPal,754.6,Refunded
+4255,Apple Pay,1079.85,Refunded
+4256,PayPal,108.53,Paid
+4257,Bank Transfer,50.45,Refunded
+4258,PayPal,1761.68,Paid
+4259,UPI,64.49,Refunded
+4260,Apple Pay,35.96,Paid
+4261,PayPal,165.54,Paid
+4262,Credit Card,375.16,Refunded
+4263,UPI,270.85,Refunded
+4264,Bank Transfer,62.59,Paid
+4265,UPI,200.3,Refunded
+4266,Credit Card,46.45,Paid
+4267,PayPal,166.87,Paid
+4268,PayPal,507.62,Paid
+4269,Bank Transfer,81.84,Paid
+4270,UPI,283.92,Paid
+4271,UPI,665.97,Paid
+4272,Apple Pay,157.45,Paid
+4273,PayPal,2108.63,Paid
+4274,UPI,65.87,Paid
+4275,Bank Transfer,482.65,Refunded
+4276,Credit Card,161.68,Refunded
+4277,UPI,1981.02,Paid
+4278,Bank Transfer,116.23,Paid
+4279,Apple Pay,61.02,Paid
+4280,Apple Pay,194.59,Paid
+4281,Debit Card,114.51,Paid
+4282,Bank Transfer,178.72,Paid
+4283,PayPal,803.16,Refunded
+4284,Apple Pay,685.81,Refunded
+4285,Bank Transfer,346.26,Paid
+4286,UPI,743.02,Refunded
+4287,Apple Pay,737.0,Refunded
+4288,PayPal,330.72,Paid
+4289,UPI,403.26,Paid
+4290,PayPal,1442.98,Refunded
+4291,Bank Transfer,2299.03,Paid
+4292,Debit Card,853.38,Paid
+4293,Credit Card,1133.26,Paid
+4294,Bank Transfer,203.82,Paid
+4295,Debit Card,409.55,Paid
+4296,UPI,1043.16,Paid
+4297,Debit Card,1722.12,Paid
+4298,Debit Card,301.72,Refunded
+4299,Apple Pay,149.31,Refunded
+4300,Credit Card,588.47,Paid
+4301,Credit Card,4684.86,Paid
+4302,PayPal,251.55,Paid
+4303,UPI,1095.03,Paid
+4304,UPI,663.83,Paid
+4305,Bank Transfer,504.12,Paid
+4306,PayPal,247.19,Paid
+4307,Credit Card,95.21,Refunded
+4308,Apple Pay,1178.33,Paid
+4309,PayPal,446.49,Paid
+4310,Debit Card,774.76,Paid
+4311,Credit Card,473.62,Paid
+4312,PayPal,3776.81,Paid
+4313,UPI,384.5,Refunded
+4314,Credit Card,52.35,Paid
+4315,Apple Pay,598.6,Paid
+4316,UPI,72.41,Refunded
+4317,Credit Card,123.49,Paid
+4318,Apple Pay,177.26,Paid
+4319,Debit Card,749.66,Paid
+4320,Apple Pay,635.2,Refunded
+4321,UPI,252.98,Paid
+4322,Credit Card,769.7,Refunded
+4323,Apple Pay,2687.22,Paid
+4324,Credit Card,324.86,Paid
+4325,Bank Transfer,32.73,Refunded
+4326,UPI,107.88,Paid
+4327,Apple Pay,335.85,Paid
+4328,Apple Pay,344.82,Paid
+4329,PayPal,223.94,Refunded
+4330,UPI,57.7,Paid
+4331,Debit Card,398.05,Paid
+4332,Debit Card,96.02,Paid
+4333,UPI,610.54,Refunded
+4334,Bank Transfer,128.88,Paid
+4335,Credit Card,833.55,Paid
+4336,Apple Pay,138.65,Paid
+4337,Bank Transfer,39.57,Paid
+4338,Debit Card,344.7,Refunded
+4339,Debit Card,135.87,Paid
+4340,Debit Card,74.34,Refunded
+4341,UPI,1754.7,Refunded
+4342,Bank Transfer,2979.23,Paid
+4343,Bank Transfer,977.95,Refunded
+4344,Credit Card,37.71,Paid
+4345,Bank Transfer,436.52,Paid
+4346,Bank Transfer,965.31,Refunded
+4347,Credit Card,425.32,Paid
+4348,Bank Transfer,240.86,Refunded
+4349,Credit Card,1414.55,Paid
+4350,Credit Card,1521.05,Refunded
+4351,Credit Card,1193.82,Paid
+4352,Credit Card,945.34,Refunded
+4353,Credit Card,313.37,Paid
+4354,Apple Pay,246.33,Paid
+4355,UPI,56.32,Paid
+4356,PayPal,1720.08,Paid
+4357,Debit Card,149.47,Paid
+4358,Apple Pay,204.61,Paid
+4359,Bank Transfer,1064.99,Paid
+4360,Bank Transfer,722.85,Paid
+4361,Credit Card,148.57,Refunded
+4362,PayPal,267.4,Paid
+4363,Debit Card,300.81,Refunded
+4364,Bank Transfer,2214.84,Refunded
+4365,Credit Card,324.54,Refunded
+4366,Apple Pay,380.16,Paid
+4367,UPI,201.39,Paid
+4368,PayPal,256.82,Paid
+4369,Apple Pay,63.81,Paid
+4370,PayPal,61.48,Paid
+4371,Apple Pay,1569.42,Refunded
+4372,PayPal,132.41,Refunded
+4373,Apple Pay,80.76,Paid
+4374,Apple Pay,3025.2,Paid
+4375,UPI,1417.84,Paid
+4376,Credit Card,529.0,Paid
+4377,UPI,267.28,Paid
+4378,UPI,3444.15,Refunded
+4379,Credit Card,1056.07,Paid
+4380,Bank Transfer,415.02,Paid
+4381,Apple Pay,48.17,Refunded
+4382,Credit Card,498.57,Paid
+4383,Apple Pay,62.36,Refunded
+4384,Credit Card,75.49,Paid
+4385,Apple Pay,752.14,Paid
+4386,Bank Transfer,183.89,Paid
+4387,Apple Pay,193.87,Paid
+4388,Bank Transfer,118.57,Paid
+4389,Credit Card,276.58,Refunded
+4390,Apple Pay,275.97,Refunded
+4391,Credit Card,207.03,Paid
+4392,UPI,1257.8,Paid
+4393,Credit Card,2031.15,Paid
+4394,Apple Pay,309.63,Refunded
+4395,Credit Card,452.68,Refunded
+4396,Bank Transfer,173.08,Paid
+4397,Apple Pay,164.56,Paid
+4398,Credit Card,239.06,Refunded
+4399,Debit Card,112.6,Paid
+4400,Credit Card,35.85,Paid
+4401,UPI,817.09,Paid
+4402,Debit Card,113.74,Paid
+4403,PayPal,290.1,Paid
+4404,Apple Pay,42.31,Paid
+4405,Apple Pay,239.45,Paid
+4406,Apple Pay,612.0,Paid
+4407,PayPal,104.16,Paid
+4408,Apple Pay,275.82,Paid
+4409,UPI,366.47,Paid
+4410,Apple Pay,816.72,Refunded
+4411,Bank Transfer,1345.53,Paid
+4412,Apple Pay,431.62,Paid
+4413,Debit Card,299.27,Paid
+4414,Credit Card,61.53,Refunded
+4415,UPI,731.89,Paid
+4416,PayPal,19.16,Paid
+4417,Apple Pay,130.01,Paid
+4418,PayPal,21.78,Paid
+4419,Apple Pay,4344.17,Paid
+4420,Bank Transfer,191.66,Paid
+4421,PayPal,1180.87,Paid
+4422,UPI,688.3,Refunded
+4423,Apple Pay,417.56,Paid
+4424,PayPal,148.26,Refunded
+4425,UPI,515.16,Paid
+4426,PayPal,37.41,Paid
+4427,Apple Pay,2252.64,Paid
+4428,Apple Pay,957.84,Paid
+4429,Bank Transfer,28.95,Paid
+4430,Debit Card,68.11,Paid
+4431,Bank Transfer,198.87,Paid
+4432,Apple Pay,416.0,Paid
+4433,Credit Card,20.88,Paid
+4434,Credit Card,549.84,Refunded
+4435,Debit Card,227.67,Paid
+4436,Apple Pay,905.83,Refunded
+4437,Bank Transfer,239.5,Paid
+4438,PayPal,141.38,Paid
+4439,Bank Transfer,956.65,Paid
+4440,Apple Pay,2809.83,Paid
+4441,UPI,789.32,Paid
+4442,Bank Transfer,63.84,Refunded
+4443,UPI,77.0,Refunded
+4444,UPI,155.04,Paid
+4445,Bank Transfer,66.66,Paid
+4446,Credit Card,75.68,Paid
+4447,PayPal,405.81,Paid
+4448,Bank Transfer,423.45,Paid
+4449,Bank Transfer,37.93,Paid
+4450,Debit Card,27.98,Paid
+4451,UPI,277.57,Paid
+4452,Debit Card,163.78,Paid
+4453,Debit Card,326.2,Paid
+4454,Bank Transfer,1006.91,Paid
+4455,Bank Transfer,1276.05,Paid
+4456,UPI,507.88,Paid
+4457,PayPal,20.79,Refunded
+4458,Bank Transfer,4322.25,Paid
+4459,Bank Transfer,368.09,Paid
+4460,Bank Transfer,393.82,Paid
+4461,Apple Pay,396.68,Paid
+4462,Bank Transfer,166.83,Paid
+4463,Debit Card,556.03,Refunded
+4464,Bank Transfer,59.45,Paid
+4465,Debit Card,173.31,Refunded
+4466,Bank Transfer,553.56,Refunded
+4467,Credit Card,91.37,Paid
+4468,PayPal,290.91,Paid
+4469,Apple Pay,121.19,Refunded
+4470,Debit Card,2224.0,Refunded
+4471,Debit Card,52.41,Refunded
+4472,UPI,2210.8,Paid
+4473,Debit Card,859.8,Paid
+4474,Apple Pay,873.5,Paid
+4475,Bank Transfer,568.44,Refunded
+4476,Credit Card,1071.8,Refunded
+4477,UPI,1373.38,Refunded
+4478,PayPal,125.49,Paid
+4479,Apple Pay,235.87,Paid
+4480,Debit Card,1360.48,Paid
+4481,Apple Pay,276.08,Paid
+4482,Credit Card,128.69,Paid
+4483,Credit Card,38.39,Paid
+4484,Apple Pay,334.76,Refunded
+4485,Debit Card,1333.17,Refunded
+4486,Credit Card,1421.85,Paid
+4487,UPI,336.09,Refunded
+4488,PayPal,1478.94,Paid
+4489,Apple Pay,90.3,Paid
+4490,Bank Transfer,1707.0,Refunded
+4491,PayPal,78.22,Refunded
+4492,Credit Card,627.27,Refunded
+4493,Bank Transfer,80.28,Paid
+4494,Debit Card,744.4,Paid
+4495,Debit Card,281.88,Refunded
+4496,PayPal,220.42,Paid
+4497,PayPal,35.04,Paid
+4498,Credit Card,58.43,Paid
+4499,Debit Card,288.17,Paid
+4500,Apple Pay,33.85,Paid
+4501,PayPal,749.06,Refunded
+4502,UPI,187.13,Paid
+4503,UPI,138.46,Refunded
+4504,UPI,951.82,Paid
+4505,Bank Transfer,510.48,Paid
+4506,Apple Pay,693.14,Paid
+4507,UPI,697.32,Refunded
+4508,Debit Card,619.73,Paid
+4509,Credit Card,127.4,Refunded
+4510,Apple Pay,78.74,Refunded
+4511,PayPal,70.94,Paid
+4512,Apple Pay,821.55,Paid
+4513,Credit Card,156.61,Paid
+4514,PayPal,29.73,Paid
+4515,Credit Card,478.42,Paid
+4516,Apple Pay,323.25,Paid
+4517,Debit Card,712.76,Paid
+4518,UPI,317.07,Refunded
+4519,Apple Pay,925.41,Paid
+4520,Bank Transfer,248.33,Paid
+4521,Apple Pay,284.72,Paid
+4522,PayPal,34.67,Paid
+4523,Credit Card,570.88,Refunded
+4524,Bank Transfer,266.66,Paid
+4525,UPI,230.64,Paid
+4526,Bank Transfer,179.88,Paid
+4527,Debit Card,868.24,Refunded
+4528,Bank Transfer,3588.48,Refunded
+4529,Bank Transfer,3021.84,Paid
+4530,UPI,1553.27,Paid
+4531,PayPal,527.58,Paid
+4532,Credit Card,1249.05,Paid
+4533,Bank Transfer,73.85,Paid
+4534,PayPal,1269.98,Paid
+4535,Apple Pay,439.18,Paid
+4536,Apple Pay,70.67,Refunded
+4537,PayPal,189.91,Paid
+4538,Bank Transfer,447.98,Refunded
+4539,Bank Transfer,4552.38,Paid
+4540,Credit Card,183.04,Paid
+4541,Bank Transfer,971.26,Paid
+4542,Credit Card,360.17,Paid
+4543,UPI,179.87,Refunded
+4544,Debit Card,1340.11,Paid
+4545,PayPal,71.89,Refunded
+4546,Bank Transfer,471.56,Paid
+4547,UPI,103.39,Refunded
+4548,PayPal,2035.64,Paid
+4549,PayPal,967.64,Paid
+4550,Bank Transfer,709.41,Paid
+4551,UPI,142.53,Paid
+4552,Credit Card,132.02,Paid
+4553,UPI,566.64,Paid
+4554,Apple Pay,2349.79,Paid
+4555,PayPal,851.0,Paid
+4556,Debit Card,378.3,Paid
+4557,PayPal,458.71,Refunded
+4558,Debit Card,546.95,Refunded
+4559,PayPal,102.22,Paid
+4560,Debit Card,604.74,Paid
+4561,Credit Card,697.14,Paid
+4562,Debit Card,272.07,Paid
+4563,Credit Card,1166.92,Refunded
+4564,Bank Transfer,122.55,Paid
+4565,UPI,94.61,Refunded
+4566,Debit Card,253.06,Paid
+4567,PayPal,474.49,Paid
+4568,Credit Card,251.49,Paid
+4569,Bank Transfer,84.73,Paid
+4570,UPI,171.07,Paid
+4571,UPI,294.89,Paid
+4572,UPI,4645.45,Paid
+4573,Bank Transfer,2593.16,Paid
+4574,UPI,49.09,Refunded
+4575,Apple Pay,23.63,Refunded
+4576,Apple Pay,1095.04,Paid
+4577,Apple Pay,29.84,Paid
+4578,UPI,138.86,Paid
+4579,Credit Card,335.82,Refunded
+4580,PayPal,253.44,Paid
+4581,PayPal,286.48,Paid
+4582,Apple Pay,766.44,Paid
+4583,Debit Card,905.19,Paid
+4584,Credit Card,526.64,Refunded
+4585,Apple Pay,156.01,Paid
+4586,PayPal,37.92,Paid
+4587,Debit Card,83.51,Refunded
+4588,Credit Card,2306.97,Paid
+4589,UPI,1292.44,Refunded
+4590,PayPal,304.48,Paid
+4591,Debit Card,505.69,Refunded
+4592,Apple Pay,596.83,Paid
+4593,Credit Card,444.81,Paid
+4594,Apple Pay,345.83,Refunded
+4595,Apple Pay,112.34,Paid
+4596,Apple Pay,293.82,Paid
+4597,PayPal,83.39,Paid
+4598,PayPal,458.34,Refunded
+4599,Bank Transfer,397.08,Paid
+4600,PayPal,1800.65,Refunded
+4601,UPI,543.98,Paid
+4602,Debit Card,202.23,Paid
+4603,Bank Transfer,156.17,Paid
+4604,Credit Card,118.05,Paid
+4605,Bank Transfer,96.99,Refunded
+4606,Bank Transfer,191.86,Paid
+4607,Apple Pay,678.02,Refunded
+4608,Debit Card,1124.92,Paid
+4609,Debit Card,128.09,Paid
+4610,UPI,339.84,Paid
+4611,Apple Pay,2146.96,Refunded
+4612,Debit Card,611.63,Paid
+4613,PayPal,1032.33,Paid
+4614,PayPal,151.92,Refunded
+4615,UPI,38.25,Paid
+4616,PayPal,235.87,Refunded
+4617,Debit Card,423.81,Paid
+4618,Debit Card,506.12,Refunded
+4619,Apple Pay,299.36,Refunded
+4620,Debit Card,112.36,Paid
+4621,PayPal,4535.72,Paid
+4622,Bank Transfer,2838.48,Paid
+4623,Apple Pay,513.62,Refunded
+4624,PayPal,189.86,Paid
+4625,Debit Card,1402.98,Paid
+4626,Apple Pay,404.13,Refunded
+4627,Debit Card,107.57,Refunded
+4628,Credit Card,260.8,Refunded
+4629,PayPal,120.36,Paid
+4630,PayPal,758.15,Refunded
+4631,Bank Transfer,201.76,Paid
+4632,Apple Pay,720.71,Paid
+4633,PayPal,198.39,Refunded
+4634,UPI,34.01,Paid
+4635,PayPal,82.31,Refunded
+4636,PayPal,229.65,Paid
+4637,Credit Card,435.4,Refunded
+4638,UPI,268.56,Paid
+4639,Apple Pay,205.94,Paid
+4640,Credit Card,436.32,Refunded
+4641,Apple Pay,140.44,Paid
+4642,UPI,476.3,Paid
+4643,UPI,166.61,Refunded
+4644,UPI,87.75,Paid
+4645,Debit Card,640.79,Paid
+4646,UPI,365.65,Refunded
+4647,Apple Pay,358.26,Paid
+4648,Apple Pay,389.25,Paid
+4649,PayPal,1626.06,Paid
+4650,Bank Transfer,161.55,Paid
+4651,Debit Card,264.35,Paid
+4652,Debit Card,1116.79,Refunded
+4653,PayPal,2851.85,Paid
+4654,Bank Transfer,257.28,Paid
+4655,Debit Card,496.96,Paid
+4656,Debit Card,128.13,Refunded
+4657,UPI,47.72,Paid
+4658,Bank Transfer,843.33,Refunded
+4659,PayPal,813.56,Paid
+4660,Credit Card,266.54,Paid
+4661,UPI,1014.96,Paid
+4662,Credit Card,129.4,Refunded
+4663,Bank Transfer,273.8,Refunded
+4664,Bank Transfer,153.78,Refunded
+4665,Credit Card,133.15,Paid
+4666,Apple Pay,677.42,Paid
+4667,PayPal,506.47,Paid
+4668,Bank Transfer,360.45,Paid
+4669,Credit Card,569.16,Refunded
+4670,UPI,189.09,Paid
+4671,Debit Card,460.94,Paid
+4672,Credit Card,210.06,Paid
+4673,Credit Card,93.4,Paid
+4674,Bank Transfer,1599.08,Paid
+4675,Debit Card,2192.16,Refunded
+4676,Apple Pay,115.74,Paid
+4677,Credit Card,1340.0,Paid
+4678,UPI,170.21,Paid
+4679,Bank Transfer,201.18,Paid
+4680,PayPal,250.69,Paid
+4681,Bank Transfer,281.74,Refunded
+4682,PayPal,145.13,Paid
+4683,Bank Transfer,358.65,Paid
+4684,Debit Card,35.92,Paid
+4685,UPI,687.07,Refunded
+4686,Bank Transfer,347.49,Refunded
+4687,UPI,2010.7,Paid
+4688,PayPal,1212.41,Refunded
+4689,UPI,272.83,Paid
+4690,Apple Pay,209.81,Paid
+4691,Apple Pay,361.32,Paid
+4692,Credit Card,1224.74,Paid
+4693,Bank Transfer,1499.52,Refunded
+4694,PayPal,501.68,Paid
+4695,Credit Card,48.25,Paid
+4696,Credit Card,535.47,Refunded
+4697,UPI,796.55,Refunded
+4698,Credit Card,2125.7,Paid
+4699,Apple Pay,214.11,Paid
+4700,Debit Card,585.76,Paid
+4701,Debit Card,633.96,Paid
+4702,PayPal,116.89,Paid
+4703,Apple Pay,82.05,Paid
+4704,Apple Pay,752.11,Refunded
+4705,Credit Card,867.62,Paid
+4706,Debit Card,38.98,Paid
+4707,Debit Card,44.51,Refunded
+4708,PayPal,281.61,Paid
+4709,Credit Card,593.14,Paid
+4710,Apple Pay,121.91,Paid
+4711,Credit Card,485.7,Paid
+4712,UPI,1580.8,Paid
+4713,Debit Card,705.53,Paid
+4714,Apple Pay,607.61,Paid
+4715,Debit Card,216.11,Refunded
+4716,Bank Transfer,134.53,Paid
+4717,Bank Transfer,33.44,Refunded
+4718,Bank Transfer,119.0,Refunded
+4719,Bank Transfer,522.86,Refunded
+4720,UPI,1789.58,Refunded
+4721,Debit Card,142.29,Paid
+4722,PayPal,83.17,Paid
+4723,Debit Card,660.3,Paid
+4724,Credit Card,849.58,Paid
+4725,Debit Card,2810.48,Refunded
+4726,Bank Transfer,210.96,Refunded
+4727,UPI,360.32,Paid
+4728,UPI,513.26,Paid
+4729,Debit Card,220.73,Refunded
+4730,UPI,872.94,Refunded
+4731,PayPal,75.04,Paid
+4732,Credit Card,126.91,Paid
+4733,Apple Pay,1077.8,Refunded
+4734,Debit Card,52.81,Paid
+4735,Bank Transfer,260.88,Paid
+4736,UPI,180.39,Paid
+4737,Debit Card,2104.1,Paid
+4738,Apple Pay,233.18,Refunded
+4739,Bank Transfer,320.99,Paid
+4740,Apple Pay,430.68,Refunded
+4741,Bank Transfer,442.05,Paid
+4742,Credit Card,2030.89,Paid
+4743,Debit Card,119.16,Paid
+4744,PayPal,1941.88,Paid
+4745,PayPal,732.56,Refunded
+4746,Bank Transfer,762.47,Refunded
+4747,Apple Pay,271.64,Paid
+4748,PayPal,732.71,Paid
+4749,UPI,333.74,Paid
+4750,PayPal,482.37,Refunded
+4751,Credit Card,241.05,Refunded
+4752,Apple Pay,58.87,Paid
+4753,Bank Transfer,49.02,Refunded
+4754,Bank Transfer,495.62,Paid
+4755,Apple Pay,1527.26,Paid
+4756,PayPal,2296.67,Refunded
+4757,Debit Card,1011.68,Paid
+4758,PayPal,69.79,Paid
+4759,Credit Card,158.76,Paid
+4760,Debit Card,60.87,Paid
+4761,Apple Pay,519.34,Paid
+4762,PayPal,769.94,Paid
+4763,Debit Card,647.28,Paid
+4764,Bank Transfer,579.2,Refunded
+4765,PayPal,4007.18,Paid
+4766,Bank Transfer,247.49,Paid
+4767,Apple Pay,1149.82,Refunded
+4768,Debit Card,226.28,Paid
+4769,UPI,131.54,Refunded
+4770,Debit Card,648.6,Paid
+4771,Debit Card,2452.4,Paid
+4772,Debit Card,1305.96,Paid
+4773,PayPal,1363.04,Paid
+4774,PayPal,40.39,Paid
+4775,Credit Card,98.22,Paid
+4776,Credit Card,48.37,Paid
+4777,UPI,94.6,Paid
+4778,Debit Card,856.1,Paid
+4779,Credit Card,258.56,Paid
+4780,Credit Card,29.17,Paid
+4781,PayPal,181.74,Paid
+4782,PayPal,423.44,Paid
+4783,UPI,201.53,Paid
+4784,Apple Pay,129.37,Refunded
+4785,Credit Card,575.64,Paid
+4786,Credit Card,127.77,Refunded
+4787,PayPal,127.22,Paid
+4788,Credit Card,1193.8,Refunded
+4789,UPI,144.48,Paid
+4790,Debit Card,219.61,Paid
+4791,Bank Transfer,2198.77,Paid
+4792,Debit Card,871.51,Paid
+4793,Bank Transfer,394.82,Refunded
+4794,Apple Pay,152.7,Refunded
+4795,Bank Transfer,1127.73,Refunded
+4796,Apple Pay,118.59,Paid
+4797,Apple Pay,869.63,Paid
+4798,Debit Card,912.9,Paid
+4799,Bank Transfer,407.65,Paid
+4800,PayPal,162.64,Paid
+4801,UPI,886.05,Paid
+4802,UPI,408.21,Refunded
+4803,UPI,1144.84,Paid
+4804,Bank Transfer,121.36,Refunded
+4805,Credit Card,55.27,Paid
+4806,Apple Pay,1674.87,Paid
+4807,Credit Card,434.38,Paid
+4808,Credit Card,736.71,Paid
+4809,UPI,227.96,Refunded
+4810,Debit Card,293.11,Paid
+4811,PayPal,373.45,Paid
+4812,Debit Card,376.4,Paid
+4813,Bank Transfer,764.6,Paid
+4814,Credit Card,317.52,Paid
+4815,PayPal,210.06,Paid
+4816,PayPal,174.11,Paid
+4817,Credit Card,245.53,Paid
+4818,Apple Pay,62.54,Refunded
+4819,Credit Card,37.35,Paid
+4820,Bank Transfer,253.22,Refunded
+4821,Apple Pay,359.11,Paid
+4822,Bank Transfer,476.24,Paid
+4823,Apple Pay,874.51,Paid
+4824,UPI,138.51,Refunded
+4825,UPI,266.09,Refunded
+4826,Apple Pay,1784.66,Paid
+4827,UPI,147.85,Refunded
+4828,PayPal,127.9,Paid
+4829,UPI,758.63,Paid
+4830,Bank Transfer,336.4,Refunded
+4831,Credit Card,407.04,Refunded
+4832,PayPal,373.08,Refunded
+4833,UPI,209.26,Refunded
+4834,UPI,407.42,Refunded
+4835,PayPal,55.39,Refunded
+4836,UPI,448.31,Paid
+4837,Credit Card,89.95,Paid
+4838,Bank Transfer,714.36,Paid
+4839,Bank Transfer,111.62,Paid
+4840,Credit Card,861.52,Paid
+4841,Bank Transfer,84.97,Paid
+4842,Bank Transfer,2336.25,Paid
+4843,UPI,1276.24,Refunded
+4844,Debit Card,1634.79,Paid
+4845,Debit Card,523.76,Paid
+4846,Apple Pay,483.28,Paid
+4847,UPI,4848.43,Refunded
+4848,Credit Card,2247.79,Paid
+4849,UPI,1221.62,Paid
+4850,Debit Card,3764.68,Paid
+4851,Apple Pay,43.49,Paid
+4852,PayPal,51.75,Paid
+4853,Credit Card,84.61,Refunded
+4854,Debit Card,451.63,Paid
+4855,Bank Transfer,255.44,Paid
+4856,Bank Transfer,144.75,Paid
+4857,Apple Pay,142.93,Paid
+4858,Debit Card,351.51,Paid
+4859,Debit Card,93.13,Refunded
+4860,UPI,3041.73,Paid
+4861,PayPal,258.59,Paid
+4862,Debit Card,757.68,Paid
+4863,PayPal,350.06,Paid
+4864,Apple Pay,181.38,Paid
+4865,UPI,2756.24,Paid
+4866,Apple Pay,333.22,Paid
+4867,Apple Pay,112.63,Paid
+4868,Debit Card,344.18,Paid
+4869,Debit Card,568.82,Paid
+4870,Bank Transfer,138.73,Paid
+4871,PayPal,1210.94,Refunded
+4872,Bank Transfer,696.46,Paid
+4873,Debit Card,88.43,Paid
+4874,UPI,1054.55,Paid
+4875,Bank Transfer,210.16,Refunded
+4876,Apple Pay,476.81,Paid
+4877,Debit Card,131.59,Paid
+4878,Bank Transfer,433.48,Paid
+4879,PayPal,2565.24,Refunded
+4880,PayPal,125.67,Paid
+4881,Bank Transfer,168.18,Paid
+4882,UPI,87.04,Paid
+4883,UPI,162.95,Paid
+4884,Apple Pay,288.33,Paid
+4885,Bank Transfer,227.7,Paid
+4886,Bank Transfer,313.35,Paid
+4887,Apple Pay,1109.6,Paid
+4888,Debit Card,405.93,Paid
+4889,Apple Pay,1121.34,Paid
+4890,Debit Card,668.92,Paid
+4891,Credit Card,937.4,Refunded
+4892,Debit Card,2275.99,Refunded
+4893,Bank Transfer,277.02,Refunded
+4894,PayPal,137.83,Refunded
+4895,Apple Pay,186.75,Paid
+4896,Debit Card,559.14,Paid
+4897,Apple Pay,1057.42,Paid
+4898,PayPal,308.52,Paid
+4899,Credit Card,471.52,Refunded
+4900,Apple Pay,422.4,Paid
+4901,PayPal,132.27,Paid
+4902,Credit Card,85.87,Paid
+4903,Debit Card,296.93,Paid
+4904,Apple Pay,598.05,Paid
+4905,Bank Transfer,454.69,Paid
+4906,UPI,252.26,Paid
+4907,Apple Pay,393.1,Paid
+4908,Apple Pay,344.82,Paid
+4909,PayPal,26.17,Refunded
+4910,Credit Card,208.26,Refunded
+4911,Apple Pay,1770.12,Paid
+4912,Credit Card,279.46,Refunded
+4913,UPI,383.63,Refunded
+4914,Apple Pay,122.77,Refunded
+4915,Debit Card,83.0,Paid
+4916,Debit Card,502.76,Refunded
+4917,Bank Transfer,725.52,Paid
+4918,Bank Transfer,169.41,Paid
+4919,PayPal,585.16,Refunded
+4920,Bank Transfer,30.9,Paid
+4921,Bank Transfer,2989.28,Paid
+4922,Credit Card,78.72,Paid
+4923,Credit Card,235.52,Paid
+4924,Credit Card,112.5,Paid
+4925,Apple Pay,181.41,Refunded
+4926,Apple Pay,251.38,Refunded
+4927,UPI,399.5,Paid
+4928,PayPal,372.53,Paid
+4929,UPI,29.52,Paid
+4930,UPI,1173.43,Paid
+4931,PayPal,1074.76,Paid
+4932,PayPal,234.44,Paid
+4933,UPI,220.39,Paid
+4934,UPI,126.72,Paid
+4935,PayPal,1541.48,Paid
+4936,Debit Card,912.43,Paid
+4937,PayPal,525.56,Paid
+4938,PayPal,397.08,Refunded
+4939,Debit Card,163.17,Paid
+4940,Debit Card,1068.16,Paid
+4941,Apple Pay,51.31,Paid
+4942,UPI,43.34,Refunded
+4943,Bank Transfer,253.23,Paid
+4944,UPI,56.47,Paid
+4945,Credit Card,107.6,Paid
+4946,PayPal,77.11,Paid
+4947,Bank Transfer,526.48,Paid
+4948,PayPal,125.57,Refunded
+4949,Credit Card,38.21,Paid
+4950,Bank Transfer,1621.47,Refunded
+4951,Credit Card,342.0,Paid
+4952,UPI,1327.86,Paid
+4953,Bank Transfer,120.19,Paid
+4954,PayPal,332.73,Refunded
+4955,Debit Card,252.36,Paid
+4956,PayPal,63.19,Paid
+4957,Credit Card,322.83,Refunded
+4958,Bank Transfer,268.64,Paid
+4959,Bank Transfer,182.57,Paid
+4960,Apple Pay,209.99,Paid
+4961,Bank Transfer,1276.27,Paid
+4962,Debit Card,190.18,Paid
+4963,Debit Card,304.96,Paid
+4964,UPI,92.77,Paid
+4965,UPI,797.99,Paid
+4966,PayPal,96.79,Paid
+4967,Bank Transfer,76.35,Refunded
+4968,Credit Card,190.44,Paid
+4969,Debit Card,404.04,Paid
+4970,Debit Card,162.81,Paid
+4971,PayPal,66.59,Paid
+4972,Debit Card,944.72,Paid
+4973,UPI,989.25,Paid
+4974,PayPal,2156.97,Paid
+4975,Bank Transfer,573.57,Paid
+4976,PayPal,1095.43,Paid
+4977,Credit Card,788.1,Paid
+4978,PayPal,1607.99,Refunded
+4979,Apple Pay,318.26,Paid
+4980,Credit Card,116.77,Paid
+4981,Apple Pay,935.29,Refunded
+4982,Bank Transfer,617.29,Paid
+4983,PayPal,1863.12,Paid
+4984,Credit Card,344.62,Paid
+4985,UPI,2263.3,Refunded
+4986,Debit Card,409.92,Paid
+4987,Bank Transfer,3735.76,Paid
+4988,Credit Card,33.99,Paid
+4989,Credit Card,816.06,Paid
+4990,Credit Card,842.02,Paid
+4991,Bank Transfer,890.48,Paid
+4992,UPI,44.29,Refunded
+4993,PayPal,1099.85,Paid
+4994,Apple Pay,104.79,Paid
+4995,UPI,507.98,Paid
+4996,Debit Card,816.14,Refunded
+4997,Apple Pay,288.94,Refunded
+4998,UPI,56.64,Paid
+4999,PayPal,159.23,Paid
+5000,Debit Card,387.34,Paid
