@@ -1,4 +1,4 @@
-E-Commerce Project Dataset
+E-Commerce Sales Performance Analysis
 
 Files:
 - customers.csv: customer-level data
